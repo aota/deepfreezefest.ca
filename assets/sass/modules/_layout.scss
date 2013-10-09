@@ -1,0 +1,26 @@
+.l-utility {
+  background: $black;
+  padding: 0.25em 0;
+  color: transparentize($white, 0.5);
+
+  p {
+    font-size: $micro;
+    margin: 0;
+  }
+
+
+  a {
+    color: transparentize($white, 0.5);
+    &:hover {
+      color: $white;
+    }
+  }
+}
+
+// helper class to add space between blocks when they are stacked in mobile view...
+.l-break {
+  margin-bottom: 1em;
+  @media #{$small} {
+    margin-bottom: 0;
+  }
+}

@@ -1,0 +1,41 @@
+---
+layout: base
+---
+
+<div class="row">
+  <div class="columns large-8">
+    {{ content }}
+  </div>
+  <div class="large-4 columns">
+    {% capture key %}{{ page.path | downcase }}{% endcapture %}
+    {% case key %}
+      {% when 'about.md' %}
+        {% capture sidebar %}{% include side_about.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'greetings.md' %}
+        {% capture sidebar %}{% include side_greetings.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'volunteer.md' %}
+        {% capture sidebar %}{% include side_volunteer.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'media.md' %}
+        {% capture sidebar %}{% include side_media.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'theatre.md' %}
+        {% capture sidebar %}{% include side_theatre.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'whats-on.md' %}
+        {% capture sidebar %}{% include side_whats_on.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'arts-wares.md' %}
+        {% capture sidebar %}{% include side_arts_wares.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'workshops.md' %}
+        {% capture sidebar %}{% include side_workshops.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'donate.md' %}
+        {% capture sidebar %}{% include side_donate.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+    {% endcase %}
+  </div>
+</div>

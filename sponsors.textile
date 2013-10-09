@@ -1,0 +1,161 @@
+---
+layout: full
+permalink: /sponsors/
+title: Sponsors
+---
+
+{% comment %}
+  This page is in Textile (not Markdown) because I needed to mix HMTL with one or the other and Markdown sucks for that.
+  If there are any issues with this it probably just needs to be a straight HTML page.
+{% endcomment %}
+
+h1. Sponsors
+
+h2. Thank You, Supporters & Partners
+
+Creating a free arts festival is unheard of in today’s world. So, how does Kaleido do it? With an incredible arts community, excellent supporters, super volunteers, and friends. Thank you supporters, advertisers, partners, fellow community-builders and artists for believing in the vision of Kaleido Family Arts Festival. Your generosity is sincerely appreciated.
+
+h3. Thank You Partners
+
+<img src="{{ site.uploads }}kaleido-partners.jpg" alt="Kaleido partner logos">
+
+{% comment %}
+<ul class="small-block-grid-4 large-block-grid-8">
+  <li><img src="{{ site.uploads }}logo-630ched.jpg" alt="630 CHED"></li>
+  <li><img src="{{ site.uploads }}logo-EdmJournal.jpg" alt="Edmonton Journal"></li>
+  <li><img src="{{ site.uploads }}logo-Global.jpg" alt="Global Edmonton"></li>
+  <li><img src="{{ site.uploads }}logo-TravelAlberta.jpg" alt="Travel Alberta"></li>
+  <li><img src="{{ site.uploads }}logo-Northlands.jpg" alt="Northlands"></li>
+  <li><img src="{{ site.uploads }}logo-rotary.jpg" alt="Northeast Rotary"></li>
+  <li><img src="{{ site.uploads }}logo-TimHortons.jpg" alt="Tim Horton's"></li>
+  <li><img src="{{ site.uploads }}logo-AABA.jpg" alt="Alberta Avenue Business Association"></li>
+  <li><img src="{{ site.uploads }}logo-BleedingHeart.jpg" alt="Bleading Heart"></li>
+  <li><img src="{{ site.uploads }}logo-nina.jpg" alt="Nina"></li>
+  <li><img src="{{ site.uploads }}logo-avenue.jpg" alt="Avenue Edmonton"></li>
+  <li><img src="{{ site.uploads }}logo-AACL.jpg" alt="Alberta Avenue Community League"></li>
+  <li><img src="{{ site.uploads }}logo-wc.jpg" alt="West Canadian"></li>
+  <li><img src="{{ site.uploads }}logo-RestoreHabitat.jpg" alt="ReStore Habitat"></li>
+  <li><img src="{{ site.uploads }}logo-vineyardchurch.jpg" alt="Avenue Vineyard Church"></li>
+  <li><img src="{{ site.uploads }}logo-EpicPhoto.jpg" alt="epic photography"></li>
+  <li><img src="{{ site.uploads }}logo-folkfest.jpg" alt="Edmonton Folk Music Festival"></li>
+  <li><img src="{{ site.uploads }}logo-NNAwName.jpg" alt="Norwood Neighbourhood Association"></li>
+  <li><img src="{{ site.uploads }}logo-bedouinbeats.jpg" alt="Bedouin Beats"></li>
+  <li><img src="{{ site.uploads }}logo-TheCarrot.jpg" alt="The Carrot"></li>
+  <li><img src="{{ site.uploads }}logo-EPL.jpg" alt="Edmonton Public Library"></li>
+  <li><img src="{{ site.uploads }}logo-SaveOn.jpg" alt="Save-on Foods"></li>
+  <li><img src="{{ site.uploads }}logo-925Fresh.jpg" alt="92.5 Fresh FM"></li>
+  <li><img src="{{ site.uploads }}logo-cisn.jpg" alt="CISN FM"></li>
+  <li><img src="{{ site.uploads }}logo-SuttonPlace.jpg" alt="Sutton Place Hotel"></li>
+  <li><img src="{{ site.uploads }}logo-ABCWeddings.jpg" alt="ABC Weddings"></li>
+  <li><img src="{{ site.uploads }}logo-inews880.jpg" alt="iNews 880"></li>
+</ul>
+{% endcomment %}
+
+h3. Thank You Supporters
+
+<img src="{{ site.uploads }}kaleido-supporters.jpg" alt="Kaleido supporter logos">
+
+{% comment %}
+<ul class="small-block-grid-4 large-block-grid-8">
+  <li><img src="{{ site.uploads }}logo-edmonton.jpg" alt="City of Edmonton"></li>
+  <li><img src="{{ site.uploads }}logo-AFA.jpg" alt="Alberta Foundation for the Arts"></li>
+  <li><img src="{{ site.uploads }}logo-EAC.jpg" alt="Edmonton Arts Council"></li>
+  <li><img src="{{ site.uploads }}logo-AvenueInt.jpg" alt="Avenue Initiative Revitalization"></li>
+  <li><img src="{{ site.uploads }}logo-AbLotteries.jpg" alt="Alberta Lottery Fund"></li>
+  <li><img src="{{ site.uploads }}logo-we.jpg" alt="Williams Engineering"></li>
+  <li><img src="{{ site.uploads }}logo-ECF.jpg" alt="Edmonton Community Foundation"></li>
+  <li><img src="{{ site.uploads }}logo-ATB.jpg" alt="ATB Financial"></li>
+</ul>
+{% endcomment %}
+
+h2. Sponsors
+
+<div class="row">
+  <div class="columns large-6">
+
+
+h3. Cadmium Red Supporters $15,000+
+
+* 630 CHED | Corus Entertainment
+* ABC Weddings
+* Alberta Foundation for the Arts
+* Alberta Lottery Fund
+* Avenue Initiative
+* CISN
+* City of Edmonton
+* Edmonton Arts Council
+* Edmonton Journal
+* Global Edmonton
+* iNews880
+* Northlands
+* 92.5 Fresh FM
+
+h3. Phthalo Green Supporters $2000 – $15,000
+
+* ATB Financial
+* Avenue Theatre
+* Don’s Piano Warehouse
+* Edmonton Community Foundation
+* Farafina African Arts Festival
+* Halina Boisvert
+* Habitat for Humanity
+* McCallum Printing
+* Mr. and Mrs. J. Bots
+* Edmonton Folk Music Festival
+* Mr. & Mrs. D. A. Morin
+* Dr. Robert Hauptman
+* Norwood Neighbourhood Association
+* Rotary Club of Edmonton Northeast
+* Save-On Foods
+* Sprucewood Branch of the Edmonton Public Library
+* The Sutton Place Hotel
+* West Canadian
+* Williams Engineering
+* zando & jot
+
+</div>
+<div class="columns large-6">
+
+h3. Cerulean Blue Supporters $250 – $2000
+
+* Alberta Avenue Business Association
+* Arts Habitat
+* Arts Hub 118
+* Avenue Magazine
+* Avenue Vineyard Community Church
+* Axe Productions
+* Bedouin Beats
+* Bottomline Productions Inc.
+* Copy City
+* Donair Express
+* Dr. David L. Milner
+* Edward Allen Photography
+* Epic Photography
+* Habitat for Humanity ReStore
+* Handi-Can
+* Hong De Cultural & Athletic Association
+* L’ACFA
+* Local 488
+* Long & McQuade
+* M.B. Barber Shop
+* Myhres Music
+* Netti Spaghetti
+* Nina Haggerty Centre for the Arts
+* Nightlife
+* Paraiso Tropical
+* Peterson Buick GMC
+* Qi Creative - Jon Rivero
+* Save-On-Foods Stadium
+* Servus Credit Union
+* The Parish Church of St. Faith’s & St. Stephen the Martyr
+* The Edmonton Chapter
+* sign-x limited
+* Studebaker Drivers Club Inc.
+* Tim Horton’s (82 St. - 128 Ave)
+* The Rat Creek Press
+* Theatre Network
+* X-L Furniture
+* Yukon Brewery
+
+  </div>
+</div>

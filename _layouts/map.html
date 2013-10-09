@@ -1,0 +1,68 @@
+---
+layout: base
+---
+
+<div class="row">
+  <div class="column large-8">
+    {% if page.headline %}<h1>{{ page.headline }}</h1>{% endif %}
+    <div id="map" class="map"></div>
+  </div>
+  <div class="columns large-4">
+    <h2>Venues</h2>
+    <ol class="listless">
+      <li><span class="ordinal ordinal-small">1</span>630 CHED Avenue Central Stage</li>
+      <li><span class="ordinal ordinal-small">2</span>The Carrot Community Arts Coffeehouse</li>
+      <li><span class="ordinal ordinal-small">3</span>Don’s Grand Piano Gallery Stage</li>
+      <li><span class="ordinal ordinal-small">4</span>B<sup>2</sup> & B There Stage (In St. Faith’s Church)</li>
+      <li><span class="ordinal ordinal-small">5</span>Bedouin Beats Caravan Stage</li>
+      <li><span class="ordinal ordinal-small">6</span>Arts Hub 118, Back Balcony</li>
+      <li><span class="ordinal ordinal-small">7</span>Nina Haggerty Centre for the Arts</li>
+      <li><span class="ordinal ordinal-small">8</span>The Studio (Independent Gallery)</li>
+      <li><span class="ordinal ordinal-small">9</span>Studio Alley Stage</li>
+      <li><span class="ordinal ordinal-small">10</span>Kaleido Theatre (Alberta Avenue Community League)</li>
+    </ol>
+
+    <!-- <h2>Galleries</h2>
+    <ol class="listless">
+      <li>Nina Haggerty Centre for the Arts</li>
+      <li>B<sup>2</sup> &amp; B There Gallery</li>
+      <li>The Carrot Community Arts Coffeehouse</li>
+      <li>The Studio (Independent Gallery)</li>
+    </ol> -->
+
+  </div>
+</div>
+
+<div class="row">
+  <div class="columns large-8">
+    {{ content }}
+  </div>
+  <div class="columns large-4">
+  <!-- download PDF map -->
+  </div>
+</div>
+
+
+<script>
+  // initialize the map on the "map" div
+  var opts = {
+    scrollWheelZoom: false,
+    center: [-67.34,-68.91],
+    zoom: 2,
+    // center: [-73.07,-76.46],
+    // zoom: 3,
+    zoomControl: !Modernizr.touch,
+    fullscreenControl: true,
+    attributionControl: false
+  };
+
+  var map = L.map('map', opts);
+
+  // festival map image TMS layer
+  L.tileLayer('/maptiles/{z}/{x}/{y}.png', {
+      maxZoom: 5,
+      minZoom: 1,
+      tms: true
+  }).addTo(map);
+
+</script>

@@ -1,0 +1,35 @@
+.timetable {
+	width: 100%;
+  margin-bottom: 10px;
+
+  tr > td {
+    color: $secondary-color;
+  }
+  tr:nth-child(2n) > td {
+    color: $primary-color;
+  }
+
+  td > small {
+    display: block;
+    font-size: 80%;
+  }
+
+  @media #{$small} {
+    margin-bottom: 30px;
+  }
+}
+
+.timetable-hour {
+  width: 90px;
+}
+
+.timetable-length {
+  white-space: nowrap;
+  font-size: 80%;
+  &:before {
+    content: "{";
+  }
+  &:after {
+    content: "}";
+  }
+}

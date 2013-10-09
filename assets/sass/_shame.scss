@@ -1,0 +1,16 @@
+.caption {
+  display: block;
+  font-size: $micro;
+  font-style: italic;
+  margin-top: 0.5em;
+}
+
+.listless {
+  margin-left: 0;
+  margin-right: 0;
+  list-style: none;
+}
+
+input[type="image"] {
+  max-width: 100%;
+}

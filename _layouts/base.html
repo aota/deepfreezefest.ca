@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>{% unless page.url == '/' %}{{ page.title }} | {% endunless %}{{ site.name }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.permalink %}<link rel="canonical" href="{{ site.url }}{{ page.url }}">{% endif %}
+  <link rel="stylesheet" href="{{ site.assets }}css/main.css" />
+  <link rel="shortcut icon" href="/favicon.png">
+
+  <script src="{{ site.assets }}js/vendor/custom.modernizr.js"></script>
+
+  <script type="text/javascript" src="//use.typekit.net/zbv5emm.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+  <!--[if lte IE 8]>
+      <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
+  <![endif]-->
+  <link rel="stylesheet" href="{{ site.assets }}js/vendor/Leaflet.fullscreen/leaflet.fullscreen.css">
+  <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+  <script src="{{ site.assets }}js/vendor/Leaflet.fullscreen/Leaflet.fullscreen.js"></script>
+
+  {% comment %}
+    see http://developers.facebook.com/docs/opengraph/creating-object-types/#properties
+    <meta name="og:image" content="{% if page.image %}{{ site.url }}/{{ page.image }}{% else %}{{ site.url }}{{ site.assetpath }}images/logo-lift.png{% endif %}" />
+  {% endcomment %}
+  <!-- facebook open graph meta tags -->
+  <meta name="og:title" content="{{ page.title }}" />
+  <meta name="og:url" content="{{ site.url }}{{ page.url }}" />
+
+  <meta name="og:type" content="{% if page.date %}article{% else %}website{% endif %}" />
+  <meta name="og:description" content="{% if page.description %}{{ page.description }}{% else %}{% if page.lead %}{{ page.lead }}{% else %}{{ site.description }}{% endif %}{% endif %}">
+  <meta name='og:site_name' content='{{ site.name }}'>
+  <meta name='fb:page_id' content='197734780274855'>
+</head>
+<body>
+
+
+<div class="l-utility">
+  <div class="row">
+    <div class="column">
+      <p class="right">
+        Produced by
+        <a href="http://artsontheave.org">Arts on the Ave</a> |
+        <a href="http://www.facebook.com/pages/Kaleido-Family-Arts-Festival/197734780274855">Facebook</a> |
+        <a href="http://twitter.com/KaleidoFestival">Twitter</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="banner">
+  <div class="row">
+    <div class="large-12 columns">
+    {% if page.banner %}
+    {% capture banner_count %}{{ page.banner | size }}{% endcapture %}
+      {% if banner_count == '1' %}
+        <img src="{{ page.banner }}" alt="" />
+      {% else %}
+        <ul data-orbit>
+        {% for slide in page.banner %}
+          <li><img src="{{ slide }}" alt="" /></li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+    {% else %}
+      <img src="{{ site.assets }}img/banner-small.jpg" alt="" />
+    {% endif %}
+    </div>
+  </div>
+</div>
+
+
+<div class="top-bar-wrap">
+  <div class="row">
+    <nav class="top-bar">
+
+      <ul class="title-area">
+        <!-- Title Area -->
+        <li class="name">
+          {% comment %}<h1><a href="#">Clickable Top Bar</a></h1>{% endcomment %}
+        </li>
+        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+      </ul>
+
+
+      <section class="top-bar-section">
+
+        <ul class="left">
+          <li><a href="/">Home</a></li>
+          <!-- <li><a href="/about/">About</a></li> -->
+          <li class="has-dropdown"><a href="/about/">About</a>
+            <ul class="dropdown">
+              <li><a href="/greetings/">Greetings</a></li>
+              <li><a href="/media/">Media</a></li>
+              <li><a href="/sponsors/">Sponsors</a></li>
+              <!-- <li><a href="/about/photos/">Photo Gallery</a></li> -->
+            </ul>
+          </li>
+          <li><a href="/location/">Location</a></li>
+          <li><a href="/schedule/">Schedule</a></li>
+          <li class="has-dropdown"><a href="/whats-on/">What's On</a>
+            <ul class="dropdown">
+              <li><a href="/whats-on/theatre/">Theatre</a></li>
+              <!-- <li><a href="/whats-on/lantern-parade/">Lantern Parade</a></li> -->
+              <li><a href="/whats-on/arts-wares/">Arts &amp; Wares</a></li>
+              <li><a href="/whats-on/workshops/">Workshops</a></li>
+              <!-- <li><a href="/whats-on/show-shine/">Show &amp; Shine</a></li> -->
+            </ul>
+          </li>
+          <li class="has-dropdown"><a href="#">Get Involved</a>
+            <ul class="dropdown">
+              <li><a href="/volunteer/">Volunteer</a></li>
+              <li><a href="/donate/">Donate</a></li>
+            </ul>
+          </li>
+          <li><a href="/news/">News</a></li>
+        </ul>
+
+      </section>
+    </nav>
+  </div>
+</div>
+
+
+  {{ content }}
+
+
+  <!-- Footer -->
+
+  <footer class="row">
+    <div class="large-12 columns">
+      <hr />
+      <div class="row">
+        <div class="large-6 columns">
+          <p>&copy; Copyright <a href="http://artsontheave.org">Arts on the Ave</a></p>
+        </div>
+        <div class="large-6 columns">
+          <ul class="inline-list right">
+            <li><a href="/sponsors/">Sponsors</a></li>
+            <li><a href="/volunteer/">Volunteer</a></li>
+            <li><a href="/donate/">Donate</a></li>
+            <li><a href="/location/">Location</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+  <script>
+    document.write('<script src=' +
+    ('__proto__' in {} ? '{{ site.assets }}js/vendor/zepto' : '{{ site.assets }}js/vendor/jquery') +
+    '.js><\/script>')
+  </script>
+
+  <script src="{{ site.assets }}js/vendor/underscore-min.js"></script>
+  <script src="{{ site.assets }}js/vendor/d3.csv.js"></script>
+  <script src="{{ site.assets }}js/foundation/foundation.js"></script>
+  <script src="{{ site.assets }}js/foundation/foundation.orbit.js"></script>
+  <script src="{{ site.assets }}js/foundation/foundation.topbar.js"></script>
+  <script src="{{ site.assets }}js/foundation/foundation.dropdown.js"></script>
+  <script src="{{ site.assets }}js/foundation/foundation.section.js"></script>
+
+  <script>
+    // kick off Foundation plugins
+    $(document).foundation();
+
+
+    // link artists in schedule to data from Google spreadsheet
+    var bios_url = 'https://docs.google.com/spreadsheet/pub?key=0AoKtH4sykA8IdEx4RU1xaFUzemtwUXI1TnlLWlF4NlE&output=csv';
+    if(true) {
+      d3.csv(bios_url, function(data) {
+
+        // capture interaction artist bio popups
+        $('.timetable > tbody > tr').mouseover(function(){
+          var key = $(this).data('artist-key')
+          var artist = false
+
+          if (!key) return;
+
+          artist = _.find(data, function(item){
+            return $.trim( item.Artist ) === key
+          })
+
+          if (!artist) return;
+
+          if (window.console) console.log(artist);
+
+
+        })
+
+
+      })
+    }
+  </script>
+
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-42370179-1', 'kaleidofest.ca');
+    ga('send', 'pageview');
+  </script>
+  <!-- END Google Analytics -->
+
+</body>
+</html>

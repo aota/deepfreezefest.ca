@@ -1,0 +1,9 @@
+.map {
+  height: 300px;
+  width: 100%;
+  margin-bottom: 2em;
+
+  @media #{$small} {
+    height: 500px;
+  }
+}

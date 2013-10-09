@@ -1,0 +1,15 @@
+permalink: /log/:title/
+relative_permalinks: false
+markdown: rdiscount
+timezone: America/Edmonton
+exclude: [.gitignore, .editorconfig, Gemfile, Gemfile.lock, README.md, 'sass']
+
+name: "Deep Freeze: A Byzantine Winter Festival"
+url: http://deepfreezefest.ca
+description: "The Deep Freeze Festival is organized by The Arts on the Ave Edmonton Society, a non-profit, community based, grassroots initiative engaged in development of 118th Avenue into a community arts district."
+assets: /assets/
+uploads: /uploads/
+
+prose:
+  siteurl: http://deepfreezefest.ca
+  media: uploads

@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Eli Dupuis -- web dev -- @elidupuis
+    Jessa Dupuis -- design & management -- @jessadupuis
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    ZURB Foundation
+    Normalize.css, Zepto, jQuery, Modernizr
+    Jekyll, Github Pages

@@ -1,0 +1,6 @@
+.stage {
+  margin-bottom: 2em;
+  @media #{$small} {
+    margin-bottom: 0;
+  }
+}

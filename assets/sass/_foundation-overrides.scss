@@ -1,0 +1,31 @@
+.orbit-bullets {
+	position: absolute;
+	margin: 0 0 1em 1em;
+	bottom: 0;
+	top: auto;
+}
+
+.top-bar {
+  margin-bottom: 0;
+  font-family: $header-font-family;
+  font-weight: $header-font-weight;
+}
+.top-bar-wrap {
+  background: $topbar-bg;
+  border-bottom: 4px solid $primary-color;
+  margin-bottom: $topbar-margin-bottom;
+  font-family: $header-font-family;
+}
+.top-bar-section ul li > a {
+  font-size: emCalc(18px);
+  padding-top: 8px;
+  padding-bottom: 8px;
+  @media #{$topbar-media-query} {
+    font-size: emCalc(22px);
+  }
+}
+.top-bar-section .dropdown li a {
+  @media #{$topbar-media-query} {
+    font-size: emCalc(20px);
+  }
+}
