@@ -7,43 +7,48 @@ title: Greetings
 # Greetings
 
 
-## Message From The Artistic Director
+## Message from the Honourable James Moore
 
-**Christy Morin, Founder / Executive Director, Arts on the Ave Edmonton Society**
+Welcome to the 2013 Deep Freeze Byzantine Winter Festival.
 
-My family welcomes you to Kaleido!
+Our Government understands how important arts and culture are to strengthening our communities and our economy. As we approach Canada’s 150th birthday celebrations in 2017, we are proud to invest in projects like this festival that contribute to our collective identity and define who we are as Canadians. Deep Freeze offers a rich program of events for residents and visitors to the Edmonton region and lets people of all ages and backgrounds revel in the magic and beauty of winter.
 
-It takes a community to raise and nurture a festival, just as it takes a village to raise a child. We thank each of you for sharing in the beauty of the arts and our great historic neighbourhood. Thank you to our fantastic production team, sponsors, partners and phenomenal artists for your time, talents and gifts.
+On behalf of Prime Minister Stephen Harper and the Government of Canada, I would like to thank Arts on the Ave Edmonton Society and all the organizers, performers, and volunteers who have helped bring this year’s Deep Freeze to life. Best wishes for a successful festival!
 
-**This year we want to remember and give honour to Don Snider. Don was our Production Site Manager for many years. He brought incredible insight, wisdom and love to our community and team. Don “got” what Kaleido is and shared the vision with many. Don, we love you and miss
-you dearly. You will always be cherished.**
+Sincerely,
 
-Here’s to Don! Life is beautiful. Enjoy the festival.
+_The Honourable James Moore_
 
-Christy Morin
+* * *
 
+## 
 
+## Message from the Honourable Heather Klimchuk
 
-## His Worship Mayor Stephen Mandel
+Minister of Culture and Community Services
 
-On behalf of City Council and the people of Edmonton, Alberta’s Capital City,  I’d like to welcome everyone attending the Kaleido Family Arts Festival.
+On behalf of the Government of Alberta, it is my pleasure to welcome everyone to the 2013 Deep Freeze: A Byzantine Winter Festival.
 
-Edmonton is proud of its exceptional arts community, and our summer festivals showcase many brilliant aspects of this community. The Kaleido Family Arts Festival will bring guests to Alberta Avenue to view more than 300 acts in a fun and interactive atmosphere. With dancers on rooftops, hip hop artists in the alley, singing, theatre and fine arts, the festival is sure to be a thrilling and colourful gathering of the season.
+From ice sculpting to musical performances, deep freezer races to fireworks, this annual event is about embracing winter’s best activity: having fun!
 
-Thank you to Arts on the Ave for taking initiative to cultivate fellowship and community connection by promoting artistic expression in Edmonton. Your commitment to providing a canvas on which countless artists and art forms can unfold inspires the hearts and minds of many and makes our city a brighter, stronger place to live.
-Best wishes for a successful festival!
+My thanks to all organizers and volunteers for uniting Edmontonians to celebrate our cultural diversity and experience the best winter has to offer.
 
-Yours Truly, Stephen Mandel
+Enjoy the festivities!
 
+_Heather Klimchuk | Minister_
 
-## The Honourable Heather Klimchuk
+* * *
 
-**Minister of Culture**
+## Message from his Worship Mayor Stephen Mandel
 
-As Minister responsible for Alberta’s vibrant culture sector, it is my great pleasure to welcome Edmontonians and visitors alike to the 2013 Kaleido Family Arts Festival.
+On behalf of City Council and the people of Edmonton, Alberta’s Capital City, it is my pleasure to welcome everyone to the Wild West Deep
 
-Like a kaleidoscope uses light to transform glass into vivid, constantly changing shapes and colours, culture has the power to transform, vitalize and brighten communities, making them even better places to live, work and raise a family. Arts on the Ave and the Kaleido Family Arts Festival demonstrate this transformative power, turning Alberta Avenue into a hub for creative exploration and a stage for Albertan artists to showcase their talents.
+Freeze Festival.
 
-My thanks to Arts on the Ave for presenting this annual event and to all the performers, artists and volunteers for their invaluable contributions.
+The Deep Freeze Festival brings together a variety of cultures for entertainment and winter activities on Alberta Avenue. Now in its sixth year, this free family event will entice Edmontonians to embrace the magic and beauty of winter through dance, music, snow sculptures, winter sports and more.
 
-Best wishes for an enjoyable festival!
+Thank you to the Arts on the Ave Edmonton Society for celebrating Edmonton’s multicultural communities. Your efforts to keep culture thriving during our city’s darkest months help make Edmonton a more vibrant, engaged and artistically-minded northern home.
+
+Enjoy the festival!
+
+_Stephen Mandel | Mayor_

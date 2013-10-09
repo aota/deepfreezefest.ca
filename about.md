@@ -7,19 +7,8 @@ published: true
 
 # About
 
-## Kaleido Family Arts Festival
+## Deep Freeze: A Byzantine Winter Festival
 
-Alberta Avenue comes alive with a free arts festival featuring music, dance, theatre, film, literary, and visual arts.
+We are pleased to announce that the sixth-annual **Deep Freeze: Byzantine Winter Festival will be held on January 12th and 13th, 2013** and will be situated along four closed blocks of Alberta (118th) Avenue between 90th and 94th Streets. This winter adventure celebrates the Russian/Ukrainian “Olde New Year” and embraces the cold northern climate by melding artistic panache with authentic cultural and heritage winter games and fun.
 
-Artists collide in an environment of creative exploration and performances on rooftops, sides of buildings, back alleys, parks, old spaces and new spaces of 118<sup>th</sup> Avenue. You have the see it to believe it! Where won’t an artist be?
-
-Kaleido is produced by Arts on the Ave.
-
-
-## Arts on the Ave
-
-We are pleased to celebrate our eighth year with you! At its core, Arts on the Ave believes in cultivating artistic fellowship through arts celebrations, signature art festivals, and traditions. The Society’s goals are to nurture creative environments and to create opportunities for everyone to experience the joy of artistic expression. Arts on the Ave is composed of visual and performance artists, literary and film artists, photographers, and musicians who collaborate and create in the 118<sup>th</sup> Avenue district between NAIT and Northlands.
-
-The signature projects of Arts on the Ave are Kaleido Family Arts Festival, Deep Freeze: A Winter Byzantine Festival, The Carrot Community Arts Coffeehouse, and Social Art Experiences.
-
-Visit [artsontheave.org](http://artsontheave.org).
+The Deep Freeze Winter Festival is a free family event that brings together the Ukrainian, Franco-Albertan, Franco-African, First Nations, and Acadian/East Coast communities to revel in the magic and beauty of winter. This year’s theme **The Wild West **will offer exiting opportunities for both patrons and artists creating unexpected experiences celebrating the community through its urban landscape and exceptional spaces.
