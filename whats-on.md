@@ -13,11 +13,13 @@ The Deep Freeze Winter Festival is a free family event that brings together the 
 
 ## January 11, 2014
 **118 AVE, 90 - 94 ST**
+
 On Saturday, January 11th, revel in French Canadian Heritage with music, cuisine, and dance. Enjoy tourtière (meat pie) and tarte au sucre (sugar pie), tap your spoons and visit the delicious cabane à sucre for la tire (iced maple taffy on a stick). Patrons are invited to watch the ‘Three Block Challenge’ ice sculpture competition taking place throughout the day and enjoy Tom Fool’s Ice and Snow Kingdom.
 Saturday evening offers The xxxxxxxxxxx Party! featuring (band name) from 7:00-11:00pm. Sample Acadian and Newfie cuisine, and then dance to the multilingual, world-beat music of (band name). (Band Name) performs globally-influenced music in an effort to give listeners and audience something far-reaching, culturally informative and Canadian. Tickets for The xxxxxxxxxxx Party! are $10 and $5 for children 10 years and under. Tickets are available at the Carrot Community Arts Coffeehouse (9351–118 Ave), Tix on the Square and at the door.
 
 ## January 12, 2014
 **118 AVE, 90 - 94 ST**
+
 Sunday, January 12th, the Festival will bring back the Julian calendar and celebrate the Olde New Year with Byzantine food and entertainment including the Village Pig a delicious fire roasted suckling pig fresh from the spot and served on a bun.  Kick up your feet with traditional Ukrainian melodies, beading, and Cheremosh Ukrainian dance.  Don’t forget to stop by the Cossack kitchen for perogies, kielbasa, lazy cabbage rolls, and borscht.
 
 On the street, families can enjoy Heritage Activities including wagon rides, outdoor ice-skating, Olde Thyme curling, winter mini golf, giant ice slide, and competition de boucheron (log cutting competition), along with street hockey tournaments and the popular Cool Runnins’ Deep Freezer Race. Further activities include demonstrations from the Society for Creative Anachronism (medieval role play), as well as storytelling, aboriginal dance and displays of aboriginal crafts and customs in outdoor Tipis.
