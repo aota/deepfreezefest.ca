@@ -1,5 +1,7 @@
 # Deep Freeze Festival
 
+**Currently setup on a temporary domain for development of the 2014 version of the site. Preview at http://deepfreeze.kaleidofest.ca. Will eventually live at http://deepfreeze.ca.**
+
 ## Content Editing
 
 Most content edits can be made via [Prose](http://prose.io). Use the [AOTA](https://github.com/aota) account.
