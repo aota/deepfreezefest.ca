@@ -1,2 +1,1 @@
-![]({{ site.uploads }}olde-curling.jpg)
-
+![olde-curling.jpg](/uploads/olde-curling.jpg)
