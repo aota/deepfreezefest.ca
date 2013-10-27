@@ -6,31 +6,20 @@ side: side_volunteer.md
 published: true
 ---
 
-# Be a Kaleido Volunteer
+# Be a Deep Freeze Volunteer
 
-Interested in being part of a wonderful community arts event on The Ave? At Kaleido Family Arts Festival 2013 we continue to build our team and would love to hear from you!
+## Heart & Soul
 
-Volunteer forms are available for download  here: [Kaleido Volunteer Form 2013]({{ site.uploads }}Kaleido-Volunteer-Form-2013.pdf). Please email your completed form to Heather at <kaleidovolunteers@gmail.com> or drop it off at the Carrot during business hours. We’re looking forward to hearing from you!
+Volunteers are the heart and soul of Arts on the Ave. Hundreds of volunteers celebrate and create new traditions together on Alberta Avenue. Their tireless efforts make our festivals and community an inspiring piece of Edmonton’s cultural fabric. Join the revolution and inspire change through volunteering, read on!
 
+## This year's theme
 
-## Meet, Greet & Sign Up (bring your friends)!
+The theme this year is The Wild West. We’ll be bringing dance, theatre, music, film, galleries, deepfreezer races, ethnic food, ice and snow sculptures, fireworks and winter sport to Alberta Ave!
 
-Meet other people involved with Kaleido!
-Get Festival leaks about who’s coming & what’s happening.
-Eat! Have fun!
+We are in need of cowboys and cowgirls to help round up the crowds – outdoor, indoor, before, during, after. Take your pick! Also need scouts (security), guides (information ambassadors), and wranglers (team leaders) ushers and fire watchers.
 
-**July 16th at the Community League at 6-8pm**
+For more information please email Heidi at <deepfreezevolunteers@gmail.com>
 
-**August 13th at the Community League at 6-8pm**
+## Online application
 
-RSVP required
-
-## Festival Training & Orientation
-
-**September 10th at the Community League from 6-9pm**
-
-Meet the team you’ll be working with & learn your job.
-Get your festival t-shirt!
-Enjoy more yummy food!
-
-RSVP required
+<iframe width="100%" height="991" frameborder="0" marginheight="0" marginwidth="0" src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDVDVE5XUU0tR1E2MXhGTmRheWthLWc6MQ"></iframe>
