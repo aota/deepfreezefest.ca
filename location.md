@@ -6,20 +6,16 @@ headline: Festival Map
 published: true
 ---
 
-## Getting to Kaleido
+## Getting to Deep Freeze
 
-Kaleido Family Arts Festival is located in the heart of Edmonton’s newest arts district, Alberta Avenue.
+Discover all the great Deep Freeze venues on the map below, or download a copy of our program. You can find the map on pages 24-25 of the program.
 
-Discover the action **along 118<sup>th</sup> Ave, between 90 and 94<sup>th</sup> streets** and beyond. <!-- You can view our full venue list and map here. -->
+## The following areas are available for public parking:
 
-Once you arrive it won’t be difficult to find us – just look for people singing from rooftops, dancing on walls, painting on the street, decorating a lamp post or performing in a local playground. Art is everywhere at Kaleido!
-
-<!-- ## Where to Park?
-As roads are closed, you’ll need to give some thought to available parking. You can find out about all of that on our road closure and parking page here. -->
-
-## Parking at Kaleido
-
-Kaleido takes place on the street, and this will have some effect on getting to the festival, as well as parking when you arrive. Here are some tips.
+- The Anglican Parishes of St Faith’s & St Stephen the Martyr’s parking lot – Saturday and Sunday after 1pm (11725 93 Street)
+- Parking lot at 117 Ave and 95 St
+- ATB (118 Ave and 88 St)
+- Street parking is available where permitted
 
 **You can park for free in the following areas:**
 
@@ -28,13 +24,11 @@ Kaleido takes place on the street, and this will have some effect on getting to 
 - 95th street 117<sup>th</sup> ave, south west parking lot
 - Street parking down 118<sup>th</sup> Ave except for closure area (see below)
 
-**Note: Saturday evening there is an Eskimos game, which means you cannot park on residential streets south of 118<sup>th</sup> Ave to 112<sup>th</sup> Ave in the Stadium area without a permit. You will be ticketed and/or towed.**
-
 There are many spaces to park, but if you can walk or take transit it helps those who cannot a great deal.
 
 
-## Road Closures at Kaleido
+## Road Closures at Deep Freeze Festival
 
-118<sup>th</sup> Ave will be closed from 90-94<sup>th</sup> Street from Friday, September 13, 2013 at 3pm until Sunday, September 15, 2013 at 8pm to make way for the Kaleido Family Arts Festival.
+118<sup>th</sup> Ave will be closed from 90-94<sup>th</sup> Street from Saturday, January 11, 2014 at 8am until Sunday, January 12, 2014 at 8pm to make way for Deep Freeze!
 
 ![map of road closures]({{ site.assets }}img/kaleido-road-closures.png)
