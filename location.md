@@ -17,13 +17,6 @@ Discover all the great Deep Freeze venues on the map below, or download a copy o
 - ATB (118 Ave and 88 St)
 - Street parking is available where permitted
 
-**You can park for free in the following areas:**
-
-- St Faith’s Anglican Church Parking Lot
-- ATB financial parking lot
-- 95th street 117<sup>th</sup> ave, south west parking lot
-- Street parking down 118<sup>th</sup> Ave except for closure area (see below)
-
 There are many spaces to park, but if you can walk or take transit it helps those who cannot a great deal.
 
 
