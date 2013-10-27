@@ -5,37 +5,22 @@ title: "What's On"
 published: true
 ---
 
-# What's On
-**Here's just a taste of some of the hundreds of acts Kaleido has in store for you. For all the juicy details, [download the full program.](http://cl.ly/QtEf/kaleido-program-2013-web.pdf)**
+# What's On!
+**Here's just a taste of some of the acts Deep Freeze has in store for you. For all the juicy details, [download the full program.](/program)**
 
-## Hip Hop K-FAF Tent with SHAD!
-**5:00 pm | 91 ST & 118 AVE**
-Awesome Juno Award winner SHAD joins up with some of Edmonton’s finest Hip Hop Artists to present a dynamic, energetic session.
+## A whole ton of viking fun in one weekend!
+The Deep Freeze Winter Festival is a free family event that brings together the Ukrainian, Franco-Albertan, Franco-African, First Nations, and Acadian/East Coast communities to revel in the magic and beauty of winter. This year’s theme of xxxxxxxVikings! will offer exciting opportunities for both patrons and artists creating unexpected experiences celebrating the community through its urban landscape and exceptional spaces.
 
-## Spandy Andy
-**94 ST AND 118 AVE SAT: 3:30 pm, SUN: 2:30 pm**
-Spandy Andy will leave you bewildered with his zany dance moves, quirky personality and vibrant spandex outfits. You can also catch him roaming the ave throughout the day!
+## January 11, 2014
+**118 AVE, 90 - 94 ST**
+On Saturday, January 11th, revel in French Canadian Heritage with music, cuisine, and dance. Enjoy tourtière (meat pie) and tarte au sucre (sugar pie), tap your spoons and visit the delicious cabane à sucre for la tire (iced maple taffy on a stick). Patrons are invited to watch the ‘Three Block Challenge’ ice sculpture competition taking place throughout the day and enjoy Tom Fool’s Ice and Snow Kingdom.
+Saturday evening offers The xxxxxxxxxxx Party! featuring (band name) from 7:00-11:00pm. Sample Acadian and Newfie cuisine, and then dance to the multilingual, world-beat music of (band name). (Band Name) performs globally-influenced music in an effort to give listeners and audience something far-reaching, culturally informative and Canadian. Tickets for The xxxxxxxxxxx Party! are $10 and $5 for children 10 years and under. Tickets are available at the Carrot Community Arts Coffeehouse (9351–118 Ave), Tix on the Square and at the door.
 
-## 12FOOT12 Installation Challenge
-**118 Ave & 91 St**
-Cheer on artists and designers as they create an installation within a 12x12x12 foot space. There’s no telling what they’ll create!
+## January 12, 2014
+**118 AVE, 90 - 94 ST**
+Sunday, January 12th, the Festival will bring back the Julian calendar and celebrate the Olde New Year with Byzantine food and entertainment including the Village Pig a delicious fire roasted suckling pig fresh from the spot and served on a bun.  Kick up your feet with traditional Ukrainian melodies, beading, and Cheremosh Ukrainian dance.  Don’t forget to stop by the Cossack kitchen for perogies, kielbasa, lazy cabbage rolls, and borscht.
 
-## Reclaimed Woodwork
-**118 AVE & 94 ST**
-Recycle, reuse! Wood artist Dale Shippit uses old or discarded pieces of wood to create fabulous functional art. Check it out and try your hand at creating your own.
+On the street, families can enjoy Heritage Activities including wagon rides, outdoor ice-skating, Olde Thyme curling, winter mini golf, giant ice slide, and competition de boucheron (log cutting competition), along with street hockey tournaments and the popular Cool Runnins’ Deep Freezer Race. Further activities include demonstrations from the Society for Creative Anachronism (medieval role play), as well as storytelling, aboriginal dance and displays of aboriginal crafts and customs in outdoor Tipis.
 
-## Snap your Joy!
-**9225 – 118 AVE (IN FRONT OF NINA HAGGERTY CENTRE FOR THE ARTS)**
-When someone smiles at you, it’s hard not to smile back, because joy is contagious. Smile in front of this unusual photo booth inspired by Soul Pancake and where people can snap their many expressions of joy, from laughter and excitement to contentment and success.
-
-## Fly On The Wall
-**Performances every hour | Nina Haggerty Centre rooftop 93 St & 118 Ave**
-Look up – what is that? Is it listening to me? Yes, it is! From Firefly Theatre, It’s a FLY ON THE WALL! www.fireflytheatre.com
-
-## Junk in Your Trunk Garage Sale
-**92 ST & 118 AVE | 12:00 – 6:00 pm**
-What happens when you take the “car” out of the “Garage”? You have an ingenious style of Garage Sale that uses the trunk of a car as the display window! Need stuff? We got stuff. Browse or Buy!
-
-## Avenue Show & Shine
-**ON THE AVE | 12:00 – 6:00 pm**
-Edmonton’s most fabulous classic cars come out to shine at Kaleido. Enjoy the beauty of these nostalgic vehicles and vote for your favourite.
+## Artisan Market & Gallery
+Festival-goers can also enjoy the Artisan Market and Gallery Sale, where artworks from over 50 visual and fine craft artists will be showcased and sold. This year we have four Art Galleries; located inside the Nina Haggerty Centre for the Arts (9225–118 Ave), The Carrot (9351–118 Ave), Avenue Theatre (9030–118 Ave) and at the independent gallery, The Studio (11739–94 Street). The Artisan Craft market is located in the Anglican Parishes of St. Faith’s and St. Stephen the Martyr (11725–93 St).
