@@ -2,6 +2,7 @@
 layout: default
 permalink: /greetings/
 title: Greetings
+published: true
 ---
 
 # Greetings
@@ -39,16 +40,10 @@ _Heather Klimchuk | Minister_
 
 * * *
 
-## Message from his Worship Mayor Stephen Mandel
+## Message from his Worship Mayor Don Iveson
 
-On behalf of City Council and the people of Edmonton, Alberta’s Capital City, it is my pleasure to welcome everyone to the Wild West Deep
-
-Freeze Festival.
-
-The Deep Freeze Festival brings together a variety of cultures for entertainment and winter activities on Alberta Avenue. Now in its sixth year, this free family event will entice Edmontonians to embrace the magic and beauty of winter through dance, music, snow sculptures, winter sports and more.
-
-Thank you to the Arts on the Ave Edmonton Society for celebrating Edmonton’s multicultural communities. Your efforts to keep culture thriving during our city’s darkest months help make Edmonton a more vibrant, engaged and artistically-minded northern home.
+Need message.
 
 Enjoy the festival!
 
-_Stephen Mandel | Mayor_
+_Don Iveson | Mayor_
