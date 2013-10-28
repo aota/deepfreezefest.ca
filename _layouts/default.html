@@ -21,20 +21,23 @@ layout: base
       {% when 'media.md' %}
         {% capture sidebar %}{% include side_media.md %}{% endcapture %}
         {{ sidebar | markdownify }}
-      {% when 'theatre.md' %}
-        {% capture sidebar %}{% include side_theatre.md %}{% endcapture %}
-        {{ sidebar | markdownify }}
       {% when 'whats-on.md' %}
         {% capture sidebar %}{% include side_whats_on.md %}{% endcapture %}
         {{ sidebar | markdownify }}
-      {% when 'arts-wares.md' %}
-        {% capture sidebar %}{% include side_arts_wares.md %}{% endcapture %}
+      {% when 'outdoor-fun.md' %}
+        {% capture sidebar %}{% include side_outdoor_fun.md %}{% endcapture %}
         {{ sidebar | markdownify }}
-      {% when 'workshops.md' %}
-        {% capture sidebar %}{% include side_workshops.md %}{% endcapture %}
+      {% when 'street-hockey.md' %}
+        {% capture sidebar %}{% include side_street_hockey.md %}{% endcapture %}
         {{ sidebar | markdownify }}
-      {% when 'donate.md' %}
-        {% capture sidebar %}{% include side_donate.md %}{% endcapture %}
+      {% when 'freezer-race.md' %}
+        {% capture sidebar %}{% include side_freezer_race.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'mummers.md' %}
+        {% capture sidebar %}{% include side_mummers.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'participate.md' %}
+        {% capture sidebar %}{% include side_participate.md %}{% endcapture %}
         {{ sidebar | markdownify }}
     {% endcase %}
   </div>
