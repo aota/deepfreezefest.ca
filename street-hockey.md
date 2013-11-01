@@ -7,9 +7,9 @@ published: true
 
 # Street Hockey Tournament
 
-## The best darn-tootin’ Street Hockey Tourney is back!
+## The Street Hockey Tourney is back!
 
-The Deep Freeze Street Hockey Tournament is back and bigger than ever! We’ve doubled our rinks to 4, added a warm up rink and an awesome Skills Competition on Sunday January 13th! The top four teams win dinner for up to 20 people at the Canadian Brewhouse.
+The Deep Freeze Street Hockey Tournament is back and bigger than ever! We’ve doubled our rinks to 4, added a warm up rink and an awesome Skills Competition on Sunday January 12th! The top four teams win dinner for up to 20 people at the Canadian Brewhouse.
 
 Recruit your friends and family to team-up for a friendly afternoon street hockey tournament over the festival weekend on 118th Avenue. Teams must be a minimum of 4 (3 players, 1 goalie), to a maximum of 7. Team captains register your team early as space is limited!
 
@@ -23,4 +23,4 @@ The tournament consists of round-robin play as well as playoffs. The round-robin
 
 To register your team, please email <deepfreezehockey@gmail.com>.
 
-**REGISTRATION DEADLINE**: by Noon on Friday, December 21st, 2012 (late submissions will be accepted if space allows).
+**REGISTRATION DEADLINE**: by Noon on Friday, December 20th, 2013 (late submissions will be accepted if space allows).
