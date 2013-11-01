@@ -20,9 +20,9 @@ Each team will present their performance on both Saturday and Sunday, at the Ave
 * 3rd Place – $200 in food coupons from avenue vendors
 * 4th Place – The Peoples Choice Award: When patrons come to the show, they will be given “Mummers Bucks”. As they watch the various Mummers teams they can “vote” by putting their “Mummers Bucks” in the performers hats. At the end the team with the most “Mummers Bucks” get’s the Peoples Choice Award, which will be a basket of cool stuff from artists and vendors on the Ave.
 
-The Mummers Play Challenge sign up deadline is January 2nd, 2013. There will be a meeting that day of all contestant teams. This will be when the teams will present the 1st draft of their play, or what ever they have so far, to the producer and get guidance on what to do to get it ready for the festival.
+The Mummers Play Challenge sign up deadline is January 2nd, 2014. There will be a meeting that day of all contestant teams. This will be when the teams will present the 1st draft of their play, or what ever they have so far, to the producer and get guidance on what to do to get it ready for the festival.
 
-There will also be a meeting on Monday January 8th, 2013 for teams to review and consult with the AAMC creative team. Finally there will be a dress rehearsal at the Avenue theatre on Friday January 11th. Please come with all props and costumes and be ready to just run places and entrances and exits for the technical crew.
+There will also be a meeting on Monday January 6th, 2014 for teams to review and consult with the AAMC creative team. Finally there will be a dress rehearsal at the Avenue theatre on Friday January 10th. Please come with all props and costumes and be ready to just run places and entrances and exits for the technical crew.
 
 **Prizes will be awarded shortly after the last performance, on Sunday.**
 
