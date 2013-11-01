@@ -8,7 +8,7 @@ published: true
 
 ## Getting to Deep Freeze
 
-Discover all the great Deep Freeze venues on the map below, or download a copy of our program. You can find the map on pages 24-25 of the program.
+<!-- Discover all the great Deep Freeze venues on the map below, or download a copy of our program. You can find the map on pages 24-25 of the program. -->
 
 ## The following areas are available for public parking:
 
