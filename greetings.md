@@ -2,7 +2,7 @@
 layout: default
 permalink: /greetings/
 title: Greetings
-published: true
+published: false
 ---
 
 # Greetings
