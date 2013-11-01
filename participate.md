@@ -17,7 +17,7 @@ The Mummers Play Challenge is the contest for community people to form teams and
 
 ## Artisan Market & Art Gallery
 
-Deep Freeze 2013 includes a juried art exhibition in four galleries in and along 118th Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118th Ave and 93 Street.
+Deep Freeze 2014 includes a juried art exhibition in four galleries in and along 118th Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118th Ave and 93 Street.
 
 For Deep Freeze Art Gallery inquiries contact Pam at <deepfreezegallery@gmail.com>
 
@@ -25,7 +25,7 @@ For Deep Freeze Artisan Market inquiries contact Hilary at <deepfreezemarket@gma
 
 ### Call for Submissions
 
-All artists and artisans are welcome to apply. **Submission Deadline is November 30, 2012**, although late submissions may be accepted depending on quantity of submissions.
+All artists and artisans are welcome to apply. **Submission Deadline is November 30, 2013**, although late submissions may be accepted depending on quantity of submissions.
 
 Download the Call for Submissions for both the Art Gallery exhibition as well as the Artisan Market here:
 
@@ -35,31 +35,31 @@ Download the Call for Submissions for both the Art Gallery exhibition as well as
 
 Deep Freeze presents the Sixth Annual Ice Sculpting Contest
 
-2013 Sculpting Theme: **The Wild West**
+2014 Sculpting Theme: **The Vikings are coming!**
 
-**January 12, 2013, 10:00 am to January 13, 2013 2:00 pm** at the Alberta Avenue Community League (9210 – 118 Avenue, Edmonton, AB)
+**January 11, 2013, 10:00 am to January 12, 2013 2:00 pm** at the Alberta Avenue Community League (9210 – 118 Avenue, Edmonton, AB)
 
 1. First Place $300
 1. Second Place $200
 1. Third Place $100
 
-We invite all artists to participate in creating a gallery of ice sculptures for all of Edmonton to enjoy.  Artists are provided with 3 ice blocks and a $200 honorarium for their work.
+We invite all artists to participate in creating a gallery of ice sculptures for all of Edmonton to enjoy. Artists are provided with 3 ice blocks and a $200 honorarium for their work.
 
 For more information or a registration form email: <deepfreezeice@gmail.com>
 
-**Submission Deadline: Friday December 14, 2012** (Late application will be considered if space allows)
+**Submission Deadline: Friday December 13, 2013** (Late application will be considered if space allows)
 
 ## Street Hockey Tournament
 
 To register your team, please email <deepfreezehockey@gmail.com>.
 
-REGISTRATION DEADLINE: by Noon on Friday, December 21st, 2012 (late submissions will be accepted if space allows).
+REGISTRATION DEADLINE: by Noon on Friday, December 20th, 2013 (late submissions will be accepted if space allows).
 
 ## Cool Runnin’ Deep Freezer Races
 
 Show your team spirit! Prizes will be awarded to the team with the best “Outfits”.
 
-**Registration deadline is January 5th, 2013**
+**Registration deadline is January 6th, 2014**
 
 [Apply online](/get-involved/participate/cool-runnin-race/)
 
