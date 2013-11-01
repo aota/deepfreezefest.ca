@@ -9,13 +9,14 @@ published: true
 **Here's just a taste of some of the acts Deep Freeze has in store for you. For all the juicy details, [download the full program.](/program)**
 
 ## A whole ton of viking fun in one weekend!
-The Deep Freeze Winter Festival is a free family event that brings together the Ukrainian, Franco-Albertan, Franco-African, First Nations, and Acadian/East Coast communities to revel in the magic and beauty of winter. This year’s theme of xxxxxxxVikings! will offer exciting opportunities for both patrons and artists creating unexpected experiences celebrating the community through its urban landscape and exceptional spaces.
+The Deep Freeze Winter Festival is a free family event that brings together the Ukrainian, Franco-Albertan, Franco-African, First Nations, and Acadian/East Coast communities to revel in the magic and beauty of winter. This year’s theme of The Vikings are coming! will offer exciting opportunities for both patrons and artists creating unexpected experiences celebrating the community through its urban landscape and exceptional spaces.
 
 ## January 11, 2014
 **118 AVE, 90 - 94 ST**
 
 On Saturday, January 11th, revel in French Canadian Heritage with music, cuisine, and dance. Enjoy tourtière (meat pie) and tarte au sucre (sugar pie), tap your spoons and visit the delicious cabane à sucre for la tire (iced maple taffy on a stick). Patrons are invited to watch the ‘Three Block Challenge’ ice sculpture competition taking place throughout the day and enjoy Tom Fool’s Ice and Snow Kingdom.
-Saturday evening offers The xxxxxxxxxxx Party! featuring (band name) from 7:00-11:00pm. Sample Acadian and Newfie cuisine, and then dance to the multilingual, world-beat music of (band name). (Band Name) performs globally-influenced music in an effort to give listeners and audience something far-reaching, culturally informative and Canadian. Tickets for The xxxxxxxxxxx Party! are $10 and $5 for children 10 years and under. Tickets are available at the Carrot Community Arts Coffeehouse (9351–118 Ave), Tix on the Square and at the door.
+
+Saturday evening offers The Vikings are coming Party! featuring LeFuzz from 7:00-11:00pm. Sample Acadian and Newfie cuisine, and then dance to the multilingual, world-beat music of LeFuzz. LeFuzz performs globally-influenced music in an effort to give listeners and audience something far-reaching, culturally informative and Canadian. Tickets for The Vikings are coming! Party are $10 and $5 for children 10 years and under. Tickets are available at the Carrot Community Arts Coffeehouse (9351–118 Ave), Tix on the Square and at the door.
 
 ## January 12, 2014
 **118 AVE, 90 - 94 ST**
