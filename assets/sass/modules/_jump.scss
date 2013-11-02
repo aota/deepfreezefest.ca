@@ -1,0 +1,38 @@
+.jump {
+  position: relative;
+}
+
+.jump-text {
+  position: absolute;
+  bottom: 0;
+  left: -0.5em;
+  @include transition(bottom .25s ease-in-out);
+}
+
+.jump-title {
+  background: #000;
+  background: rgba(0,0,0,0.8);
+  color: #fff;
+  font-size: $gamma;
+  padding: 0.25em 10px;
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+.jump-lead {
+  background: $primary-color;
+  color: #fff;
+  font-size: $micro;
+  padding: 0.25em 10px;
+}
+
+/*
+   State
+   ========================================================================== */
+
+.jump:hover {
+  .jump-text {
+    bottom: 1em;
+  }
+}
+
