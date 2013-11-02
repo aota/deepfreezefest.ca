@@ -11,6 +11,7 @@ h1, .alpha {
 h2, .beta {
 	color: $secondary-color;
 	font-size: $gamma;
+  font-weight: normal;
   @media #{$small} {
     font-size: $beta;
   }
@@ -19,6 +20,7 @@ h2, .beta {
 h3, .gamma {
 	color: $secondary-color;
 	font-size: $delta;
+  font-weight: normal;
   @media #{$small} {
     font-size: $gamma;
   }
@@ -27,6 +29,7 @@ h3, .gamma {
 h4, .delta {
 	// color: $secondary-color;
 	font-size: $epsilon;
+  font-weight: normal;
   @media #{$small} {
     font-size: $delta;
   }
@@ -35,6 +38,7 @@ h4, .delta {
 h5, .epsilon {
 	// color: $secondary-color;
 	font-size: $zeta;
+  font-weight: normal;
   @media #{$small} {
     font-size: $epsilon;
   }
@@ -43,6 +47,7 @@ h5, .epsilon {
 h6, .zeta {
 	// color: $secondary-color;
 	font-size: $zeta;
+  font-weight: normal;
 }
 
 

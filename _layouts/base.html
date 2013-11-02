@@ -55,9 +55,10 @@
 
 
 
-<div class="banner">
+<header class="banner">
   <div class="row">
     <div class="large-12 columns">
+    <h1 class="visuallyhidden">{{ site.name }}</h1>
     {% if page.banner %}
     {% capture banner_count %}{{ page.banner | size }}{% endcapture %}
       {% if banner_count == '1' %}
@@ -74,7 +75,7 @@
     {% endif %}
     </div>
   </div>
-</div>
+</header>
 
 
 <div class="top-bar-wrap">
