@@ -25,7 +25,7 @@ Don Snider was a leader in the Edmonton arts community for more than two decades
 ### The Vikings are coming! Party
 
 **Saturday 7:00 – 11:00 pm  
-Alberta Ave Community Centre | 9210 – 118 Ave
+Alberta Ave Community Centre | 9210 – 118 Ave  
 $10 General Admission**
 
 The Vikings take over the Deep Freeze Festival on Saturday and Sunday, but the party really gets started on Saturday night! Come down with your family and friends to enjoy a night of great food, awesome music and a lot of fun! Get your tickets in advance as this evening party has been known to sell out in the past with only limited tickets available at the door.
