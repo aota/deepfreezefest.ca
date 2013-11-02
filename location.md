@@ -1,12 +1,12 @@
 ---
-layout: map
+layout: default
 permalink: /location/
 title: Location
 headline: Festival Map
 published: true
 ---
 
-## Getting to Deep Freeze
+# Getting to Deep Freeze
 
 <!-- Discover all the great Deep Freeze venues on the map below, or download a copy of our program. You can find the map on pages 24-25 of the program. -->
 

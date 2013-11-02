@@ -11,9 +11,9 @@ published: true
 
 The Mummers Play Challenge is the contest for community people to form teams and, yes, write their own 15-20 minute play in rhyming verse for fun and prizes. Each team will present their performance on both Saturday and Sunday, at the Avenue Theatre.
 
-**To sign up, [download the application](/wp-content/uploads/2012/12/AAMCEntryForm.pdf) form and drop it off at The Carrot Coffeehouse.**
+**To sign up, [download the application]({{ site.uploads }}AAMCEntryForm.pdf) form and drop it off at The Carrot Coffeehouse.**
 
-[Check out the full information on the Mummer Play Challenge here](whats-on/mummers/)
+[Check out the full information on the Mummer Play Challenge here](/whats-on/mummers/)
 
 ## Artisan Market & Art Gallery
 
@@ -29,7 +29,7 @@ All artists and artisans are welcome to apply. **Submission Deadline is November
 
 Download the Call for Submissions for both the Art Gallery exhibition as well as the Artisan Market here:
 
-[Call for Submissions](/wp-content/uploads/2012/12/Deep-Freeze-2013-Call-to-Enter.pdf)
+[Call for Submissions]({{ site.uploads }}Deep-Freeze-2013-Call-to-Enter.pdf)
 
 ## Ice Sculptors
 
@@ -61,6 +61,6 @@ Show your team spirit! Prizes will be awarded to the team with the best “Outfi
 
 **Registration deadline is January 6th, 2014**
 
-[Apply online](/get-involved/participate/cool-runnin-race/)
+<a class="button small" href="/whats-on/freezer-race/apply/">Apply Online</a>
 
 For more information, contact us at <deepfreezerrace@gmail.com>

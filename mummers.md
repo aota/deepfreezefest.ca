@@ -30,6 +30,6 @@ The AAMC is the core team that has created the mummers plays for the past 4 year
 
 This year the AAMC will be presenting the original three plays; Knighty Knight, Fool Tom Fool, and This Belle Troll’s For Thee, all together as one whole play, known as the Albertavia Trilogy.
 
-**To sign up, download the [application](application-form) form and drop it off at The Carrot Coffeehouse.**
+**To sign up, download the [application]({{ site.uploads }}/AAMCEntryForm.pdf) form and drop it off at The Carrot Coffeehouse.**
 
-**For more information on “How to Mummer” download this [helpful guide](/wp-content/uploads/2012/12/HowToMummer.pdf) to making a Mummer Play.**
+**For more information on “How to Mummer” download this [helpful guide]({{ site.uploads }}/HowToMummer.pdf) to making a Mummer Play.**

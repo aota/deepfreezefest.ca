@@ -13,4 +13,4 @@ Yep – this is exactly what it sounds like: a Deep Freezer on skis, raced to a 
 
 Be sure to watch for the races behind the Alberta Avenue Community Centre between 12-2 pm on both Saturday January 11th and Sunday January 12th – you don’t want to miss this!
 
-Or if you’re looking for a little excitement... [Register your team of five for a crazy fun time!](/get-involved/participate/cool-runnin-race/)
+Or if you’re looking for a little excitement... [Register your team of five for a crazy fun time!](/whats-on/freezer-race/apply/)
