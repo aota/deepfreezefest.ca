@@ -17,7 +17,7 @@ The Mummers Play Challenge is the contest for community people to form teams and
 
 ## Artisan Market & Art Gallery
 
-Deep Freeze 2014 includes a juried art exhibition in four galleries in and along 118th Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118th Ave and 93 Street.
+Deep Freeze 2014 includes a juried art exhibition in four galleries in and along 118<sup>th</sup> Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118<sup>th</sup> Ave and 93 Street.
 
 For Deep Freeze Art Gallery inquiries contact Pam at <deepfreezegallery@gmail.com>
 
@@ -33,7 +33,7 @@ Download the Call for Submissions for both the Art Gallery exhibition as well as
 
 ## Ice Sculptors
 
-Deep Freeze presents the Sixth Annual Ice Sculpting Contest
+Deep Freeze presents the Seventh Annual Ice Sculpting Contest
 
 2014 Sculpting Theme: **The Vikings are coming!**
 
