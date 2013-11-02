@@ -20,14 +20,15 @@ Come shop original and local at the Artisan Village and Market, located in the A
 
 **Saturday at 6pm**
 
-Don Snider has been a leader in the Edmonton arts community for more than two decades. He was the Production Manager of the Edmonton Folk Music Festival, amongst others, and an integral part of fireworks shows in Edmonton; First Night, Canada Day and Deep Freeze Festival. Don loved the sound, the feeling, the colour and the joy on people’s faces when the boom would begin echoing through the sky. This fireworks show is dedicated to Don and the legacy of joy he has left us with. “Life is beautiful.”
+Don Snider was a leader in the Edmonton arts community for more than two decades. He was the Production Manager of the Edmonton Folk Music Festival, amongst others, and an integral part of fireworks shows in Edmonton; First Night, Canada Day and Deep Freeze Festival. Don loved the sound, the feeling, the colour and the joy on people’s faces when the boom would begin echoing through the sky. This is the second annual fireworks show dedicated to Don and the legacy of joy he has left us with. “Life is beautiful.”
 
 ### The Vikings are coming! Party
 
 **Saturday 7:00 – 11:00 pm  
-Alberta Ave Community Centre | 9210 – 118 Ave**
+Alberta Ave Community Centre | 9210 – 118 Ave  
+$10 General Admission**
 
-While the Vikings take over the Deep Freeze Festival on Saturday and Sunday, who better than the Acadians and Newfies to get the party started on Saturday night! **Come down with your family and friends to enjoy a night of great food, awesome music and a lot of fun! Featuring Le Fuzz!** Well known in the city, Le Fuzz will get you up on your feet (or at least get your toes tapping). Get your tickets in advance as this evening party has been known to sell out in the past with only limited tickets available at the door.
+The Vikings take over the Deep Freeze Festival on Saturday and Sunday, but the party really gets started on Saturday night! Come down with your family and friends to enjoy a night of great food, awesome music and a lot of fun! Get your tickets in advance as this evening party has been known to sell out in the past with only limited tickets available at the door.
 
 ### Chisel and Chainsaw Ice Carving Competition
 
