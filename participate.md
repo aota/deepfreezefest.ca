@@ -53,7 +53,7 @@ For more information or a registration form email: <deepfreezeice@gmail.com>
 
 To register your team, please email <deepfreezehockey@gmail.com>.
 
-REGISTRATION DEADLINE: by Noon on Friday, December 20, 2013 (late submissions will be accepted if space allows).
+**Registration deadline is Noon on Friday, December 20, 2013** (Late submissions will be accepted if space allows).
 
 ## Cool Runnin’ Deep Freezer Races
 
