@@ -6,7 +6,7 @@ published: true
 ---
 
 # What's On!
-**Here's just a taste of some of the acts Deep Freeze has in store for you. Check back early December to download the full program. <!-- For all the juicy details, [download the full program.](/program)** -->
+**Here's just a taste of some of the acts Deep Freeze has in store for you. Check back early December to download the full program.** <!-- For all the juicy details, [download the full program.](/program)** -->
 
 ## A whole ton of viking fun in one weekend!
 The Deep Freeze Winter Festival is a free family event that brings together the Ukrainian, Franco-Albertan, Franco-African, First Nations, and Acadian/East Coast communities to revel in the magic and beauty of winter. This year’s theme of **The Vikings are coming!** will offer exciting opportunities for both patrons and artists creating unexpected experiences celebrating the community through its urban landscape and exceptional spaces.
