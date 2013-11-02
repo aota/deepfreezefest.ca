@@ -5,7 +5,7 @@ title: Donate to the Deep Freeze Festival
 published: true
 ---
 
-# Donate to keep our festival growing!
+# Please donate to keep our festival growing!
 
 **Every dollar counts! You can donate any amount to Arts on the Ave via PayPal. Your generosity is sincerely appreciated.**
 
