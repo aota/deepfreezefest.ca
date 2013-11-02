@@ -37,7 +37,7 @@ Deep Freeze presents the Sixth Annual Ice Sculpting Contest
 
 2014 Sculpting Theme: **The Vikings are coming!**
 
-**January 11, 2013, 10:00 am to January 12, 2013 2:00 pm** at the Alberta Avenue Community League (9210 – 118 Avenue, Edmonton, AB)
+**January 11, 2014, 10:00 am to January 12, 2014 2:00 pm** at the Alberta Avenue Community League (9210 – 118 Avenue, Edmonton, AB)
 
 1. First Place $300
 1. Second Place $200
@@ -53,13 +53,13 @@ For more information or a registration form email: <deepfreezeice@gmail.com>
 
 To register your team, please email <deepfreezehockey@gmail.com>.
 
-REGISTRATION DEADLINE: by Noon on Friday, December 20th, 2013 (late submissions will be accepted if space allows).
+REGISTRATION DEADLINE: by Noon on Friday, December 20, 2013 (late submissions will be accepted if space allows).
 
 ## Cool Runnin’ Deep Freezer Races
 
 Show your team spirit! Prizes will be awarded to the team with the best “Outfits”.
 
-**Registration deadline is January 6th, 2014**
+**Registration deadline is January 6, 2014**
 
 <a class="button small" href="/whats-on/freezer-race/apply/">Apply Online</a>
 
