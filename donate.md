@@ -7,7 +7,8 @@ published: true
 
 # Please donate to keep our festival growing!
 
-**Every dollar counts! You can donate any amount to Arts on the Ave via PayPal. Your generosity is sincerely appreciated.**
+**Every dollar counts! You can donate any amount to Arts on the Ave via PayPal.  
+Your generosity is sincerely appreciated.**
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
