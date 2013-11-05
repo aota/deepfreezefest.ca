@@ -7,13 +7,14 @@ published: true
 
 # Participate
 
-## The Mummers Play Challenge
+<!-- ## The Mummers Play Challenge
 
 The Mummers Play Challenge is the contest for community people to form teams and, yes, write their own 15-20 minute play in rhyming verse for fun and prizes. Each team will present their performance on both Saturday and Sunday, at the Avenue Theatre.
 
-**To sign up, [download the application]({{ site.uploads }}AAMCEntryForm.pdf) form and drop it off at The Carrot Coffeehouse.**
+To sign up, [download the application]({{ site.uploads }}AAMCEntryForm.pdf) form and drop it off at The Carrot Coffeehouse.
 
-[Check out the full information on the Mummer Play Challenge here](/whats-on/mummers/)
+[Check out the full information on the Mummer Play Challenge here](/whats-on/mummers/) 
+-->
 
 ## Artisan Market & Art Gallery
 
