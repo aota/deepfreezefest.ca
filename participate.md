@@ -25,7 +25,7 @@ For Deep Freeze Artisan Market inquiries contact deepfreezemarket@gmail.com
 
 ### Call for Submissions
 
-All artists and artisans are welcome to apply. **Submission Deadline is November 30, 2013**, although late submissions may be accepted depending on quantity of submissions.
+AAll artists and artisans are welcome to apply. Submission Deadline is November 30, 2013, although late submissions may be accepted depending on quantity of submissions.
 
 Download the Call for Submissions for both the Art Gallery exhibition as well as the Artisan Market here:
 
@@ -43,9 +43,9 @@ Deep Freeze presents the Seventh Annual Ice Sculpting Contest
 1. Second Place $200
 1. Third Place $100
 
-We invite all artists to participate in creating a gallery of ice sculptures for all of Edmonton to enjoy. Artists are provided with 3 ice blocks and a $200 honorarium for their work.
+We invite all artists to participate in creating a gallery of ice sculptures for all of Edmonton to enjoy. Artists are provided with ice blocks and an honorarium for their work.
 
-For more information or a registration form email: <deepfreezeice@gmail.com>
+For more information contact: deepfreezeice@gmail.com
 
 **Submission Deadline: Friday December 13, 2013** (Late application will be considered if space allows)
 
