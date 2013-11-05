@@ -29,7 +29,9 @@ AAll artists and artisans are welcome to apply. Submission Deadline is November 
 
 Download the Call for Submissions for both the Art Gallery exhibition as well as the Artisan Market here:
 
-[Call for Submissions]({{ site.uploads }}Deep-Freeze-2013-Call-to-Enter.pdf)
+[Call for Submissions - Art Gallery]({{ site.uploads }}Deep-Freeze-2014-Call-to-Enter-Gallery.pdf)
+
+[Call for Submissions - Arts Market Table]({{ site.uploads }}Deep-Freeze-2014-Call-to-Enter-Market.pdf)
 
 ## Ice Sculptors
 
