@@ -23,6 +23,7 @@ Deep Freeze 2014 includes a juried art exhibition in four galleries in and along
 For Deep Freeze Art Gallery inquiries contact deepfreezegallery@gmail.com
 For Deep Freeze Artisan Market inquiries contact deepfreezemarket@gmail.com
 
+
 ### Call for Submissions
 
 AAll artists and artisans are welcome to apply. Submission Deadline is November 30, 2013, although late submissions may be accepted depending on quantity of submissions.
@@ -32,6 +33,19 @@ Download the Call for Submissions for both the Art Gallery exhibition as well as
 [Call for Submissions - Art Gallery]({{ site.uploads }}Deep-Freeze-2014-Call-to-Enter-Gallery.pdf)
 
 [Call for Submissions - Arts Market Table]({{ site.uploads }}Deep-Freeze-2014-Call-to-Enter-Market.pdf)
+
+
+## Yarn Bomb a Lamppost Competition
+
+1. Form a group of 1-3 artists.
+2. Email <deepfreezelamppost@gmail.com> for an application form.
+3. Send us a short proposal outlining your project, and completed application form.
+
+Download the [Yarn Bomb application form]({{ site.uploads }}Deep-Freeze-2014-Call-to-knitters.pdf).
+
+**Submission Deadline: December 15, 2013**
+
+
 
 ## Ice Sculptors
 
@@ -47,21 +61,30 @@ Deep Freeze presents the Seventh Annual Ice Sculpting Contest
 
 We invite all artists to participate in creating a gallery of ice sculptures for all of Edmonton to enjoy. Artists are provided with ice blocks and an honorarium for their work.
 
-For more information contact: deepfreezeice@gmail.com
+Download the [Ice Sculptors application form]({{ site.uploads }}Ice-Sculpture-Contest-2014.pdf).
+
+For more information contact: <deepfreezeice@gmail.com>
 
 **Submission Deadline: Friday December 13, 2013** (Late application will be considered if space allows)
+
 
 ## Street Hockey Tournament
 
 To register your team, please email <deepfreezehockey@gmail.com>.
 
+Download the [Tournament application form]({{ site.uploads }}Hockey-Call-Out-2014.pdf).
+
 **Registration deadline is Noon on Friday, December 20, 2013** (Late submissions will be accepted if space allows).
+
+
 
 ## Cool Runnin’ Deep Freezer Races
 
 Show your team spirit! Prizes will be awarded to the team with the best “Outfits”.
 
 **Registration deadline is January 6, 2014**
+
+Download the [Freezer Race application form]({{ site.uploads }}Freezer-Race-Application-Form.pdf).
 
 <a class="button small" href="/whats-on/freezer-race/apply/">Apply Online</a>
 
