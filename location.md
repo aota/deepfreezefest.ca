@@ -21,6 +21,9 @@ Or you can [check out the google map.](http://goo.gl/maps/H2Cxk)
 
 There are many spaces to park, but if you can walk or take transit it helps those who cannot a great deal.
 
+## Transit
+
+For more information on Edmonton Transit schedules and routes visit [takeets.com](takeets.com)
 
 ## Road Closures at Deep Freeze Festival
 
