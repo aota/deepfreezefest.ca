@@ -11,7 +11,7 @@ title: Sponsors
 
 h1. Sponsors
 
-h2. Glacier Peak Sponsors $15,000+
+h2. Glacier Peak Sponsors
 
 Special thanks to all those who support our festival.
 
@@ -21,119 +21,92 @@ Special thanks to all those who support our festival.
   <div class="columns large-6">
 
   <ul>
-    <li><a title="630 CHED" href="http://www.630ched.com" target="_blank">630 CHED</a></li>
-    <li><a title="Radio-Canada" href="http://www.radio-canada.ca/radio/" target="_blank">90,1 Premiere Chaine</a></li>
-    <li><a title="Alberta Council for the Ukrainian Arts" href="http://www.acuarts.ca" target="_blank">Alberta Council for the Ukrainian Arts</a></li>
-    <li><a title="Alberta Foundation for the Arts" href="http://www.affta.ab.ca" target="_blank">Alberta Foundation for the Arts</a></li>
-    <li><a title="Avenue Initiative" href="http://www.avenueinitiative.ca" target="_blank">Avenue Initiative</a></li>
-    <li><a title="Bottom Line Productions" href="http://www.bottomlinepro.com" target="_blank">Bottom Line Productions</a></li>
-    <li><a title="Canadian Heritage" href="http://www.pch.gc.ca" target="_blank">Canadian Heritage</a></li>
-    <li><a title="CISN Country" href="http://www.cisnfm.com" target="_blank">CISN Country</a></li>
-    <li><a title="City Lumber" href="https://plus.google.com/101749192904026921978/about?gl=ca&amp;hl=en" target="_blank">City Lumber</a></li>
     <li><a title="City of Edmonton" href="http://www.edmonton.ca" target="_blank">City of Edmonton</a></li>
+    <li><a title="630 CHED" href="http://www.630ched.com" target="_blank">630 CHED</a></li>
+    <li><a title="Northlands" href="http://www.northlands.com" target="_blank">Northlands</a></li>
+    <li><a title="Global Edmonton" href="http://www.globaltvedmonton.com" target="_blank">Global Edmonton</a></li>
+    <li><a title="CISN Country" href="http://www.cisnfm.com" target="_blank">CISN Country</a></li>
+    <li><a title="Canadian Heritage" href="http://www.pch.gc.ca" target="_blank">Canadian Heritage</a></li>
+    <li><a title="Alberta Foundation for the Arts" href="http://www.affta.ab.ca" target="_blank">Alberta Foundation for the Arts</a></li>
     <li><a title="Edmonton Arts Council" href="http://www.edmontonarts.ca" target="_blank">Edmonton Arts Council</a></li>
+    <li><a href="http://www.rebelhearttrucking.com/">Rebel Heart Trucking</a></li>
+    <li><a title="iNews 880" href="http://www.inews880.com" target="_blank">iNews 880</a></li>
+    <li><a href="http://www.telus.com/">Telus</a></li>
+    <li><a href="http://www.avenueedmonton.com/">Avenue Magazine</a></li>
     <li><a title="Edmonton Journal" href="http://www.edmontonjournal.com" target="_blank">Edmonton Journal</a></li>
+    <li><a href="http://www.925freshfm.com/">92.5 Fresh FM</a></li>
+    <li><a href="http://www.avenueinitiative.ca/">Avenue Initiative Revitalization</a></li>
+    <li><a href="http://abcweddings.com/">ABC Weddings</a></li>
+    <li>The Dianne &amp; Irving Kipnes Foundation</li>
+    <li><a title="United Cycle" href="http://www.unitedcycle.com" target="_blank">United Cycle</a></li>
+    <li><a title="Tim Hortons" href="http://www.timhortons.com/ca/locator/storedirections.html?id=100910" target="_blank">Tim Hortons</a></li>
   </ul>
 
   </div>
   <div class="columns large-6">
+    <ul>
+      <li><a href="http://www.rafa-alberta.ca/">RAFA</a></li>
+      <li><a href="http://www.lefranco.ab.ca/">Le Franco</a></li>
+      <li><a href="http://www.acfa.ab.ca/">ACFA</a></li>
+      <li><a href="http://joinmade.org/">MADE</a></li>
+      <li><a href="http://www.stjohnsinstitute.com/">St. John's Insitute</a></li>
+      <li><a href="http://www.bosevents.ca/">BOS Events</a></li>
+      <li><a title="Alberta Council for the Ukrainian Arts" href="http://www.acuarts.ca" target="_blank">Alberta Council for the Ukrainian Arts</a></li>
+      <li><a href="http://hongde.ca/">HongDe Chinese Dance</a></li>
+      <li><a href="http://bentarrow.ca/">Bent Arrow</a></li>
+      <li>The Studio</li>
+      <li><a href="http://www.thenina.ca/">Nina Haggerty Centre for the Arts</a></li>
+      <li><a href="http://thecarrot.ca">The Carrot</a></li>
+      <li><a href="http://www.bedouinbeats.com/">Bedouin</a></li>
+      <li>The Anglican Perishes of St. Faith's and St. Stephen the Martyr</li>
+      <li><a href="http://www.albertaave.org/">Alberta Avenue Community League</a></li>
+      <li><a href="http://avenuetheatre.ca/">Avenue Theatre</a></li>
+      <li><a href="http://www.albertaave.org/nna.html">NNA</a></li>
+      <li><a href="http://epl.ca">EPL</a></li>
+    </ul>
+
+  </div>
+</div>
+
+
+
+h2. Summit Ridge Sponsors
+
+<div class="row">
+  <div class="columns large-6">
 
     <ul>
-      <li><a title="Epic Photography" href="http://www.epicphotography.ca" target="_blank">Epic Photography</a></li>
-      <li><a title="Global Edmonton" href="http://www.globaltvedmonton.com" target="_blank">Global Edmonton</a></li>
-      <li><a title="iNews 880" href="http://www.inews880.com" target="_blank">iNews 880</a></li>
-      <li><a title="JOE FM" href="http://www.joefm.ca" target="_blank">JOE FM</a></li>
+      <li><a title="Bottom Line Productions" href="http://www.bottomlinepro.com" target="_blank">Bottom Line Productions</a></li>
+      <li>Canadian Brewhouse</li>
+      <li>D.A Morin</li>
+      <li>Listen Louder Productions</li>
+      <li>Restore Habitat for Humanity</li>
+      <li>Iceworks</li>
+      <li>Ice on Whyte Festival</li>
+      <li>Italian Bakery</li>
+      <li>Moosehead Brewery </li>
       <li><a title="Nightlife" href="http://www.nightlifeposter.com" target="_blank">Nightlife</a></li>
-      <li><a title="Northlands" href="http://www.northlands.com" target="_blank">Northlands</a></li>
-      <li>The Dianne &amp; Irving Kipnes Foundation</li>
-      <li><a title="The Sutton Place Hotel" href="http://www.edmonton.suttonplace.com" target="_blank">The Sutton Place Hotel</a></li>
-      <li><a title="Tim Hortons" href="http://www.timhortons.com/ca/locator/storedirections.html?id=100910" target="_blank">Tim Hortons</a></li>
-      <li><a title="United Cycle" href="http://www.unitedcycle.com" target="_blank">United Cycle</a></li>
-      <li><a title="Williams engineering" href="http://www.williamsengineering.com" target="_blank">Williams Engineering</a></li>
+      <li>Odin's Ravens</li>
     </ul>
 
   </div>
-</div>
-
-
-
-h2. Summit Ridge Sponsors $2,000 – $15,000
-
-<div class="row">
   <div class="columns large-6">
 
     <ul>
-      <li><a title="ABC Weddings" href="http://abcweddings.com" target="_blank">ABC Weddings</a></li>
-      <li><a title="ACFA" href="http://www.acfa.ab.ca" target="_blank">ACFA</a></li>
-      <li><a title="Alberta Ave Community Centre" href="http://www.albertaave.org" target="_blank">Alberta Ave Community Centre</a></li>
-      <li><a title="Alberta Council for Ukrainian Arts" href="http://www.acuarts.ca" target="_blank">Alberta Council for Ukrainian Arts</a></li>
-      <li><a title="Avenue Theatre" href="http://avenuetheatre.ca" target="_blank">Avenue Theatre</a></li>
-      <li><a title="Edmonton Public Library" href="http://www.epl.ca" target="_blank">Edmonton Public Library</a></li>
-      <li><a title="Federation du sport francophone de l'Alberta" href="http://www.lafsfa.ca" target="_blank">Federation du sport francophone de l’Alberta</a></li>
-    </ul>
-
-</div>
-<div class="columns large-6">
-
-    <ul>
-      <li><a title="Heights Residential" href="http://www.heightsresidential.com" target="_blank">Heights Residential</a></li>
-      <li><a title="Nina Haggerty Centre for the Arts" href="http://www.ninahaggertyart.ca/home.php" target="_blank">Nina Haggerty Centre for the Arts</a></li>
-      <li><a title="Servus Credit Union" href="https://www.servus.ca" target="_blank">Servus Credit Union</a></li>
-      <li><a title="Sunridge Snowhill" href="http://www.sunridgeskiarea.com" target="_blank">Sunridge Snowhill</a></li>
-      <li><a title="Telus" href="http://telus.com" target="_blank">Telus</a></li>
-      <li><a title="The Carrot Community Arts Coffeehouse" href="http://thecarrot.ca" target="_blank">The Carrot Community Arts Coffeehouse</a></li>
-      <li><a title="Zando &amp; Jot" href="http://society6.com/zandojot" target="_blank">zando &amp; jot</a></li>
+      <li>Popular Bakery </li>
+      <li>Rebel Heart</li>
+      <li>Save-On Foods, Stadium</li>
+      <li>Sign-X Ltd. </li>
+      <li>Solar Energy Society of Alberta Stross Management Ltd </li>
+      <li>The Edmonton Oilers</li>
+      <li>The Edmonton Oilers Alumni</li>
+      <li>Widynowski’s Sausage Factory</li>
+      <li><a title="Williams Engineering" href="http://www.williamsengineering.com" target="_blank">Williams Engineering</a></li>
+      <li><a title="Zando & Jot" href="http://zandoandjot.com" target="_blank">zando & jot</a></li>
     </ul>
 
   </div>
 </div>
 
-
-h2. Cascade Falls Sponsors $250 – $2,000
-
-<div class="row">
-  <div class="columns large-6">
-
-
-* Atlantic Wood Products
-* Avenue Magazine
-* Avon Air Curling Club
-* Bedouin Beats
-* Canadian Tire (11839 Kingsway Ave)
-* Canadian Brewhouse
-* D. A. Morin
-* Eco Products
-* Edmonton Folk Music Festival
-* Edmonton Police Services
-* Edward Allen Photography
-* Ice on Whyte Festival
-* Ice Works
-* Italian Bakery
-* Le Franco
-* Media Broadcast Inc.
-* Northern Smoke BBQ
-* Old Dutch Foods Ltd.
-
-</div>
-<div class="columns large-6">
-
-* Pause Café
-* Popular Bakery
-* RAFA – Regroupement artistique francophone de l’Alberta
-* Rebel Heart
-* Restore, Habitat for Humanity
-* Revlyn Demolition & Recycling Ltd.
-* Riverbend Gardens
-* St. John’s Cultural Centre
-* S-NT Manufacturing & Distributing Ltd.
-* Save-On Foods, Stadium
-* Spark – the Branding Shop
-* The Anglican Parishes of St. Faith's and St. Stephen the Martyr
-* Widynowski’s Sausage Factory
-* YELP
-* Zocalo
-
-  </div>
-</div>
 
 
