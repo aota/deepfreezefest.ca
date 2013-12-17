@@ -97,7 +97,8 @@ h2. Summit Ridge Sponsors
       <li>Rebel Heart</li>
       <li>Save-On Foods, Stadium</li>
       <li>Sign-X Ltd. </li>
-      <li>Solar Energy Society of Alberta Stross Management Ltd </li>
+      <li>Solar Energy</li>
+      <li>Society of Alberta Stross Management Ltd </li>
       <li>The Edmonton Oilers</li>
       <li>The Edmonton Oilers Alumni</li>
       <li>Widynowski’s Sausage Factory</li>
