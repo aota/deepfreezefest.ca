@@ -63,9 +63,13 @@ We invite all artists to participate in creating a gallery of ice sculptures for
 
 Download the [Ice Sculptors application form]({{ site.uploads }}Ice-Sculpture-Contest-2014.pdf).
 
+Download the [Waiver and Registration form]({{ site.uploads }}2014 ice waiver and registration form.pdf).
+
+Download the [General Info & Guidelines]({{ site.uploads }}2014 ice guidelines.pdf).
+
 For more information contact: <deepfreezeice@gmail.com>
 
-**Submission Deadline: Friday December 13, 2013** (Late application will be considered if space allows)
+**Submission Deadline: Friday December 30, 2013** (Late application will be considered if space allows)
 
 
 ## Street Hockey Tournament
