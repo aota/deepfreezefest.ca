@@ -43,7 +43,7 @@ Download the Call for Submissions for both the Art Gallery exhibition as well as
 
 Download the [Yarn Bomb application form]({{ site.uploads }}Deep-Freeze-2014-Call-to-knitters.pdf).
 
-**Submission Deadline: December 15, 2013**
+**Submission Deadline: December 30, 2013**
 
 
 ## Thaw Hut Competition
