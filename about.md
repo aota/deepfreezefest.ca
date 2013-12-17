@@ -13,4 +13,6 @@ We are pleased to announce that the seventh-annual **Deep Freeze: Byzantine Wint
 
 The Deep Freeze Winter Festival is a free family event that brings together the Ukrainian, Franco-Albertan, Franco-African, First Nations, and Acadian/East Coast communities to revel in the magic and beauty of winter. This year’s theme **The Vikings are coming! **will offer exciting opportunities for both patrons and artists creating unexpected experiences celebrating the community through its urban landscape and exceptional spaces.
 
+## Deep Freeze Promo Video
+
 <iframe width="420" height="315" src="//www.youtube.com/embed/jVdqzO8Pa68" frameborder="0" allowfullscreen></iframe>
