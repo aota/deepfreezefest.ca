@@ -21,4 +21,6 @@ The tournament consists of round-robin play as well as playoffs. The round-robin
 
 To register your team, please email deepfreezehockey@gmail.com.
 
-**REGISTRATION DEADLINE**: by Noon on Friday, December 20, 2013 (late submissions will be accepted if space allows).
+Download the [Tournament application form]({{ site.uploads }}Hockey-Call-Out-2014.pdf).
+
+**Registration deadline is Noon on Friday, December 20, 2013** (Late submissions will be accepted if space allows).
