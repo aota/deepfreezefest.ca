@@ -18,7 +18,7 @@ To sign up, [download the application]({{ site.uploads }}AAMCEntryForm.pdf) form
 
 ## Artisan Market & Art Gallery
 
-Deep Freeze 2014 includes a juried art exhibition in four galleries in and along 118<sup>the</sup> Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118<sup>the</sup> Ave and 93 Street, as well as the Avenue Theatre lobby at 90 Street and 118 Avenue.
+Deep Freeze 2014 includes a juried art exhibition in four galleries in and along 118 Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118 Ave and 93 Street, as well as the Avenue Theatre lobby at 90 Street and 118 Avenue.
 
 For Deep Freeze Art Gallery inquiries contact deepfreezegallery@gmail.com
 For Deep Freeze Artisan Market inquiries contact deepfreezemarket@gmail.com
@@ -26,7 +26,7 @@ For Deep Freeze Artisan Market inquiries contact deepfreezemarket@gmail.com
 
 ### Call for Submissions
 
-AAll artists and artisans are welcome to apply. Submission Deadline is November 30, 2013, although late submissions may be accepted depending on quantity of submissions.
+All artists and artisans are welcome to apply. Submission Deadline is November 30, 2013, although late submissions may be accepted depending on quantity of submissions.
 
 Download the Call for Submissions for both the Art Gallery exhibition as well as the Artisan Market here:
 
