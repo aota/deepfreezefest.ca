@@ -46,6 +46,13 @@ Download the [Yarn Bomb application form]({{ site.uploads }}Deep-Freeze-2014-Cal
 **Submission Deadline: December 15, 2013**
 
 
+## Thaw Hut Competition
+
+We’re excited to welcome M.A.D.E. (Media Architecture Design Edmonton) back to the Deep Freeze festival where they will be running an innovative project combining art with functionality. Local architects and designers will be on site creating spaces that are both beautiful but functional winter warming spaces. Make sure to drop by (between 91 St - 92 St on 118 Avenue) and check out their work! The award for best design will presented be Sunday at 3:30 pm on the Community Centre stage.
+*all tools powered by solar energy! Come by for a cookie too!*
+
+http://joinmade.org/thaw-hut-competition
+
 
 ## Ice Sculptors
 
