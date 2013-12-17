@@ -15,4 +15,6 @@ The Deep Freeze Winter Festival is a free family event that brings together the 
 
 ## Deep Freeze Promo Video
 
+Take a peek at what our winter festival has to offer and then come enjoy it in person with your family and friends!
+
 <iframe width="420" height="315" src="//www.youtube.com/embed/jVdqzO8Pa68" frameborder="0" allowfullscreen></iframe>
