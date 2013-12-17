@@ -21,7 +21,7 @@ The Vikings take over the Deep Freeze Festival on Saturday and Sunday, but the p
 ## January 12, 2014
 **118 AVE, 90 - 94 Street**
 
-Sunday, January 12, the Festival will bring back the Julian calendar and celebrate the Olde New Year with Byzantine food and entertainment including the Village Pig a delicious fire roasted suckling pig fresh from the spot and served on a bun.  Kick up your feet with traditional Ukrainian melodies, beading, and Cheremosh Ukrainian dance.  Don’t forget to stop by the Cossack kitchen for perogies, kielbasa, lazy cabbage rolls, and borscht.
+Sunday, January 12, the Festival will bring back the Julian calendar and celebrate the Olde New Year with Byzantine food and entertainment including the Village Pig a delicious fire roasted suckling pig fresh from the spot and served on a bun. Kick up your feet with traditional Ukrainian melodies, beading, and Cheremosh Ukrainian dance. Don’t forget to stop by the Cossack kitchen for perogies, kielbasa, lazy cabbage rolls, and borscht.
 
 On the street, families can enjoy Heritage Activities including wagon rides, outdoor ice-skating, Olde Thyme curling, winter mini golf, giant ice slide, and competition de boucheron (log cutting competition), along with street hockey tournaments and the popular Cool Runnins’ Deep Freezer Race. Further activities include demonstrations from the Society for Creative Anachronism (medieval role play), as well as storytelling, aboriginal dance and displays of aboriginal crafts and customs in outdoor Tipis.
 
