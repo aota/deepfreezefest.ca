@@ -9,8 +9,8 @@ published: true
 # Getting to Deep Freeze
 
 Discover all the great Deep Freeze venues on the map below. <!-- or download a copy of our program. You can find the map on pages 24-25 of the program. -->
-![df2014-map-temp.jpg](/uploads/df2014-map-temp.jpg)
 
+![df2014-map-temp.jpg](/uploads/df2014-map-temp.jpg)
 
 Or you can [check out the google map.](http://goo.gl/maps/H2Cxk)
 
