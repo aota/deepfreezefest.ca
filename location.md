@@ -29,6 +29,6 @@ For more information on Edmonton Transit schedules and routes visit [takeets.com
 
 ## Road Closures at Deep Freeze Festival
 
-118 Ave will be closed from 90-94 Street from Saturday, January 11, 2014 at 8am until Sunday, January 12, 2014 at 8 pm to make way for Deep Freeze!
+118 Ave will be closed from 90-94 Street from Saturday, January 11, 2014 at 8 am until Sunday, January 12, 2014 at 8 pm to make way for Deep Freeze!
 
 ![DF2014-roadclosure.png](/uploads/DF2014-roadclosure.png)
