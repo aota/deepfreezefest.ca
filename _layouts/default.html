@@ -7,6 +7,9 @@ layout: base
     {{ content }}
   </div>
   <div class="large-4 columns">
+    {% capture global_side %}{% include side_global.md %}{% endcapture %}
+    {{ global_side | markdownify }}
+
     {% capture key %}{{ page.path | downcase }}{% endcapture %}
     {% case key %}
       {% when 'about.md' %}
