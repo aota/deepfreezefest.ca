@@ -6,7 +6,7 @@ headline: Festival Map
 lead: Discover all the great Deep Freeze venues on the map below.
 ---
 
-Also, you can [check out the google map.](http://goo.gl/maps/H2Cxk)
+Also, you can [check out the google map](http://goo.gl/maps/H2Cxk).
 
 <!-- or download a copy of our program. You can find the map on pages 24-25 of the program. -->
 
@@ -21,7 +21,7 @@ There are many spaces to park, but if you can walk or take transit it helps thos
 
 ## Transit
 
-For more information on Edmonton Transit schedules and routes visit [takeets.com](takeets.com)
+For more information on Edmonton Transit schedules and routes visit [takeets.com](http://takeets.com)
 
 ## Road Closures at Deep Freeze Festival
 
