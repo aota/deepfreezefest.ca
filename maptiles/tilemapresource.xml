@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>kaleido-2013-map.jpg</Title>
+      <Title>df2014-map-outlines.jpg.tif</Title>
       <Abstract></Abstract>
-      <SRS></SRS>
-      <BoundingBox minx="-4024.00000000000000" miny="0.00000000000000" maxx="0.00000000000000" maxy="5022.00000000000000"/>
-      <Origin x="-4024.00000000000000" y="0.00000000000000"/>
+      <SRS>PROJCS["unnamed",GEOGCS["unnamed ellipse",DATUM["unknown",SPHEROID["unnamed",6378137,0]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]]]</SRS>
+      <BoundingBox minx="-60112525.01998828351498" miny="-18027544.89169999957085" maxx="-20037508.33999999985099" maxy="18027544.89169999957085"/>
+      <Origin x="-60112525.01998828351498" y="-18027544.89169999957085"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="raster">
-        <TileSet href="0" units-per-pixel="32.00000000000000" order="0"/>
-        <TileSet href="1" units-per-pixel="16.00000000000000" order="1"/>
-        <TileSet href="2" units-per-pixel="8.00000000000000" order="2"/>
-        <TileSet href="3" units-per-pixel="4.00000000000000" order="3"/>
-        <TileSet href="4" units-per-pixel="2.00000000000000" order="4"/>
-        <TileSet href="5" units-per-pixel="1.00000000000000" order="5"/>
+        <TileSet href="0" units-per-pixel="233886.65580150010646" order="0"/>
+        <TileSet href="1" units-per-pixel="116943.32790075005323" order="1"/>
+        <TileSet href="2" units-per-pixel="58471.66395037502662" order="2"/>
+        <TileSet href="3" units-per-pixel="29235.83197518751331" order="3"/>
+        <TileSet href="4" units-per-pixel="14617.91598759375665" order="4"/>
+        <TileSet href="5" units-per-pixel="7308.95799379687833" order="5"/>
       </TileSets>
     </TileMap>
     
