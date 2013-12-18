@@ -18,7 +18,7 @@ To sign up, [download the application]({{ site.uploads }}AAMCEntryForm.pdf) form
 
 ## Artisan Market & Art Gallery
 
-Deep Freeze 2014 includes a juried art exhibition in four galleries in and along 118<sup>the</sup> Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118<sup>the</sup> Ave and 93 Street, as well as the Avenue Theatre lobby at 90 Street and 118 Avenue.
+Deep Freeze 2014 includes a juried art exhibition in four galleries in and along 118 Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118 Ave and 93 Street, as well as the Avenue Theatre lobby at 90 Street and 118 Avenue.
 
 For Deep Freeze Art Gallery inquiries contact deepfreezegallery@gmail.com
 For Deep Freeze Artisan Market inquiries contact deepfreezemarket@gmail.com
@@ -26,7 +26,7 @@ For Deep Freeze Artisan Market inquiries contact deepfreezemarket@gmail.com
 
 ### Call for Submissions
 
-AAll artists and artisans are welcome to apply. Submission Deadline is November 30, 2013, although late submissions may be accepted depending on quantity of submissions.
+All artists and artisans are welcome to apply. Submission Deadline is November 30, 2013, although late submissions may be accepted depending on quantity of submissions.
 
 Download the Call for Submissions for both the Art Gallery exhibition as well as the Artisan Market here:
 
@@ -43,9 +43,15 @@ Download the Call for Submissions for both the Art Gallery exhibition as well as
 
 Download the [Yarn Bomb application form]({{ site.uploads }}Deep-Freeze-2014-Call-to-knitters.pdf).
 
-**Submission Deadline: December 15, 2013**
+**Submission Deadline: December 30, 2013**
 
 
+## Thaw Hut Competition
+
+We’re excited to welcome M.A.D.E. (Media Architecture Design Edmonton) back to the Deep Freeze festival where they will be running an innovative project combining art with functionality. Local architects and designers will be on site creating spaces that are both beautiful but functional winter warming spaces. Make sure to drop by (between 91 St - 92 St on 118 Avenue) and check out their work! The award for best design will presented be Sunday at 3:30 pm on the Community Centre stage.
+*all tools powered by solar energy! Come by for a cookie too!*
+
+Apply for the [Thaw Hut Competition Here](http://joinmade.org/thaw-hut-competition)
 
 ## Ice Sculptors
 
