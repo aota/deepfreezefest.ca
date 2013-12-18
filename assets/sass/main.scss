@@ -11,7 +11,8 @@ $secondary-color: rgb(59, 158, 169);
 
 // $alt-color: rgb(62, 205, 222);
 
-$orange: rgb(90, 53, 81);
+$purple: rgb(90, 53, 81);
+$orange: rgb(221, 111, 61);
 
 // $red: #DA4E2B;
 // $orange: #91832A;
@@ -60,7 +61,7 @@ $micro: 12px;
 @import "modules/banner";
 @import "modules/map";
 @import "modules/timetable";
-@import "modules/ordinal";
+@import "modules/venuelist";
 @import "modules/stage";
 @import "modules/sponsor";
 @import "modules/jump";

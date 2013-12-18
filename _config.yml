@@ -2,7 +2,7 @@ permalink: /log/:title/
 relative_permalinks: false
 markdown: rdiscount
 timezone: America/Edmonton
-exclude: [.gitignore, .editorconfig, Gemfile, Gemfile.lock, README.md, 'sass']
+exclude: [.gitignore, .editorconfig, Gemfile, Gemfile.lock, README.md, 'sass', togeo.py]
 
 name: "Deep Freeze: A Byzantine Winter Festival"
 url: http://deepfreezefest.ca

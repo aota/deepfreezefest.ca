@@ -5,30 +5,31 @@ layout: base
 <div class="row">
   <div class="column large-8">
     {% if page.headline %}<h1>{{ page.headline }}</h1>{% endif %}
+    {% if page.lead %}<p>{{ page.lead }}</p>{% endif %}
     <div id="map" class="map"></div>
   </div>
   <div class="columns large-4">
     <h2>Venues</h2>
-    <ol class="listless">
-      <li><span class="ordinal ordinal-small">1</span>630 CHED Avenue Central Stage</li>
-      <li><span class="ordinal ordinal-small">2</span>The Carrot Community Arts Coffeehouse</li>
-      <li><span class="ordinal ordinal-small">3</span>Don’s Grand Piano Gallery Stage</li>
-      <li><span class="ordinal ordinal-small">4</span>B<sup>2</sup> & B There Stage (In St. Faith’s Church)</li>
-      <li><span class="ordinal ordinal-small">5</span>Bedouin Beats Caravan Stage</li>
-      <li><span class="ordinal ordinal-small">6</span>Arts Hub 118, Back Balcony</li>
-      <li><span class="ordinal ordinal-small">7</span>Nina Haggerty Centre for the Arts</li>
-      <li><span class="ordinal ordinal-small">8</span>The Studio (Independent Gallery)</li>
-      <li><span class="ordinal ordinal-small">9</span>Studio Alley Stage</li>
-      <li><span class="ordinal ordinal-small">10</span>Kaleido Theatre (Alberta Avenue Community League)</li>
+
+    <ol class="venuelist">
+      <li><span>The Carrot Community Arts Coffeehouse <small>(Coffee &amp; Music)</small></span></li>
+      <li><span>Nina Haggerty Centre for the Arts <small>(Workshops &amp; Gallery)</small></span></li>
+      <li><span>The Anglican Parishes of St. Faith’s and St. Stephen the Martyr <small>(Artisan Market &amp; Performances)</small></span></li>
+      <li><span>Avenue Theatre <small>(Dance, Music performances and Theatre)</small></span></li>
+      <li><span>On the Street <small>(Street Hockey &amp; Activities)</small></span></li>
+      <li><span>Alberta Avenue Community Centre <small>(Eatery &amp; Performance Stage)</small></span></li>
+      <li><span>Alberta Avenue Park <small>(Toboggan, Deep Freezer Races &amp; more)</small></span></li>
+      <li><span>Tom Fool’s Ice &amp; Snow Kingdom <small>(Outdoor Family Fun!)</small></span></li>
+      <li><span>Ice Promenade</span></li>
+      <li><span>Thaw Hut Competition</span></li>
+      <li><span>Bedouin Beats Workshops</span></li>
+      <li><span>Pipon Village &amp; Odin's Ravens Viking Village</span></li>
+      <li><span>The Studio Galleries &amp; Art Markets</span></li>
     </ol>
 
-    <!-- <h2>Galleries</h2>
-    <ol class="listless">
-      <li>Nina Haggerty Centre for the Arts</li>
-      <li>B<sup>2</sup> &amp; B There Gallery</li>
-      <li>The Carrot Community Arts Coffeehouse</li>
-      <li>The Studio (Independent Gallery)</li>
-    </ol> -->
+    {% comment %}<p>Galleries &amp; Art Markets</p>{% endcomment %}
+
+    <p>Please check program for schedule times</p>
 
   </div>
 </div>
@@ -38,7 +39,7 @@ layout: base
     {{ content }}
   </div>
   <div class="columns large-4">
-  <!-- download PDF map -->
+    {% include map.html %}
   </div>
 </div>
 
@@ -47,18 +48,20 @@ layout: base
   // initialize the map on the "map" div
   var opts = {
     scrollWheelZoom: false,
-    center: [-67.34,-68.91],
+    center: [-37.30027528134431, -72.24609375],
     zoom: 2,
-    // center: [-73.07,-76.46],
-    // zoom: 3,
     zoomControl: !Modernizr.touch,
     fullscreenControl: true,
     attributionControl: false
   };
 
   var map = L.map('map', opts);
+  map.on('click', function(e) {
+    console.log(map.getCenter());
+  })
 
   // festival map image TMS layer
+  // https://www.dropbox.com/sh/05tpqj42s2olgz7/LMgd3Urn9t/5/0/20.png
   L.tileLayer('/maptiles/{z}/{x}/{y}.png', {
       maxZoom: 5,
       minZoom: 1,
