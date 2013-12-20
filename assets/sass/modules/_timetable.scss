@@ -14,22 +14,22 @@
     font-size: 80%;
   }
 
+  td:first-child {
+    width: 150px;
+  }
+
   @media #{$small} {
     margin-bottom: 30px;
+  }
+
+  ul {
+    margin: 0.5em 0 1em 2em;
+    li {
+      line-height: 1.2;
+    }
   }
 }
 
 .timetable-hour {
   width: 90px;
-}
-
-.timetable-length {
-  white-space: nowrap;
-  font-size: 80%;
-  &:before {
-    content: "{";
-  }
-  &:after {
-    content: "}";
-  }
 }
