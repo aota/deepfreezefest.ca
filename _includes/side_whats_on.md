@@ -2,3 +2,5 @@
 
 {% include map.html %}
 
+{% include schedules.html %}
+
