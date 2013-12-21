@@ -1,6 +1,11 @@
 .stage {
   margin-bottom: 2em;
+
   @media #{$small} {
     margin-bottom: 0;
+  }
+
+  h1, h2 {
+    line-height: 1.6;
   }
 }

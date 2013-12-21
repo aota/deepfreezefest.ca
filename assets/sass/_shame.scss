@@ -18,3 +18,8 @@ input[type="image"] {
 .milli {
   font-size: $milli;
 }
+
+.ordinal {
+  color: $purple-light;
+  margin-right: emCalc(5px);
+}

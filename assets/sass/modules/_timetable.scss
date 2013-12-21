@@ -3,10 +3,10 @@
   margin-bottom: 10px;
 
   tr > td {
-    color: $secondary-color;
+    color: lighten($purple-light, 10%);
   }
   tr:nth-child(2n) > td {
-    color: $primary-color;
+    color: $purple-light;
   }
 
   td > small {
