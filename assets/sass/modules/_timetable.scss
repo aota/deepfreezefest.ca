@@ -3,10 +3,10 @@
   margin-bottom: 10px;
 
   tr > td {
-    color: $secondary-color;
+    color: lighten($purple-light, 10%);
   }
   tr:nth-child(2n) > td {
-    color: $primary-color;
+    color: $purple-light;
   }
 
   td > small {
@@ -14,22 +14,29 @@
     font-size: 80%;
   }
 
+  td {
+    line-height: 1.3;
+    &:first-child {
+      width: 100px;
+      vertical-align: top;
+      @media #{$small} {
+        width: 150px;
+      }
+    }
+  }
+
   @media #{$small} {
     margin-bottom: 30px;
+  }
+
+  ul {
+    margin: 0.5em 0 1em 2em;
+    li {
+      line-height: 1.2;
+    }
   }
 }
 
 .timetable-hour {
   width: 90px;
-}
-
-.timetable-length {
-  white-space: nowrap;
-  font-size: 80%;
-  &:before {
-    content: "{";
-  }
-  &:after {
-    content: "}";
-  }
 }

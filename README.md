@@ -25,17 +25,6 @@ See [Bourbon.io][bourbon]
 
 To compile, run the following command from the root directory: `sass --watch assets/sass:assets/css --style compressed`
 
-## Misc
-
-Regex for wrapping `{10 mins}` found in schedule: `\{(\d+\s\w*)\}` replace with something like `<time class="timetable-duration">\1</time>`
-
-
-[no-plugins]: http://jekyllrb.com/docs/plugins/
-[sitemap_gen]: https://github.com/kinnetica/jekyll-plugins
-[foundation]: http://foundation.zurb.com/
-[bourbon]: http://bourbon.io/docs/
-
-
 ## Generating Map tiles
 
 Read [this](http://macwright.org/2012/08/13/images-as-maps.html) and [this](http://build-failed.blogspot.ca/2012/11/zoomable-image-with-leaflet.html).
@@ -46,3 +35,9 @@ These are the commands to generate new map tiles. Source files not included; `df
 python togeo.py df2014-map.jpg
 gdal2tiles.py -p raster df2014-map.jpg.tif maptiles
 ```
+
+
+[no-plugins]: http://jekyllrb.com/docs/plugins/
+[sitemap_gen]: https://github.com/kinnetica/jekyll-plugins
+[foundation]: http://foundation.zurb.com/
+[bourbon]: http://bourbon.io/docs/

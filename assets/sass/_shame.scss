@@ -14,3 +14,12 @@
 input[type="image"] {
   max-width: 100%;
 }
+
+.milli {
+  font-size: $milli;
+}
+
+.ordinal {
+  color: $purple-light;
+  margin-right: emCalc(5px);
+}
