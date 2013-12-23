@@ -20,3 +20,9 @@ Full Festival Running Noon - 6:00pm
 ## Sunday, January 12, 2014
 
 Full Festival Running 12:00-6:00 pm
+
+## Admission
+
+**The festival is free! There is no admission fee!**
+
+Pay what you can donation tubes are located around the festival site and accept cash donations.
