@@ -174,34 +174,6 @@
   <script>
     // kick off Foundation plugins
     $(document).foundation();
-
-
-    // link artists in schedule to data from Google spreadsheet
-    var bios_url = 'https://docs.google.com/spreadsheet/pub?key=0AoKtH4sykA8IdEx4RU1xaFUzemtwUXI1TnlLWlF4NlE&output=csv';
-    if(true) {
-      d3.csv(bios_url, function(data) {
-
-        // capture interaction artist bio popups
-        $('.timetable > tbody > tr').mouseover(function(){
-          var key = $(this).data('artist-key')
-          var artist = false
-
-          if (!key) return;
-
-          artist = _.find(data, function(item){
-            return $.trim( item.Artist ) === key
-          })
-
-          if (!artist) return;
-
-          if (window.console) console.log(artist);
-
-
-        })
-
-
-      })
-    }
   </script>
 
   <!-- Google Analytics -->
