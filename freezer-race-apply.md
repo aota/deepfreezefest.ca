@@ -21,7 +21,7 @@ Enter at your own risk. All team members must sign a waiver. Waivers will be ava
 
 ## Submission Deadline: January 5, 2014
 
-To enter, fill out the form below or download the [PDF application]({{ site.uploads }}2013-deepfreeze-race-application.pdf) and send it to **9351 118 Ave, Edmonton, AB T5G 0N3**. Deadline January 5, 2014.
+To enter, fill out the form below or download the [PDF application](https://www.dropbox.com/s/1b8918smid7wtur/2013-deepfreeze-race-application.pdf) and send it to **9351 118 Ave, Edmonton, AB T5G 0N3**. Deadline January 5, 2014.
 
 ### Online Application
 
