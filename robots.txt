@@ -3,3 +3,7 @@
 User-agent: *
 Disallow: /assets/
 Disallow: /uploads/
+
+# allow link checker full access
+User-Agent: W3C-checklink
+Disallow:
