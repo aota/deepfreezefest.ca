@@ -7,7 +7,7 @@ published: true
 
 # News
 
-## Arts of Life Studio of Edmonton invites everyone to experience Malanka!
+## Arts of Life Studio of Edmonton invites everyone to experience Malanka on Jan 12!
 
 Arts of Life Studio of Edmonton invites everyone to experience Malanka - Ukrainian folk holiday celebrated on January 13th, which is New Year's Eve in accordance with the Julian calendar.  We invite everyone to carol with us and to participate in our Koza games and dances. 
 
