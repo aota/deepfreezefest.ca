@@ -13,7 +13,7 @@ published: true
 
 Pay what you can donation tubes are located around the festival site and accept cash donations.
 
-## Saturday, January 11, 2014
+## Saturday, January 10, 2015
 
 Full Festival Running Noon - 6:00pm
 
@@ -23,7 +23,6 @@ Full Festival Running Noon - 6:00pm
 
 7:00-11:00 pm The Vikings are Coming evening dance *Tickets required – available for purchase at the Carrot Coffeehouse or festival info booths.
 
-## Sunday, January 12, 2014
+## Sunday, January 11, 2015
 
 Full Festival Running 12:00-6:00 pm
-
