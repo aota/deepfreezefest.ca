@@ -18,13 +18,13 @@ To sign up, [download the application](https://www.dropbox.com/s/dvj002c5pbfwiov
 
 ## Artisan Market & Art Gallery
 
-Deep Freeze 2014 includes a juried art exhibition in four galleries in and along 118 Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118 Ave and 93 Street, as well as the Avenue Theatre lobby at 90 Street and 118 Avenue.
+Deep Freeze 2015 includes a juried art exhibition in four galleries in and along 118 Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118 Ave and 93 Street, as well as the Avenue Theatre lobby at 90 Street and 118 Avenue.
 
 For Deep Freeze Art Gallery inquiries contact deepfreezegallery@gmail.com
 For Deep Freeze Artisan Market inquiries contact deepfreezemarket@gmail.com
 
 
-### Call for Submissions
+<!--### Call for Submissions
 
 All artists and artisans are welcome to apply. Submission Deadline is November 30, 2013, although late submissions may be accepted depending on quantity of submissions.
 
@@ -33,9 +33,10 @@ Download the Call for Submissions for both the Art Gallery exhibition as well as
 [Call for Submissions - Art Gallery](https://www.dropbox.com/s/fog6gvbkyfm8qdt/DF2014-Call-to-Enter-Gallery.pdf)
 
 [Call for Submissions - Arts Market Table](https://www.dropbox.com/s/x2pbd48zyr6p3vp/DF2014-Call-to-Enter-Market.pdf)
+-->
 
 
-## Yarn Bomb a Lamppost Competition
+<!--## Yarn Bomb a Lamppost Competition
 
 1. Form a group of 1-3 artists.
 2. Email <deepfreezelamppost@gmail.com> for an application form.
@@ -98,4 +99,4 @@ Download the [Freezer Race application form](https://www.dropbox.com/s/pyb6i2vcv
 
 <a class="button small" href="/whats-on/freezer-race/apply/">Apply Online</a>
 
-For more information, contact us at <deepfreezerrace@gmail.com>
+For more information, contact us at <deepfreezerrace@gmail.com>-->
