@@ -9,7 +9,7 @@ published: true
 
 ## Byzantine Delights & Outdoor Fun!
 
-Please check back for more information about our **RETURN of the Vikings!** Party, Chisel and Chainsaw Ice Carving Competition, Olde Tyme Curling, Horse and Wagon Rides and more!
+Please check back for more information about our Artisan Market, Art Galleries,  **RETURN of the Vikings!** Party, Chisel and Chainsaw Ice Carving Competition, Olde Tyme Curling, Horse and Wagon Rides and more!
 
 <!-- ### Art Gallery Show and Sale
 
