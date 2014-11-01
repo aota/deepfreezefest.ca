@@ -20,7 +20,7 @@ Please don’t hesitate to email deepfreezehockey@gmail.com with any questions.
 The tournament consists of round-robin play as well as playoffs. The round-robin has 4 divisions, with four teams in each. Each team will play 3 round robin games in its pool. Playoffs are a guaranteed 2 games. 
 
 To register your team, please email deepfreezehockey@gmail.com.
-
+<!--
 Download the [Tournament application form](https://www.dropbox.com/s/f1zo6kqwjalxol4/Hockey-Call-Out-2014.pdf).
 
-**Registration deadline is Noon on January 9, 2014** (Late submissions will be accepted if space allows).
+**Registration deadline is Noon on January 9, 2014** (Late submissions will be accepted if space allows). -->
