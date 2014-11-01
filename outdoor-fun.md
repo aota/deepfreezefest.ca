@@ -9,7 +9,9 @@ published: true
 
 ## Byzantine Delights & Outdoor Fun!
 
-### Art Gallery Show and Sale
+Please check back for more information about our **RETURN of the Vikings!** Party, Chisel and Chainsaw Ice Carving Competition, Olde Tyme Curling, Horse and Wagon Rides and more!
+
+<!-- ### Art Gallery Show and Sale
 
 Be inspired by artworks from local visual artists who work in a multitude of mediums and styles. We have three Art Galleries; located inside the Nina Haggerty Centre for the Arts (9225–118 Ave), The Carrot (9351–118 Ave) and the independent gallery, The Studio (11739–94 Street).
 
@@ -17,9 +19,6 @@ Be inspired by artworks from local visual artists who work in a multitude of med
 
 Come shop original and local at the Artisan Village and Market, located in the Anglican Parishes of St. Faith’s and St. Stephen the Martyr (11725–93 St). This unique arts market offers a spectacular collection of hand-crafted products from local craft artisans.
 
-Please check back for more information about our **RETURN of the Vikings!** Party, Chisel and Chainsaw Ice Carving Competition, Olde Tyme Curling, Horse and Wagon Rides and more!
-
-<!-- 
 ### Fireworks Tribute to Don Snider
 
 **Saturday at 6pm**
