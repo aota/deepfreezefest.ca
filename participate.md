@@ -6,6 +6,7 @@ published: true
 ---
 
 # Participate
+Please check back for information on how to participate in fun events like the Artisan Market & Art Galleries, various art installations, Thaw Hut, Ice Sculpting Competition, Street Hockey Tourny, Deep Freezer Races and more!
 
 <!-- ## The Mummers Play Challenge
 
@@ -14,7 +15,6 @@ The Mummers Play Challenge is the contest for community people to form teams and
 To sign up, [download the application](https://www.dropbox.com/s/dvj002c5pbfwiov/AAMCEntryForm.pdf) form and drop it off at The Carrot Coffeehouse.
 
 [Check out the full information on the Mummer Play Challenge here](/whats-on/mummers/) 
--->
 
 ## Artisan Market & Art Gallery
 
@@ -24,7 +24,7 @@ For Deep Freeze Art Gallery inquiries contact deepfreezegallery@gmail.com
 For Deep Freeze Artisan Market inquiries contact deepfreezemarket@gmail.com
 
 
-<!--### Call for Submissions
+### Call for Submissions
 
 All artists and artisans are welcome to apply. Submission Deadline is November 30, 2013, although late submissions may be accepted depending on quantity of submissions.
 
@@ -33,10 +33,9 @@ Download the Call for Submissions for both the Art Gallery exhibition as well as
 [Call for Submissions - Art Gallery](https://www.dropbox.com/s/fog6gvbkyfm8qdt/DF2014-Call-to-Enter-Gallery.pdf)
 
 [Call for Submissions - Arts Market Table](https://www.dropbox.com/s/x2pbd48zyr6p3vp/DF2014-Call-to-Enter-Market.pdf)
--->
 
 
-<!--## Yarn Bomb a Lamppost Competition
+## Yarn Bomb a Lamppost Competition
 
 1. Form a group of 1-3 artists.
 2. Email <deepfreezelamppost@gmail.com> for an application form.
@@ -87,8 +86,6 @@ Download the [Tournament application form](https://www.dropbox.com/s/f1zo6kqwjal
 
 **Registration deadline is Noon on January 9, 2014** (Late submissions will be accepted if space allows).
 
-
-
 ## Cool Runnin’ Deep Freezer Races
 
 Show your team spirit! Prizes will be awarded to the team with the best “Outfits”.
@@ -99,4 +96,4 @@ Download the [Freezer Race application form](https://www.dropbox.com/s/pyb6i2vcv
 
 <a class="button small" href="/whats-on/freezer-race/apply/">Apply Online</a>
 
-For more information, contact us at <deepfreezerrace@gmail.com>-->
+For more information, contact us at <deepfreezerrace@gmail.com> -->
