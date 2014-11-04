@@ -24,7 +24,7 @@ Teams are encouraged to dress up and bring their team spirit! **Prizes will be a
 
 Enter at your own risk. All team members must sign a waiver. Waivers will be available to sign at the event. All waivers must be signed and presented before entering the race.
 
-To enter, fill out the form below or download the [PDF application](https://www.dropbox.com/s/08u5tqgifx6ndti/DF2015-DeepFreezerRace-Application.pdf?dl=1) and send it to **9351 118 Ave, Edmonton, AB T5G 0N3**. Deadline January 2, 2015.
+To enter, fill out the online form (see below) or download the [PDF application](https://www.dropbox.com/s/08u5tqgifx6ndti/DF2015-DeepFreezerRace-Application.pdf?dl=1) and send it to **9351 118 Ave, Edmonton, AB T5G 0N3**. Deadline January 2, 2015.
 
 ### Online Application
 
