@@ -21,6 +21,6 @@ The tournament consists of round-robin play as well as playoffs. The round-robin
 
 To register your team, please email deepfreezehockey@gmail.com.
 
-Download the [Tournament application form](https://www.dropbox.com/s/n4vng3vbug43d38/DF2015-StreetHockey-Application.pdf?dl=0).
+Download the [Tournament application form](https://www.dropbox.com/s/n4vng3vbug43d38/DF2015-StreetHockey-Application.pdf?dl=1).
 
 **Registration deadline is Noon on January 2, 2015** (Late submissions will be accepted if space allows).
