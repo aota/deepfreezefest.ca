@@ -34,6 +34,26 @@ Download the Call for Submissions for both the Art Gallery exhibition as well as
 
 [Call for Submissions - Arts Market Table](https://www.dropbox.com/s/jf1a6ghyqg4s2en/DF2015-Artisan-Call.pdf?dl=0)
 
+## Street Hockey Tournament
+
+To register your team, please email <deepfreezehockey@gmail.com>.
+
+Download the [Tournament application form](https://www.dropbox.com/s/n4vng3vbug43d38/DF2015-StreetHockey-Application.pdf?dl=0).
+
+**Registration deadline is Noon on January 9, 2014** (Late submissions will be accepted if space allows).
+
+## Cool Runnin’ Deep Freezer Races
+
+Show your team spirit! Prizes will be awarded to the team with the best “Outfits”.
+
+**Registration deadline is January 6, 2014**
+
+Download the [Freezer Race application form](https://www.dropbox.com/s/08u5tqgifx6ndti/DF2015-DeepFreezerRace-Application.pdf?dl=0).
+
+<a class="button small" href="/whats-on/freezer-race/apply/">Apply Online</a>
+
+For more information, contact us at <deepfreezerrace@gmail.com> 
+
 <!-- 
 ## Yarn Bomb a Lamppost Competition
 
@@ -76,24 +96,4 @@ Download the [General Info & Guidelines](https://www.dropbox.com/s/cs58sz25vo0ac
 For more information contact: <deepfreezeice@gmail.com>
 
 **Submission Deadline: Friday December 30, 2013** (Late application will be considered if space allows)
-
-
-## Street Hockey Tournament
-
-To register your team, please email <deepfreezehockey@gmail.com>.
-
-Download the [Tournament application form](https://www.dropbox.com/s/f1zo6kqwjalxol4/Hockey-Call-Out-2014.pdf).
-
-**Registration deadline is Noon on January 9, 2014** (Late submissions will be accepted if space allows).
-
-## Cool Runnin’ Deep Freezer Races
-
-Show your team spirit! Prizes will be awarded to the team with the best “Outfits”.
-
-**Registration deadline is January 6, 2014**
-
-Download the [Freezer Race application form](https://www.dropbox.com/s/pyb6i2vcvhgnr6p/Freezer-Race-Application-Form.pdf).
-
-<a class="button small" href="/whats-on/freezer-race/apply/">Apply Online</a>
-
-For more information, contact us at <deepfreezerrace@gmail.com> -->
+-->
