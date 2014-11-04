@@ -14,11 +14,11 @@ The Mummers Play Challenge is the contest for community people to form teams and
 
 To sign up, [download the application](https://www.dropbox.com/s/dvj002c5pbfwiov/AAMCEntryForm.pdf) form and drop it off at The Carrot Coffeehouse.
 
-[Check out the full information on the Mummer Play Challenge here](/whats-on/mummers/) 
+[Check out the full information on the Mummer Play Challenge here](/whats-on/mummers/) -->
 
 ## Artisan Market & Art Gallery
 
-Deep Freeze 2015 includes a juried art exhibition in four galleries in and along 118 Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118 Ave and 93 Street, as well as the Avenue Theatre lobby at 90 Street and 118 Avenue.
+Deep Freeze 2015 includes a juried art exhibition in three galleries in and along 118 Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118 Ave and 93 Street.
 
 For Deep Freeze Art Gallery inquiries contact deepfreezegallery@gmail.com
 For Deep Freeze Artisan Market inquiries contact deepfreezemarket@gmail.com
@@ -30,9 +30,10 @@ All artists and artisans are welcome to apply. Submission Deadline is November 3
 
 Download the Call for Submissions for both the Art Gallery exhibition as well as the Artisan Market here:
 
-[Call for Submissions - Art Gallery](https://www.dropbox.com/s/fog6gvbkyfm8qdt/DF2014-Call-to-Enter-Gallery.pdf)
+[Call for Submissions - Art Gallery](https://www.dropbox.com/s/a70s0cfu3paylo6/DF2015-ArtGallery-Call.pdf?dl=0)
 
-[Call for Submissions - Arts Market Table](https://www.dropbox.com/s/x2pbd48zyr6p3vp/DF2014-Call-to-Enter-Market.pdf)
+[Call for Submissions - Arts Market Table](https://www.dropbox.com/s/jf1a6ghyqg4s2en/DF2015-Artisan-Call.pdf?dl=0)
+-->
 
 
 ## Yarn Bomb a Lamppost Competition
