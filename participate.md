@@ -33,9 +33,8 @@ Download the Call for Submissions for both the Art Gallery exhibition as well as
 [Call for Submissions - Art Gallery](https://www.dropbox.com/s/a70s0cfu3paylo6/DF2015-ArtGallery-Call.pdf?dl=0)
 
 [Call for Submissions - Arts Market Table](https://www.dropbox.com/s/jf1a6ghyqg4s2en/DF2015-Artisan-Call.pdf?dl=0)
--->
 
-
+<!-- 
 ## Yarn Bomb a Lamppost Competition
 
 1. Form a group of 1-3 artists.
