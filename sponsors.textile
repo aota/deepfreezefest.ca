@@ -18,7 +18,7 @@ Special thanks to all those who support our festival.
 
 <img src="{{ site.uploads }}sponsors.jpg" alt="Deep Freeze sponsors logos">
 
-<!--   
+{% comment %}  
 <div class="row">
 <div class="columns large-6">
 
@@ -110,4 +110,4 @@ h2. Summit Ridge Sponsors
 
   </div>
 </div>
--->
+{% endcomment %}
