@@ -2,6 +2,7 @@
 layout: full
 permalink: /sponsors/
 title: Sponsors
+published: true
 ---
 
 {% comment %}
@@ -17,8 +18,9 @@ Special thanks to all those who support our festival.
 
 <img src="{{ site.uploads }}sponsors.jpg" alt="Deep Freeze sponsors logos">
 
+<!--   
 <div class="row">
-  <div class="columns large-6">
+<div class="columns large-6">
 
   <ul>
     <li><a title="City of Edmonton" href="http://www.edmonton.ca" target="_blank">City of Edmonton</a></li>
@@ -108,6 +110,4 @@ h2. Summit Ridge Sponsors
 
   </div>
 </div>
-
-
-
+-->
