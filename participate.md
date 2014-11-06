@@ -54,6 +54,30 @@ Download the [Freezer Race application form](https://www.dropbox.com/s/08u5tqgif
 
 For more information, contact us at <deepfreezerrace@gmail.com> 
 
+## Ice Sculptors
+
+Deep Freeze presents the Eighth Annual Ice Sculpting Contest
+
+2014 Sculpting Theme: **The RETURN of the Vikings!**
+
+**January 10, 2015, 10:00 am to January 11, 2015 2:00 pm** at the Alberta Avenue Community League (9210 – 118 Avenue, Edmonton, AB)
+
+1. First Place $500
+1. Second Place $300
+1. Third Place $100
+
+We invite all artists to participate in creating a gallery of ice sculptures for all of Edmonton to enjoy. Artists are provided with ice blocks and an honorarium for their work.
+
+<!--Download the [Ice Sculptors application form](https://www.dropbox.com/s/x4n119xd1y0huo3/DF2015-ChiselChainsaw-Application.pdf?dl=0).-->
+
+Download the [Waiver and Registration form](https://www.dropbox.com/s/x4n119xd1y0huo3/DF2015-ChiselChainsaw-Application.pdf?dl=0.
+
+Download the [General Info & Guidelines](https://www.dropbox.com/s/uqkzt92tt8bo5vp/DF2015-ChiselChainsaw-Guidelines.pdf?dl=0).
+
+For more information contact: <deepfreezeice@gmail.com>
+
+**Submission Deadline: Friday December 30, 2013** (Late application will be considered if space allows)
+
 <!-- 
 ## Yarn Bomb a Lamppost Competition
 
@@ -72,28 +96,4 @@ We’re excited to welcome M.A.D.E. (Media Architecture Design Edmonton) back to
 *all tools powered by solar energy! Come by for a cookie too!*
 
 Apply for the [Thaw Hut Competition Here](http://joinmade.org/thaw-hut-competition)
-
-## Ice Sculptors
-
-Deep Freeze presents the Seventh Annual Ice Sculpting Contest
-
-2014 Sculpting Theme: **The Vikings are coming!**
-
-**January 11, 2014, 10:00 am to January 12, 2014 2:00 pm** at the Alberta Avenue Community League (9210 – 118 Avenue, Edmonton, AB)
-
-1. First Place $300
-1. Second Place $200
-1. Third Place $100
-
-We invite all artists to participate in creating a gallery of ice sculptures for all of Edmonton to enjoy. Artists are provided with ice blocks and an honorarium for their work.
-
-Download the [Ice Sculptors application form](https://www.dropbox.com/s/1ehxgrso80g5g4u/Ice-Sculpture-Contest-2014.pdf).
-
-Download the [Waiver and Registration form](https://www.dropbox.com/s/rorafw4x4zhrqh7/2014%20ice%20waiver%20and%20registration%20form.pdf).
-
-Download the [General Info & Guidelines](https://www.dropbox.com/s/cs58sz25vo0acpu/2014%20ice%20guidelines.pdf).
-
-For more information contact: <deepfreezeice@gmail.com>
-
-**Submission Deadline: Friday December 30, 2013** (Late application will be considered if space allows)
 -->
