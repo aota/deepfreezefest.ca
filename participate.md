@@ -76,7 +76,7 @@ Download the [General Info & Guidelines](https://www.dropbox.com/s/uqkzt92tt8bo5
 
 For more information contact: <deepfreezeice@gmail.com>
 
-**Submission Deadline: Friday December 30, 2013** (Late application will be considered if space allows)
+**Submission Deadline: Friday December 12, 2014** (Late application will be considered if space allows.)
 
 <!-- 
 ## Yarn Bomb a Lamppost Competition
