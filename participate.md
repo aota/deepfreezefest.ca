@@ -70,7 +70,7 @@ We invite all artists to participate in creating a gallery of ice sculptures for
 
 <!--Download the [Ice Sculptors application form](https://www.dropbox.com/s/x4n119xd1y0huo3/DF2015-ChiselChainsaw-Application.pdf?dl=0).-->
 
-Download the [Waiver and Registration form](https://www.dropbox.com/s/x4n119xd1y0huo3/DF2015-ChiselChainsaw-Application.pdf?dl=0.
+Download the [Waiver and Registration form](https://www.dropbox.com/s/x4n119xd1y0huo3/DF2015-ChiselChainsaw-Application.pdf?dl=0).
 
 Download the [General Info & Guidelines](https://www.dropbox.com/s/uqkzt92tt8bo5vp/DF2015-ChiselChainsaw-Guidelines.pdf?dl=0).
 
