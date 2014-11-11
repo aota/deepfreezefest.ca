@@ -1,11 +1,9 @@
-![](/uploads/ice-sculptor.jpg)
+![](/uploads/participate1.jpg)
 
-![](/uploads/freezer-race.jpg)
+![](/uploads/participate2.jpg)
 
-![](/uploads/artgallery-2.jpg)
+![](/uploads/participate3.jpg)
 
-![](/uploads/street-hockey-1.jpg)
+![](/uploads/participate4.jpg)
 
-![](/uploads/pipon-village.jpg)
-
-![](/uploads/snowvalley-sculpture.jpg)
+![](/uploads/participate5.jpg)
