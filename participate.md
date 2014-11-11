@@ -21,6 +21,7 @@ To sign up, [download the application](https://www.dropbox.com/s/dvj002c5pbfwiov
 Deep Freeze 2015 includes a juried art exhibition in three galleries in and along 118 Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118 Ave and 93 Street.
 
 For Deep Freeze Art Gallery inquiries contact deepfreezegallery@gmail.com
+
 For Deep Freeze Artisan Market inquiries contact deepfreezemarket@gmail.com
 
 
