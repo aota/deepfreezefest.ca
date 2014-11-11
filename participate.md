@@ -26,7 +26,7 @@ For Deep Freeze Artisan Market inquiries contact deepfreezemarket@gmail.com
 
 ### Call for Submissions
 
-All artists and artisans are welcome to apply. Submission Deadline is November 30, 2013, although late submissions may be accepted depending on quantity of submissions.
+All artists and artisans are welcome to apply. Submission Deadline is November 30, 2014, although late submissions may be accepted depending on quantity of submissions.
 
 Download the Call for Submissions for both the Art Gallery exhibition as well as the Artisan Market here:
 
