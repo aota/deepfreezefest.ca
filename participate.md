@@ -58,7 +58,7 @@ For more information, contact us at <deepfreezerrace@gmail.com>
 
 Deep Freeze presents the Eighth Annual Ice Sculpting Contest
 
-2014 Sculpting Theme: **The RETURN of the Vikings!**
+2015 Sculpting Theme: **The RETURN of the Vikings!**
 
 **January 10, 2015, 10:00 am to January 11, 2015 2:00 pm** at the Alberta Avenue Community League (9210 – 118 Avenue, Edmonton, AB)
 
