@@ -46,7 +46,7 @@ Download the [Tournament application form](https://www.dropbox.com/s/n4vng3vbug4
 
 Show your team spirit! Prizes will be awarded to the team with the best “Outfits”.
 
-**Registration deadline is January 6, 2014**
+**Registration deadline is January 2, 2015**
 
 Download the [Freezer Race application form](https://www.dropbox.com/s/08u5tqgifx6ndti/DF2015-DeepFreezerRace-Application.pdf?dl=0).
 
