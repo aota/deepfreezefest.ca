@@ -40,7 +40,7 @@ To register your team, please email <deepfreezehockey@gmail.com>.
 
 Download the [Tournament application form](https://www.dropbox.com/s/n4vng3vbug43d38/DF2015-StreetHockey-Application.pdf?dl=0).
 
-**Registration deadline is Noon on January 9, 2014** (Late submissions will be accepted if space allows).
+**Registration deadline is Noon on January 2, 2015** (Late submissions will be accepted if space allows).
 
 ## Cool Runnin’ Deep Freezer Races
 
