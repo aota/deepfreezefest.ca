@@ -11,12 +11,12 @@ published: true
 
 Yep – this is exactly what it sounds like: a Deep Freezer on skis, raced to a finish line. A huge hit the past two years, we’re very excited to bring this event back to Deep Freeze 2015!
 
-Be sure to watch for the races on both Saturday January 10 and Sunday January 11 – you don’t want to miss this!
+Be sure to watch for the races on both Saturday, January 10 and Sunday, January 11 – you don’t want to miss this!
 
 If you’re looking for a little excitement... register your team of five for a crazy fun time!
 
 ### Register your team today! Deadline: January 2, 2015
-Races take place between noon and 2pm on Saturday January 10<sup>th</sup> and Sunday January 11<sup>th</sup> on 118<sup>th</sup> Ave between 92 and 93 Street.
+Races take place between noon and 2pm on Saturday, January 10<sup>th</sup> and Sunday, January 11<sup>th</sup> on 118<sup>th</sup> Ave between 92 and 93 Street.
 
 Teams must have exactly 5 members: 3 ‘riders’ inside the freezer and 2 ‘pushers’. The three riders **MUST wear their own helmets** during the race. Those who do not have helmets will not race.
 
