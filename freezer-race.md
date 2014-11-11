@@ -11,7 +11,7 @@ published: true
 
 Yep – this is exactly what it sounds like: a Deep Freezer on skis, raced to a finish line. A huge hit the past two years, we’re very excited to bring this event back to Deep Freeze 2015!
 
-Be sure to watch for the races on both Saturday January 10 and Sunday January 10 – you don’t want to miss this!
+Be sure to watch for the races on both Saturday January 10 and Sunday January 11 – you don’t want to miss this!
 
 If you’re looking for a little excitement... register your team of five for a crazy fun time!
 
