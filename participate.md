@@ -87,7 +87,7 @@ Spin us a yarn and cozy up to a lampost! Add to this year's theme: **RETURN OF T
 2. Email <deepfreezelamppost@gmail.com> for an application form.
 3. Send us a short proposal outlining your project, and completed application form.
 
-Download the [Lampost Cozy Contest Application Form](https://www.dropbox.com/s/dldbft5uzqb2bq1/DF2015-LampostCozyContest.pdf?dl=0).
+Download the [Lampost Cozy Contest Information Sheet](https://www.dropbox.com/s/dldbft5uzqb2bq1/DF2015-LampostCozyContest.pdf?dl=0).
 
 **Submission Deadline: December 30, 2013**
 
