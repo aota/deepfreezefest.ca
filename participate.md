@@ -69,7 +69,7 @@ Deep Freeze presents the Eighth Annual Ice Sculpting Contest
 
 We invite all artists to participate in creating a gallery of ice sculptures for all of Edmonton to enjoy. Artists are provided with ice blocks and an honorarium for their work.
 
-<!--Download the [Ice Sculptors application form](https://www.dropbox.com/s/x4n119xd1y0huo3/DF2015-ChiselChainsaw-Application.pdf?dl=0).-->
+Download the [Ice Sculptors application form](https://www.dropbox.com/s/x4n119xd1y0huo3/DF2015-ChiselChainsaw-Application.pdf?dl=0).-->
 
 Download the [Waiver and Registration form](https://www.dropbox.com/s/x4n119xd1y0huo3/DF2015-ChiselChainsaw-Application.pdf?dl=0).
 
@@ -78,9 +78,10 @@ Download the [General Info & Guidelines](https://www.dropbox.com/s/uqkzt92tt8bo5
 For more information contact: <deepfreezeice@gmail.com>
 
 **Submission Deadline: Friday December 12, 2014** (Late application will be considered if space allows.)
+ 
+## Lamppost Cozy Contest
 
-<!-- 
-## Yarn Bomb a Lamppost Competition
+Spin us a yarn and cozy up to a lampost! Add to this year's theme: **RETURN OF THE VIKINGS** and have fun while gaining exposure, as over 25,000 festival goers appreciate your work.
 
 1. Form a group of 1-3 artists.
 2. Email <deepfreezelamppost@gmail.com> for an application form.
@@ -91,7 +92,7 @@ Download the [Yarn Bomb application form](https://www.dropbox.com/s/ro1vch4rew33
 **Submission Deadline: December 30, 2013**
 
 
-## Thaw Hut Competition
+<!--## Thaw Hut Competition
 
 We’re excited to welcome M.A.D.E. (Media Architecture Design Edmonton) back to the Deep Freeze festival where they will be running an innovative project combining art with functionality. Local architects and designers will be on site creating spaces that are both beautiful but functional winter warming spaces. Make sure to drop by (between 91 St - 92 St on 118 Avenue) and check out their work! The award for best design will presented be Sunday at 3:30 pm on the Community Centre stage.
 *all tools powered by solar energy! Come by for a cookie too!*
