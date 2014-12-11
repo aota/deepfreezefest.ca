@@ -26,4 +26,5 @@ Returning January 10 & 11, 2015, the Deep Freeze Winter Festival is a free famil
 
 This year’s theme **The Return of the Vikings!**  highlights the urban landscape and exceptional spaces on and around Alberta Avenue with free fun for all, including performances, art installations, ice-sculptures, heritage activities, food, street hockey, the legendary Deep Freezer races, spectacular fireworks and much more.
 
-[Dowloand the full Media Launch PDF](https://www.dropbox.com/s/2ghwjlppiggqmi5/DF-MediaLaunch-Dec23.pdf)
+<!--
+[Dowloand the full Media Launch PDF](https://www.dropbox.com/s/2ghwjlppiggqmi5/DF-MediaLaunch-Dec23.pdf) -->
