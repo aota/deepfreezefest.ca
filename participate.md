@@ -27,13 +27,14 @@ For Deep Freeze Artisan Market inquiries contact deepfreezemarket@gmail.com
 
 ### Call for Submissions
 
-All artists and artisans are welcome to apply. Submission Deadline is November 30, 2014, although late submissions may be accepted depending on quantity of submissions.
+Call for submission is now closed.
+<!--All artists and artisans are welcome to apply. Submission Deadline is November 30, 2014, although late submissions may be accepted depending on quantity of submissions.
 
 Download the Call for Submissions for both the Art Gallery exhibition as well as the Artisan Market here:
 
 [Call for Submissions - Art Gallery](https://www.dropbox.com/s/a70s0cfu3paylo6/DF2015-ArtGallery-Call.pdf?dl=0)
 
-[Call for Submissions - Arts Market Table](https://www.dropbox.com/s/jf1a6ghyqg4s2en/DF2015-Artisan-Call.pdf?dl=0)
+[Call for Submissions - Arts Market Table](https://www.dropbox.com/s/jf1a6ghyqg4s2en/DF2015-Artisan-Call.pdf?dl=0)-->
 
 ## Street Hockey Tournament
 
