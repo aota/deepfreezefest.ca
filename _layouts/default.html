@@ -27,6 +27,12 @@ layout: base
       {% when 'whats-on.md' %}
         {% capture sidebar %}{% include side_whats_on.md %}{% endcapture %}
         {{ sidebar | markdownify }}
+      {% when 'faq.md' %}
+        {% capture sidebar %}{% include side_faq.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'news.md' %}
+        {% capture sidebar %}{% include side_news.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
       {% when 'outdoor-fun.md' %}
         {% capture sidebar %}{% include side_outdoor_fun.md %}{% endcapture %}
         {{ sidebar | markdownify }}
