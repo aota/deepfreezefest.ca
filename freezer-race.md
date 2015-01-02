@@ -15,6 +15,8 @@ Be sure to watch for the races on both Saturday, January 10 and Sunday, January 
 
 If you’re looking for a little excitement... register your team of five for a crazy fun time!
 
+<iframe width="420" height="236" src="//www.youtube.com/embed/MeE6-7bGCt8" frameborder="0" allowfullscreen></iframe>
+
 ### Register your team today! Deadline: January 2, 2015
 Races take place between noon and 2pm on Saturday, January 10<sup>th</sup> and Sunday, January 11<sup>th</sup> on 118<sup>th</sup> Ave between 92 and 93 Street.
 
