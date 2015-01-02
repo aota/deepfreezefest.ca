@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>df2014-map-outlines.jpg.tif</Title>
+      <Title>df2015-map.png.tif</Title>
       <Abstract></Abstract>
       <SRS>PROJCS["unnamed",GEOGCS["unnamed ellipse",DATUM["unknown",SPHEROID["unnamed",6378137,0]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]]]</SRS>
-      <BoundingBox minx="-60112525.01998828351498" miny="-18027544.89169999957085" maxx="-20037508.33999999985099" maxy="18027544.89169999957085"/>
-      <Origin x="-60112525.01998828351498" y="-18027544.89169999957085"/>
+      <BoundingBox minx="-20037508.33999999985099" miny="-59763878.18570971488953" maxx="20037508.33999999985099" maxy="-19921292.72859999909997"/>
+      <Origin x="-20037508.33999999985099" y="-59763878.18570971488953"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="raster">
-        <TileSet href="0" units-per-pixel="233886.65580150010646" order="0"/>
-        <TileSet href="1" units-per-pixel="116943.32790075005323" order="1"/>
-        <TileSet href="2" units-per-pixel="58471.66395037502662" order="2"/>
-        <TileSet href="3" units-per-pixel="29235.83197518751331" order="3"/>
-        <TileSet href="4" units-per-pixel="14617.91598759375665" order="4"/>
-        <TileSet href="5" units-per-pixel="7308.95799379687833" order="5"/>
+        <TileSet href="0" units-per-pixel="309908.29718704690458" order="0"/>
+        <TileSet href="1" units-per-pixel="154954.14859352345229" order="1"/>
+        <TileSet href="2" units-per-pixel="77477.07429676172615" order="2"/>
+        <TileSet href="3" units-per-pixel="38738.53714838086307" order="3"/>
+        <TileSet href="4" units-per-pixel="19369.26857419043154" order="4"/>
       </TileSets>
     </TileMap>
     

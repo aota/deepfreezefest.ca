@@ -7,7 +7,7 @@ lead: Discover all the great Deep Freeze venues on the map below.
 published: true
 ---
 
-Also, you can [check out the google map](http://goo.gl/maps/H2Cxk).
+<!-- Also, you can [check out the google map](http://goo.gl/maps/H2Cxk). -->
 
 <!-- or download a copy of our program. You can find the map on pages 24-25 of the program. -->
 

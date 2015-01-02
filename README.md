@@ -27,7 +27,7 @@ To compile, run the following command from the root directory: `sass --watch ass
 
 Read [this](http://macwright.org/2012/08/13/images-as-maps.html) and [this](http://build-failed.blogspot.ca/2012/11/zoomable-image-with-leaflet.html).
 
-These are the commands to generate new map tiles. Source files not included; `df2014-map.jpg` just needs to be a big jpg (this one was 4933 by 5483 px).
+These are the commands to generate new map tiles. Source files not included; `df2014-map.jpg` just needs to be a big jpg (this one was 4933 by 5483 px). You'll need [GDAL](http://www.gdal.org/): `brew update && brew install gdal`.
 
 ```shell
 python togeo.py df2014-map.jpg
