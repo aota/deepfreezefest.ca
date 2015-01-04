@@ -7,6 +7,14 @@ published: true
 
 # News
 
+## Media Launch
+
+Join us for our media launch on **Wednesday, January 7, 2015 at 1:00 pm** at the Nina Haggerty Centre for the Arts (9225 - 118 Avenue).
+
+More about the [Media Launch here.](https://www.dropbox.com/s/sr96uy3umnova55/DF2015-MediaLaunch.pdf?dl=1)
+
+Arts of Life St
+
 ## Arts of Life Studio of Edmonton invites everyone to experience Malanka on Jan 10!
 
 Arts of Life Studio of Edmonton invites everyone to experience Malanka - Ukrainian folk holiday celebrated on January 13th, which is New Year's Eve in accordance with the Julian calendar. We invite everyone to carol with us and to participate in our Koza games and dances.
