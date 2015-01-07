@@ -57,7 +57,13 @@ The tradition continues as ice skating and curling are back on the Avenue. Don y
 
 ### Horse and Wagon Rides
 
-Sleigh bells are ringing down the Avenue! Take a ride down memory lane with family and friends. Located on 92 Street (between 118 Ave & 119 Ave, east of the ice garden. Ride the wagon to dance and musical performances at Avenue Theatre. **Two drop off stops: Avenue Theatre and the Alberta Avenue Community Centre.** -->
+Sleigh bells are ringing down the Avenue! Take a ride down memory lane with family and friends. Located on 92 Street (between 118 Ave & 119 Ave, east of the ice garden. Ride the wagon to dance and musical performances at Avenue Theatre. **Two drop off stops: Avenue Theatre and the Alberta Avenue Community Centre.** 
+
+### FROZEN (in a Giant Igloo!) FREE Special Movie Presentation
+ 
+**Saturday 6:15 – 7:45 | Igloo Stage | 118 Ave & 92 Street** After the Fireworks on Saturday night follow Princesses Elsa and Anna to the Igloo Stage for a special showing of the Disney movie FROZEN. 
+
+_‘When a princess with the power to turn things into ice curses her home in infinite winter, her sister, Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.’ (Run time: 102 minutes)_  
 
 <!-- ### Dutch Snow Sculptors
 
