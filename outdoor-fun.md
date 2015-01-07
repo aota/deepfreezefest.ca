@@ -33,28 +33,6 @@ Please join us at 3 pm at the Alberta Ave Community Centre stage as we reveal th
 
 These artists and participants will have put in long hours as well as passion and dedication to their projects; help us congratulate them all for helping make Deep Freeze and Alberta Ave such a great place to be!
 
-<!-- ### Fireworks Tribute to Don Snider
-
-**Saturday at 6pm**
-
-Don Snider was a leader in the Edmonton arts community for more than two decades. He was the Production Manager of the Edmonton Folk Music Festival, amongst others, and an integral part of fireworks shows in Edmonton; First Night, Canada Day and Deep Freeze Festival. Don loved the sound, the feeling, the colour and the joy on people’s faces when the boom would begin echoing through the sky. This is the second annual fireworks show dedicated to Don and the legacy of joy he has left us with. “Life is beautiful.”
-
-### The Vikings are coming! Party
-
-**Saturday 7:00 – 11:00 pm  
-Alberta Ave Community Centre | 9210 – 118 Ave  
-$10 General Admission**
-
-The Vikings take over the Deep Freeze Festival on Saturday and Sunday, but the party really gets started on Saturday night! Come down with your family and friends to enjoy a night of great food, awesome music and a lot of fun! Get your tickets in advance as this evening party has been known to sell out in the past with only limited tickets available at the door.
-
-### Pipon Village
-
-Our Aboriginal neighbours welcome you! Enjoy fancy dance, storytelling and warmth around the fire. Saturday & Sunday (92 St and 118 Ave)
-
-### Olde Tyme Curling
-
-The tradition continues as ice skating and curling are back on the Avenue. Don your wool sweater, do up your skates and brush off your broom. You can borrow skates (no cost) at the City of Edmonton Skate van.
-
 ### Horse and Wagon Rides
 
 Sleigh bells are ringing down the Avenue! Take a ride down memory lane with family and friends. Located on 92 Street (between 118 Ave & 119 Ave, east of the ice garden. Ride the wagon to dance and musical performances at Avenue Theatre. **Two drop off stops: Avenue Theatre and the Alberta Avenue Community Centre.** 
@@ -63,7 +41,35 @@ Sleigh bells are ringing down the Avenue! Take a ride down memory lane with fami
  
 **Saturday 6:15 – 7:45 | Igloo Stage | 118 Ave & 92 Street** After the Fireworks on Saturday night follow Princesses Elsa and Anna to the Igloo Stage for a special showing of the Disney movie FROZEN. 
 
-_‘When a princess with the power to turn things into ice curses her home in infinite winter, her sister, Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.’ (Run time: 102 minutes)_  
+_‘When a princess with the power to turn things into ice curses her home in infinite winter, her sister, Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.’ (Run time: 102 minutes)_ 
+
+### The Return of the Vikings! Party
+
+**Saturday 7:00 – 11:00 pm  
+Alberta Ave Community Centre | 9210 – 118 Ave  
+$10 General Admission**
+
+While the Vikings again take over the Deep Freeze festivities on Saturday and Sunday, Reggae music fills the community centre on Saturday Night. Get your tickets early for a night of dancing to Tasman Jude and enjoy a delicious, authentic Italian meal. 
+
+Pre-festival ticket sales: Tix on the Square. (www.tixonthesquare.ca)
+La Famiglia Cucina  |  À la carte menu and cash bar at 
+the dance. Please note we cannot accommodate specialty dietary requests.
+
+Tickets are $10 for anyone aged 11 and up, and $5 for children aged 10 and under. Purchase tickets at the Carrot Coffeehouse (9351–118 Ave) or at the Festival Info Booths.
+
+### Pipon Village
+
+Our Aboriginal neighbours welcome you! Enjoy fancy dance, storytelling and warmth around the fire. Saturday & Sunday (92 St and 118 Ave).
+
+<!-- ### Fireworks Tribute to Don Snider
+
+**Saturday at 6pm**
+
+Don Snider was a leader in the Edmonton arts community for more than two decades. He was the Production Manager of the Edmonton Folk Music Festival, amongst others, and an integral part of fireworks shows in Edmonton; First Night, Canada Day and Deep Freeze Festival. Don loved the sound, the feeling, the colour and the joy on people’s faces when the boom would begin echoing through the sky. This is the second annual fireworks show dedicated to Don and the legacy of joy he has left us with. “Life is beautiful.”
+
+### Olde Tyme Curling
+
+The tradition continues as ice skating and curling are back on the Avenue. Don your wool sweater, do up your skates and brush off your broom. You can borrow skates (no cost) at the City of Edmonton Skate van. 
 
 <!-- ### Dutch Snow Sculptors
 
