@@ -7,6 +7,12 @@ published: true
 
 # News
 
+## PSA and Photo Op Notice
+
+Returning January 10 & 11 2015, the 8th annual Deep Freeze Byzantine Winter Festival is a free family event that brings together the Ukrainian, Franco-Albertan, Franco-African, First Nations, and Acadian/East Coast communities to revel in the magic and beauty of winter. Bundle-up and join us as we celebrate the “Olde New Year” and our northern climate with a weekend full of performances, artisans, cultural activities and winter game fun! This year’s theme The Return of the Vikings! highlights the urban landscape and exceptional spaces on and around Alberta Avenue, 118 Avenue between 90 and 94 Streets
+
+More about the [PSA and Photo Op Notice here.](https://www.dropbox.com/s/chln80pe7ek0hc7/DF2015-PSA-PhotoOPs.pdf?dl=0)
+
 ## Media Launch
 
 Join us for our media launch on **Wednesday, January 7, 2015 at 1:00 pm** at the Nina Haggerty Centre for the Arts (9225 - 118 Avenue).
