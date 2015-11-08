@@ -25,10 +25,7 @@ For more information please email <deepfreezevolunteers@gmail.com>
 
 A must read for our wonderful outdoor Deep Freeze volunteers! Check out [livescience's 7 scientific tips](http://www.livescience.com/49050-staying-warm-scientific-tips.html) for staying warm in cold weather! We want all of our volunteers to stay toasty and have a great time at the festival.  
 
-<!--
-
 ## Online application
 
 <iframe width="100%" height="991" frameborder="0" marginheight="0" marginwidth="0" src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDVDVE5XUU0tR1E2MXhGTmRheWthLWc6MQ"></iframe>
 
--->
