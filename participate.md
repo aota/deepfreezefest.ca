@@ -38,7 +38,7 @@ Download the Call for Submissions for the Artisan Market here:
 
 [Call for Submissions - Arts Market Table](https://www.dropbox.com/s/gtoqjq8iwp0kb9b/DF2016-Artisan-Call.pdf?dl=0)-->
 
-## Street Hockey Tournament
+<!--## Street Hockey Tournament
 
 To register your team, please email <deepfreezehockey@gmail.com>.
 
@@ -91,12 +91,4 @@ Spin us a yarn and cozy up to a lampost! Add to this year's theme: **RETURN OF T
 Download the [Lampost Cozy Contest Information Sheet](https://www.dropbox.com/s/dldbft5uzqb2bq1/DF2015-LampostCozyContest.pdf?dl=0).
 
 **Submission Deadline: December 12, 2014**
-
-
-<!--## Thaw Hut Competition
-
-We’re excited to welcome M.A.D.E. (Media Architecture Design Edmonton) back to the Deep Freeze festival where they will be running an innovative project combining art with functionality. Local architects and designers will be on site creating spaces that are both beautiful but functional winter warming spaces. Make sure to drop by (between 91 St - 92 St on 118 Avenue) and check out their work! The award for best design will presented be Sunday at 3:30 pm on the Community Centre stage.
-*all tools powered by solar energy! Come by for a cookie too!*
-
-Apply for the [Thaw Hut Competition Here](http://joinmade.org/thaw-hut-competition)
 -->
