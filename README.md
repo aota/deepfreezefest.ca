@@ -7,21 +7,26 @@ Most content edits can be made via [Prose](http://prose.io). Use the [AOTA](http
 
 ## Built with Jekyll for Github Pages
 
-### Plugins
+Using the [Github Pages gem][pages-gem].
 
-Because this site is built to be hosted on Github Pages we [cannot use Jekyll plugins][no-plugins]. However, certain plugins are _very_ useful and worth a little extra effort.
+To match the live Github Pages environment, run `bundle update`. To run the Jekyll development server run:
 
-We're using a Sitemap generator plugin `_plugins/sitemap_generator.rb`; the catch being that it must be run locally and then commited just like a static page. At some point this could be combined with other automation tasks in a delpoy script. Note that this plugin has been altered from the [original][sitemap_gen].
+```
+jekyll serve --watch
+```
+
+...then load [localhost:4000](localhost:4000).
 
 ## Marked-up with Foundation
 
 [Foundation 4][foundation], to be specific.
 
-## Sass mixins from Bourbon.io
+Sass compilation is handled automatically by Jekyll. The base file is `assets/css/main.scss` and the include directory is `assets/_sass/`.   See [Jekyll's documentation][jekyll-sass].
 
-See [Bourbon.io][bourbon]
+### Sass mixins from Bourbon.io
 
-To compile, run the following command from the root directory: `sass --watch assets/sass:assets/css --style compressed`
+See [Bourbon.io][bourbon].
+
 
 ## Generating Map tiles
 
@@ -35,7 +40,7 @@ gdal2tiles.py -p raster df2014-map.jpg.tif maptiles
 ```
 
 
-[no-plugins]: http://jekyllrb.com/docs/plugins/
-[sitemap_gen]: https://github.com/kinnetica/jekyll-plugins
 [foundation]: http://foundation.zurb.com/
+[jekyll-sass]: http://jekyllrb.com/docs/assets/
 [bourbon]: http://bourbon.io/docs/
+[pages-gem]: https://github.com/github/pages-gem

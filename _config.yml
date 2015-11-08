@@ -10,6 +10,10 @@ description: "The Deep Freeze Festival is organized by The Arts on the Ave Edmon
 assets: /assets/
 uploads: /uploads/
 
+sass:
+    sass_dir: assets/_sass
+    style: :compressed
+
 prose:
   siteurl: http://deepfreezefest.ca
   media: uploads
