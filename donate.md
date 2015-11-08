@@ -14,7 +14,7 @@ Interested in sponsoring our festival? Get all the information you need in our i
 <a href="https://dl.dropboxusercontent.com/s/ms0rwhnk8sizi1z/aota-Proposal-July2013.pdf?dl=1" class="button small" title="25MB PDF">Download PDF</a>-->
 
 
-# Donate to keep our festival growing!
+#Donate to keep our festival growing!
  
 **WE ARE A CHARITY! Every dollar counts!**
  
