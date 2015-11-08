@@ -18,6 +18,7 @@ If you’re looking for a little excitement... register your team of five for a 
 
 <iframe width="420" height="236" src="//www.youtube.com/embed/MeE6-7bGCt8" frameborder="0" allowfullscreen></iframe>
 
+
 Check back in December to register your team.
 
 <!-- ### Register your team today! Deadline: EXTENDED TO January 8, 2015!
