@@ -14,6 +14,8 @@ layout: base
     {% case key %}
       {% when 'about.md' %}
         {% capture sidebar %}{% include side_about.md %}{% endcapture %}
+      {% when 'donate.md' %}
+        {% capture sidebar %}{% include side_donate.md %}{% endcapture %}
         {{ sidebar | markdownify }}
       {% when 'greetings.md' %}
         {% capture sidebar %}{% include side_greetings.md %}{% endcapture %}
