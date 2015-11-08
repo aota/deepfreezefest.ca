@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 <!--# Sponsors Package
 
 Interested in sponsoring our festival? Get all the information you need in our info package below.
@@ -13,14 +14,8 @@ Interested in sponsoring our festival? Get all the information you need in our i
 <a href="https://dl.dropboxusercontent.com/s/ms0rwhnk8sizi1z/aota-Proposal-July2013.pdf?dl=1" class="button small" title="25MB PDF">Download PDF</a>-->
 
 
-# Please donate to keep our festival growing!
-
-**Every dollar counts! You can donate any amount to Arts on the Ave via PayPal.  
-Your generosity is sincerely appreciated.**
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="9999FBWXW8KGU">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+# Donate to keep our festival growing!
+ 
+**WE ARE A CHARITY! Every dollar counts!**
+ 
+You can donate any amount to Arts on the Ave via Canada Helps. Sign up for a monthly donation! Your generosity is sincerely appreciated.
