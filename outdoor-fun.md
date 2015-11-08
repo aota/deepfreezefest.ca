@@ -5,9 +5,12 @@ title: Outdoor Fun Features
 published: true
 ---
 
+
 # Outdoor Fun Features
 
-## Byzantine Delights & Outdoor Fun!
+Check back in December for more info!
+
+<!--## Byzantine Delights & Outdoor Fun!
 
 Please check back for more information about our Artisan Market, Art Galleries,  **RETURN of the Vikings!** Party, Chisel and Chainsaw Ice Carving Competition, Olde Tyme Curling, Horse and Wagon Rides and more!
 
@@ -61,7 +64,7 @@ Tickets are $10 for anyone aged 11 and up, and $5 for children aged 10 and under
 
 Our Aboriginal neighbours welcome you! Enjoy fancy dance, storytelling and warmth around the fire. Saturday & Sunday (92 St and 118 Ave).
 
-<!-- ### Fireworks Tribute to Don Snider
+### Fireworks Tribute to Don Snider
 
 **Saturday at 6pm**
 
@@ -71,6 +74,6 @@ Don Snider was a leader in the Edmonton arts community for more than two decades
 
 The tradition continues as ice skating and curling are back on the Avenue. Don your wool sweater, do up your skates and brush off your broom. You can borrow skates (no cost) at the City of Edmonton Skate van. 
 
-<!-- ### Dutch Snow Sculptors
+### Dutch Snow Sculptors
 
 Deep Freeze welcomes Wilfred Stijger and Edith van de Wetering, from Katwijk, Netherlands. These two international snow sculptors travel the world transforming winter landscapes everwhere they go. We are excited to have them as our guests this year. In partnership with [Ice on Whyte](http://www.iceonwhyte.ca/). -->
