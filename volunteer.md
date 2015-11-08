@@ -6,6 +6,7 @@ side: side_volunteer.md
 published: true
 ---
 
+
 # Be a Deep Freeze Volunteer
 
 ## Heart & Soul
@@ -14,9 +15,9 @@ Volunteers are the heart and soul of Arts on the Ave. Hundreds of volunteers cel
 
 ## This year's theme
 
-The theme this year is **The RETURN of the Vikings!** We’ll be bringing dance, theatre, music, film, galleries, deepfreezer races, ethnic food, ice and snow sculptures, fireworks and winter sport to Alberta Ave!
+The theme this year is **Fairyland: Fairies and Elves and Ogres...Oh My!!** We’ll be bringing dance, theatre, music, film, galleries, deepfreezer races, ethnic food, ice and snow sculptures, fireworks and winter sport to Alberta Ave!
 
-We are in need of volunteer vikings to help round up the crowds – outdoor, indoor, before, during, after. Take your pick! Also need scouts (security), norsemen (information ambassadors), and kings (team leaders) ushers and Dragons (fire watchers).
+We are in need of volunteer elves to help round up the crowds – outdoor, indoor, before, during, after. Take your pick! Also need ogres (security), sprites (information ambassadors), and fairies (team leaders) ushers and gnomes (fire watchers).
 
 For more information please email <deepfreezevolunteers@gmail.com>
 
