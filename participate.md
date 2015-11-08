@@ -36,7 +36,7 @@ Download the Call for Submissions for the Art Gallery exhibition here:
 
 Download the Call for Submissions for the Artisan Market here:
 
-[Call for Submissions - Arts Market Table](https://www.dropbox.com/s/gtoqjq8iwp0kb9b/DF2016-Artisan-Call.pdf?dl=0)-->
+[Call for Submissions - Arts Market Table](https://www.dropbox.com/s/gtoqjq8iwp0kb9b/DF2016-Artisan-Call.pdf?dl=0)
 
 <!--## Street Hockey Tournament
 
