@@ -5,6 +5,7 @@ title: Frequently Asked Questions
 published: true
 ---
 
+
 # Festival FAQ
 
 ## What are the festival site hours?
@@ -12,26 +13,9 @@ published: true
 **Saturday**: 12:00 pm – 8:00 pm
 
 Ice & Snow Kingdom 12:00 pm – 8:00 pm  
-FROZEN Showing: 6:15 – 7:45 pm (Igloo)  
 Dance: 7:00 pm – 11:00 pm
 
 **Sunday**: 12:00 pm – 6:00 pm
-
-
-## Park & Ride
-### Sands Hotel | 12340 Fort Road
-
-Park on the southeast corner of the lot and catch our festival shuttle.
-
-**SAT, JAN 10**: Pick up at the Sands Hotel is every hour on the hour: 12:00 pm - 6:00 pm
-
-Pick up at the Festival is hourly on the half hour: 12:30 – 7:30 pm (last shuttle for Sands Hotel is at 7:30 pm)
-
-**SUN, JAN 11**: Pick up at the Sands Hotel is every hour on the hour:12:00 pm - 5:00 pm (last shuttle leaves the Sands 5:00 pm)
-
-Pick up at the Festival is hourly on the half hour: 12:30 – 6:00 pm (last shuttle leaves festival at 6:00 pm)
-
-Festival Site Pick-up at 94 St North of 118 Ave
 
 ## Parking?
 Parking is tight on the snow-covered neighbourhood streets, and parking within the road-blocked area of the Festival Site will result in your vehicle being towed. The following areas are available for public parking:
