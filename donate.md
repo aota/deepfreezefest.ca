@@ -5,11 +5,12 @@ title: Donate to the Deep Freeze Festival
 published: true
 ---
 
-# Sponsors Package
+
+<!--# Sponsors Package
 
 Interested in sponsoring our festival? Get all the information you need in our info package below.
 
-<a href="https://dl.dropboxusercontent.com/s/ms0rwhnk8sizi1z/aota-Proposal-July2013.pdf?dl=1" class="button small" title="25MB PDF">Download PDF</a>
+<a href="https://dl.dropboxusercontent.com/s/ms0rwhnk8sizi1z/aota-Proposal-July2013.pdf?dl=1" class="button small" title="25MB PDF">Download PDF</a>-->
 
 
 # Please donate to keep our festival growing!
