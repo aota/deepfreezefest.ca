@@ -17,3 +17,6 @@ sass:
 prose:
   siteurl: http://deepfreezefest.ca
   media: uploads
+
+gems:
+  - jekyll-sitemap
