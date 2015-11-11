@@ -15,7 +15,7 @@ Check back in December for more info!
 **Here's just a taste of some of the acts Deep Freeze has in store for you. Check back mid-December to download the full program.** 
 
 ## A whole ton of viking fun in one weekend!
-The Deep Freeze Winter Festival is a free family event that brings together the Ukrainian, Franco-Albertan, Franco-African, First Nations, and Acadian/East Coast communities to revel in the magic and beauty of winter. This year, **The RETURN of the Vikings!** will offer exciting opportunities for both patrons and artists creating unexpected experiences celebrating the community through its urban landscape and exceptional spaces.
+The Deep Freeze Winter Festival is a free family event that brings together the Ukrainian, Franco-Albertan, Franco-African, First Nations, and Acadian/East Coast communities to revel in the magic and beauty of winter. This year, the theme **Fairies and Elves and Ogres...Oh My!!** will offer exciting opportunities for both patrons and artists creating unexpected experiences celebrating the community through its urban landscape and exceptional spaces.
 
 ## January 9, 2016
 **118 Ave, 90 - 94 Street**
