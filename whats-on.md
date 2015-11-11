@@ -7,6 +7,7 @@ published: true
 
 
 
+
 # What's On!
 
 Check back in December for more info!
@@ -32,4 +33,4 @@ The Vikings get the party started on Saturday night with **The RETURN of the Vik
 On Sunday, January 10, revel in French Canadian Heritage with music, cuisine, and dance. Enjoy tourtière (meat pie) and tarte au sucre (sugar pie), tap your spoons and visit the delicious cabane à sucre for la tire (iced maple taffy on a stick). Patrons are invited to watch the ‘Three Block Challenge’ ice sculpture competition taking place throughout the day and enjoy Tom Fool’s Ice and Snow Kingdom.
 
 ## Artisan Market & Gallery
-Festival-goers can also enjoy the Artisan Market and Gallery Sale, where artworks from over 50 visual and fine craft artists will be showcased and sold. See the Art Gallery located inside the Nina Haggerty Centre for the Arts (9225–11treet). The Artisan Craft market is located in the Anglican Parishes of St. Faith’s and St. Stephen the Martyr (11725–93 St). -->
+Festival-goers can also enjoy the Artisan Market and Gallery Sale, where artworks from over 50 visual and fine craft artists will be showcased and sold. See the Nina Haggerty Stollery Gallery located inside the Nina Haggerty Centre for the Arts (9225–11treet). The Artisan Craft market is located in the Anglican Parishes of St. Faith’s and St. Stephen the Martyr (11725–93 St). -->
