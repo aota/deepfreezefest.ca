@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 # What's On!
 
 Check back in December for more info!
@@ -16,19 +17,19 @@ Check back in December for more info!
 ## A whole ton of viking fun in one weekend!
 The Deep Freeze Winter Festival is a free family event that brings together the Ukrainian, Franco-Albertan, Franco-African, First Nations, and Acadian/East Coast communities to revel in the magic and beauty of winter. This year, **The RETURN of the Vikings!** will offer exciting opportunities for both patrons and artists creating unexpected experiences celebrating the community through its urban landscape and exceptional spaces.
 
-## January 10, 2015
+## January 9, 2016
 **118 Ave, 90 - 94 Street**
 
-Saturday, January 10, the Festival will bring back the Julian calendar and celebrate the Olde New Year with Byzantine food and entertainment including the Village Pig a delicious fire roasted suckling pig fresh from the spot and served on a bun. Kick up your feet with traditional Ukrainian melodies, beading, and Cheremosh Ukrainian dance. Don’t forget to stop by the Cossack kitchen for perogies, kielbasa, lazy cabbage rolls, and borscht.
+Saturday, January 9, the Festival will bring back the Julian calendar and celebrate the Olde New Year with Byzantine food and entertainment including the Village Pig a delicious fire roasted suckling pig fresh from the spot and served on a bun. Kick up your feet with traditional Ukrainian melodies, beading, and Cheremosh Ukrainian dance. Don’t forget to stop by the Cossack kitchen for perogies, kielbasa, lazy cabbage rolls, and borscht.
 
 On the street, families can enjoy Heritage Activities including wagon rides, outdoor ice-skating, Olde Thyme curling, winter mini golf, giant ice slide, and competition de boucheron (log cutting competition), along with street hockey tournaments and the popular Cool Runnins’ Deep Freezer Race. Further activities include demonstrations from the Society for Creative Anachronism (medieval role play), as well as storytelling, aboriginal dance and displays of aboriginal crafts and customs in outdoor Tipis.
 
 The Vikings get the party started on Saturday night with **The RETURN of the Vikings Party!** Come down with your family and friends to enjoy a night of great food, awesome music and a lot of fun! Get your tickets in advance as this evening party has been known to sell out in the past with only limited tickets available at the door.
 
-## January 11, 2015
+## January 10, 2016
 **118 Ave, 90 - 94 Street**
 
-On Sunday, January 11, revel in French Canadian Heritage with music, cuisine, and dance. Enjoy tourtière (meat pie) and tarte au sucre (sugar pie), tap your spoons and visit the delicious cabane à sucre for la tire (iced maple taffy on a stick). Patrons are invited to watch the ‘Three Block Challenge’ ice sculpture competition taking place throughout the day and enjoy Tom Fool’s Ice and Snow Kingdom.
+On Sunday, January 10, revel in French Canadian Heritage with music, cuisine, and dance. Enjoy tourtière (meat pie) and tarte au sucre (sugar pie), tap your spoons and visit the delicious cabane à sucre for la tire (iced maple taffy on a stick). Patrons are invited to watch the ‘Three Block Challenge’ ice sculpture competition taking place throughout the day and enjoy Tom Fool’s Ice and Snow Kingdom.
 
 ## Artisan Market & Gallery
-Festival-goers can also enjoy the Artisan Market and Gallery Sale, where artworks from over 50 visual and fine craft artists will be showcased and sold. We have three Art Galleries; located inside the Nina Haggerty Centre for the Arts (9225–118 Ave), The Carrot (9351–118 Ave) and the independent gallery, The Studio (11739–94 Street). The Artisan Craft market is located in the Anglican Parishes of St. Faith’s and St. Stephen the Martyr (11725–93 St). -->
+Festival-goers can also enjoy the Artisan Market and Gallery Sale, where artworks from over 50 visual and fine craft artists will be showcased and sold. See the Art Gallery located inside the Nina Haggerty Centre for the Arts (9225–11treet). The Artisan Craft market is located in the Anglican Parishes of St. Faith’s and St. Stephen the Martyr (11725–93 St). -->
