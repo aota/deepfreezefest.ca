@@ -26,7 +26,7 @@ All artists and artisans are welcome to apply. Late submissions may be accepted 
 
 [**Download the Call for Submissions - Art Gallery**](https://www.dropbox.com/s/zjxowktgq92ibhg/DF2016-ArtGallery-Call.pdf?dl=0)
 
-[**Download the Call for Submissions - Arts Market Table**](https://www.dropbox.com/s/gtoqjq8iwp0kb9b/DF2016-Artisan-Call.pdf?dl=0)
+[**Download the Call for Submissions - Artisan Market Table**](https://www.dropbox.com/s/gtoqjq8iwp0kb9b/DF2016-Artisan-Call.pdf?dl=0)
 
 <hr>
 
