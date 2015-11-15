@@ -6,29 +6,21 @@ published: true
 ---
 
 
+
 # Participate
 Please check back for information on how to participate in fun events like the Artisan Market & Art Galleries, various art installations, Thaw Hut, Ice Sculpting Competition, Street Hockey Tourny, Deep Freezer Races and more!
 
-<!-- ## The Mummers Play Challenge
-
-The Mummers Play Challenge is the contest for community people to form teams and, yes, write their own 15-20 minute play in rhyming verse for fun and prizes. Each team will present their performance on both Saturday and Sunday, at the Avenue Theatre.
-
-To sign up, [download the application](https://www.dropbox.com/s/dvj002c5pbfwiov/AAMCEntryForm.pdf) form and drop it off at The Carrot Coffeehouse.
-
-[Check out the full information on the Mummer Play Challenge here](/whats-on/mummers/) -->
-
 ## Artisan Market & Art Gallery
 
-Deep Freeze 2016 includes a juried art exhibition in three galleries in and along 118 Ave, as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118 Ave and 93 Street.
+Deep Freeze 2016 includes a juried art exhibition in the Nina Haggerty Centre for the Arts (Stollery Gallery), as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118 Ave and 93 Street.
 
-For Deep Freeze Art Gallery inquiries contact deepfreezegallery@gmail.com
+For Deep Freeze Art Gallery inquiries contact: deepfreezegallery@gmail.com
 
-For Deep Freeze Artisan Market inquiries contact deepfreezemarket@gmail.com
-
+For Deep Freeze Artisan Market inquiries contact: deepfreezemarket@gmail.com
 
 ### Call for Submissions
 
-All artists and artisans are welcome to apply. Submission Deadline is November 30, 2015, although late submissions may be accepted depending on quantity of submissions.
+All artists and artisans are welcome to apply. Please see the calls for individual deadlines. Late submissions may be accepted depending on quantity of submissions.
 
 Download the Call for Submissions for the Art Gallery exhibition here:
 
@@ -57,6 +49,15 @@ Download the [Freezer Race application form](https://www.dropbox.com/s/08u5tqgif
 <a class="button small" href="/whats-on/freezer-race/apply/">Apply Online</a>
 
 For more information, contact us at <deepfreezerrace@gmail.com> 
+
+<!-- 
+## The Mummers Play Challenge
+
+The Mummers Play Challenge is the contest for community people to form teams and, yes, write their own 15-20 minute play in rhyming verse for fun and prizes. Each team will present their performance on both Saturday and Sunday, at the Avenue Theatre.
+
+To sign up, [download the application](https://www.dropbox.com/s/dvj002c5pbfwiov/AAMCEntryForm.pdf) form and drop it off at The Carrot Coffeehouse.
+
+[Check out the full information on the Mummer Play Challenge here](/whats-on/mummers/) -->
 
 ## Ice Sculptors
 
