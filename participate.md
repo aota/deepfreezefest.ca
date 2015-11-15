@@ -42,11 +42,44 @@ Spin us a yarn and cozy up to a lampost! Add to this year's theme: **Fairies and
 3. Send us a short proposal outlining your project, and completed application form.
 
 [**Download the Lampost Cozy Contest Information Sheet**](https://www.dropbox.com/s/mtgussjx2eb32ao/DF2016-LampostCozyContest.pdf?dl=0).
+
 <hr>
  
 ## Fairy Doors Challenge
  
 **Registration deadline is December 15, 2015**
+ 
+Add to this year's theme: **Fairies and Elves and Ogres... Oh My!** and have fun decorating your door with whatever your fairy will need to have a comfy stay over the weekend! 
+ 
+1. Form a group of artists or your on your own.
+2. Email <deepfreezelamppost@gmail.com> for an application form.
+3. Send us a short proposal outlining your project, and completed application form.
+ 
+[**Download the Fairy Door Challenge Information Sheet**](https://www.dropbox.com/s/d28uolecwsbtknl/DF2016-FairyDoorsCall.pdf?dl=0).
+
+<hr>
+ 
+## Chisel & Chainsaw Ice and Snow Sculpting Competition
+ 
+**Registration deadline is December 30, 2015**
+
+Deep Freeze presents the Ninth Annual Ice Sculpting Contest
+
+2016 Sculpting Theme: **Fairies, Elves and Ogres... Oh My!**
+
+**January 9, 2016, 10:00 am to January 10, 2016 2:00 pm** at the Alberta Avenue Community League (9210 – 118 Avenue, Edmonton, AB)
+
+1. First Place $500
+1. Second Place $300
+1. Third Place $100
+
+We invite all artists to participate in creating a gallery of ice sculptures for all of Edmonton to enjoy. Artists are provided with ice blocks and an honorarium for their work.
+
+Download the [Waiver and Registration form](https://www.dropbox.com/s/x4n119xd1y0huo3/DF2015-ChiselChainsaw-Application.pdf?dl=0).
+
+Download the [General Info & Guidelines](https://www.dropbox.com/s/uqkzt92tt8bo5vp/DF2015-ChiselChainsaw-Guidelines.pdf?dl=0).
+
+For more information contact: <deepfreezeice@gmail.com>
  
 Add to this year's theme: **Fairies and Elves and Ogres... Oh My!** and have fun decorating your door with whatever your fairy will need to have a comfy stay over the weekend! 
  
@@ -93,22 +126,6 @@ To sign up, [download the application](https://www.dropbox.com/s/dvj002c5pbfwiov
 
 <!--## Ice Sculptors
 
-Deep Freeze presents the Eighth Annual Ice Sculpting Contest
 
-2015 Sculpting Theme: **The RETURN of the Vikings!**
-
-**January 10, 2015, 10:00 am to January 11, 2015 2:00 pm** at the Alberta Avenue Community League (9210 – 118 Avenue, Edmonton, AB)
-
-1. First Place $500
-1. Second Place $300
-1. Third Place $100
-
-We invite all artists to participate in creating a gallery of ice sculptures for all of Edmonton to enjoy. Artists are provided with ice blocks and an honorarium for their work.
-
-Download the [Waiver and Registration form](https://www.dropbox.com/s/x4n119xd1y0huo3/DF2015-ChiselChainsaw-Application.pdf?dl=0).
-
-Download the [General Info & Guidelines](https://www.dropbox.com/s/uqkzt92tt8bo5vp/DF2015-ChiselChainsaw-Guidelines.pdf?dl=0).
-
-For more information contact: <deepfreezeice@gmail.com>
 
 **Submission Deadline: Friday December 12, 2014** (Late application will be considered if space allows.) -->
