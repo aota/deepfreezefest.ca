@@ -44,7 +44,7 @@ Spin us a yarn and cozy up to a lampost! Add to this year's theme: **Fairies and
 2. Email <deepfreezelamppost@gmail.com> for an application form.
 3. Send us a short proposal outlining your project, and completed application form.
 
-Download the [Lampost Cozy Contest Information Sheet](https://www.dropbox.com/s/mtgussjx2eb32ao/DF2016-LampostCozyContest.pdf?dl=0).
+[Download the Lampost Cozy Contest Information Sheet](https://www.dropbox.com/s/mtgussjx2eb32ao/DF2016-LampostCozyContest.pdf?dl=0).
 
 <hr>
 
