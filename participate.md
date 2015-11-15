@@ -7,8 +7,9 @@ published: true
 
 
 
+
 # Participate
-Please check back for information on how to participate in fun events like the Artisan Market & Art Galleries, various art installations, Thaw Hut, Ice Sculpting Competition, Street Hockey Tourny, Deep Freezer Races and more!
+Get outside and have a fantastic time!
 
 ## Artisan Market & Art Gallery
 
@@ -111,5 +112,3 @@ Download the [General Info & Guidelines](https://www.dropbox.com/s/uqkzt92tt8bo5
 For more information contact: <deepfreezeice@gmail.com>
 
 **Submission Deadline: Friday December 12, 2014** (Late application will be considered if space allows.) -->
- 
-
