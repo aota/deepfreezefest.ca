@@ -41,6 +41,19 @@ Spin us a yarn and cozy up to a lampost! Add to this year's theme: **Fairies and
 3. Send us a short proposal outlining your project, and completed application form.
 
 [**Download the Lampost Cozy Contest Information Sheet**](https://www.dropbox.com/s/mtgussjx2eb32ao/DF2016-LampostCozyContest.pdf?dl=0).
+<hr>
+ 
+## Fairy Doors Challenge
+ 
+**Registration deadline is December 15, 2015**
+ 
+Add to this year's theme: **Fairies and Elves and Ogres... Oh My!** and have fun decorating your door with whatever your fairy will need to have a comfy stay over the weekend! 
+ 
+1. Form a group of artists or your on your own.
+2. Email <deepfreezelamppost@gmail.com> for an application form.
+3. Send us a short proposal outlining your project, and completed application form.
+ 
+[**Download the Fairy Door Challenge Information Sheet**](https://www.dropbox.com/s/d28uolecwsbtknl/DF2016-FairyDoorsCall.pdf?dl=0).
 
 <hr>
 
