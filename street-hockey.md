@@ -26,4 +26,6 @@ To register your team, please email deepfreezehockey@gmail.com.
 
 **Registration deadline is Noon on January 4, 2016** (Late submissions will be accepted if space allows).
 
+### Application Form
+
 Download the [Tournament application form](https://www.dropbox.com/s/i07bo578qs4yjd5/DF2016-StreetHockey-Application.pdf?dl=1).
