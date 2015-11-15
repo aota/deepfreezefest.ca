@@ -24,13 +24,9 @@ For Deep Freeze Artisan Market inquiries contact: deepfreezemarket@gmail.com
 
 All artists and artisans are welcome to apply. Late submissions may be accepted depending on quantity of submissions.
 
-**Download the Call for Submissions for the Art Gallery exhibition here:**
+[**Download the Call for Submissions - Art Gallery**](https://www.dropbox.com/s/zjxowktgq92ibhg/DF2016-ArtGallery-Call.pdf?dl=0)
 
-[Call for Submissions - Art Gallery](https://www.dropbox.com/s/zjxowktgq92ibhg/DF2016-ArtGallery-Call.pdf?dl=0)
-
-**Download the Call for Submissions for the Artisan Market here:**
-
-[Call for Submissions - Arts Market Table](https://www.dropbox.com/s/gtoqjq8iwp0kb9b/DF2016-Artisan-Call.pdf?dl=0)
+[**Download the Call for Submissions - Arts Market Table**](https://www.dropbox.com/s/gtoqjq8iwp0kb9b/DF2016-Artisan-Call.pdf?dl=0)
 
 <hr>
 
@@ -66,9 +62,7 @@ To register your team, please email: <deepfreezehockey@gmail.com>.
 
 Show your team spirit! Prizes will be awarded to the team with the best “Outfits”.
 
-**Download the Deep Freezer Race Application form here:**
-
-[Deep Freezer Race application form](https://www.dropbox.com/s/z9e0xkgd66k7hf5/DF2016-DeepFreezerRace-Application.pdf?dl=0).
+[**Download the Deep Freezer Race Application form**](https://www.dropbox.com/s/z9e0xkgd66k7hf5/DF2016-DeepFreezerRace-Application.pdf?dl=0).
 
 <a class="button small" href="/whats-on/freezer-race/apply/">Apply Online</a>
 
