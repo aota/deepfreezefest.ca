@@ -56,8 +56,7 @@ Late submissions will be accepted if space allows.
 
 To register your team, please email: <deepfreezehockey@gmail.com>.
 
-**Download the Tournament Application form here:**
-[Tournament application form](https://www.dropbox.com/s/i07bo578qs4yjd5/DF2016-StreetHockey-Application.pdf?dl=0).
+[**Download the Tournament Application form**](https://www.dropbox.com/s/i07bo578qs4yjd5/DF2016-StreetHockey-Application.pdf?dl=0).
 
 <hr>
 
