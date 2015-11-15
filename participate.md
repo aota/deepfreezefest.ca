@@ -80,14 +80,6 @@ We invite all artists to participate in creating a gallery of ice sculptures for
 [**Download the General Info & Guidelines**](https://www.dropbox.com/s/5bfwjo5qif7rf0t/DF2016-ChiselChainsaw-Info.pdf?dl=0).
 
 For more information contact: <deepfreezeice@gmail.com>
- 
-Add to this year's theme: **Fairies and Elves and Ogres... Oh My!** and have fun decorating your door with whatever your fairy will need to have a comfy stay over the weekend! 
- 
-1. Form a group of artists or your on your own.
-2. Email <deepfreezelamppost@gmail.com> for an application form.
-3. Send us a short proposal outlining your project, and completed application form.
- 
-[**Download the Fairy Door Challenge Information Sheet**](https://www.dropbox.com/s/d28uolecwsbtknl/DF2016-FairyDoorsCall.pdf?dl=0).
 
 <hr>
 
