@@ -36,19 +36,19 @@ To register your team, please email <deepfreezehockey@gmail.com>.
 
 Download the [Tournament application form](https://www.dropbox.com/s/n4vng3vbug43d38/DF2015-StreetHockey-Application.pdf?dl=0).
 
-**Registration deadline is Noon on January 2, 2015** (Late submissions will be accepted if space allows).
+**Registration deadline is Noon on January 2, 2015** (Late submissions will be accepted if space allows). -->
 
 ## Cool Runnin’ Deep Freezer Races
 
 Show your team spirit! Prizes will be awarded to the team with the best “Outfits”.
 
-**Registration deadline is January 2, 2015**
+**Registration deadline is January 4, 2016**
 
-Download the [Freezer Race application form](https://www.dropbox.com/s/08u5tqgifx6ndti/DF2015-DeepFreezerRace-Application.pdf?dl=0).
+Download the [Freezer Race application form](https://www.dropbox.com/s/z9e0xkgd66k7hf5/DF2016-DeepFreezerRace-Application.pdf?dl=0).
 
 <a class="button small" href="/whats-on/freezer-race/apply/">Apply Online</a>
 
-For more information, contact us at <deepfreezerrace@gmail.com> 
+For more information, contact us at: <deepfreezerrace@gmail.com> 
 
 <!-- 
 ## The Mummers Play Challenge
@@ -59,7 +59,7 @@ To sign up, [download the application](https://www.dropbox.com/s/dvj002c5pbfwiov
 
 [Check out the full information on the Mummer Play Challenge here](/whats-on/mummers/) -->
 
-## Ice Sculptors
+<!--## Ice Sculptors
 
 Deep Freeze presents the Eighth Annual Ice Sculpting Contest
 
@@ -79,17 +79,16 @@ Download the [General Info & Guidelines](https://www.dropbox.com/s/uqkzt92tt8bo5
 
 For more information contact: <deepfreezeice@gmail.com>
 
-**Submission Deadline: Friday December 12, 2014** (Late application will be considered if space allows.)
+**Submission Deadline: Friday December 12, 2014** (Late application will be considered if space allows.) -->
  
-## Lamppost Cozy Contest
+## Lamppost Cozy Challenge
 
-Spin us a yarn and cozy up to a lampost! Add to this year's theme: **RETURN OF THE VIKINGS** and have fun while gaining exposure, as over 25,000 festival goers appreciate your work.
+Spin us a yarn and cozy up to a lampost! Add to this year's theme: **Fairies and Elves and Ogres... Oh My!** and have fun while gaining exposure, as over 25,000 festival goers appreciate your work.
 
 1. Form a group of 1-3 artists.
 2. Email <deepfreezelamppost@gmail.com> for an application form.
 3. Send us a short proposal outlining your project, and completed application form.
 
-Download the [Lampost Cozy Contest Information Sheet](https://www.dropbox.com/s/dldbft5uzqb2bq1/DF2015-LampostCozyContest.pdf?dl=0).
+Download the [Lampost Cozy Contest Information Sheet](https://www.dropbox.com/s/mtgussjx2eb32ao/DF2016-LampostCozyContest.pdf?dl=0).
 
-**Submission Deadline: December 12, 2014**
--->
+**Submission Deadline: December 15, 2015**
