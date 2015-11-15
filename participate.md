@@ -16,9 +16,9 @@ Please check back for information on how to participate in fun events like the A
 
 Deep Freeze 2016 includes a juried art exhibition in the Nina Haggerty Centre for the Arts (Stollery Gallery), as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118 Ave and 93 Street.
 
-For Deep Freeze Art Gallery inquiries contact: deepfreezegallery@gmail.com
+For Art Gallery inquiries contact: **deepfreezegallery@gmail.com**
 
-For Deep Freeze Artisan Market inquiries contact: deepfreezemarket@gmail.com
+For Artisan Market inquiries contact: **deepfreezemarket@gmail.com**
 
 ### Call for Submissions
 
