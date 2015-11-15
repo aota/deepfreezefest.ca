@@ -13,7 +13,7 @@ published: true
 
 **Here's just a taste of some of the acts Deep Freeze has in store for you. Check back mid-December to download the full program.** 
 
-## Oh My! A whole ton of fairy fun in one weekend!
+## Oh My! A ton of fun in one weekend!
 Deep Freeze A Byzantine Winter Festival is a free family event that brings together the Ukrainian, Franco-Albertan, Franco-African, First Nations, and Acadian/East Coast communities to revel in the magic and beauty of winter. This year, the theme **Fairies and Elves and Ogres...Oh My!!** will offer exciting opportunities for both patrons and artists creating unexpected experiences celebrating the community through its urban landscape and exceptional spaces.
 
 ## January 9, 2016
