@@ -81,6 +81,8 @@ For more information contact: <deepfreezeice@gmail.com>
 
 **Submission Deadline: Friday December 12, 2014** (Late application will be considered if space allows.) -->
  
+<hr>
+
 ## Lamppost Cozy Challenge
 
 Spin us a yarn and cozy up to a lampost! Add to this year's theme: **Fairies and Elves and Ogres... Oh My!** and have fun while gaining exposure, as over 25,000 festival goers appreciate your work.
