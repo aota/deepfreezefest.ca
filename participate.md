@@ -12,6 +12,8 @@ Please check back for information on how to participate in fun events like the A
 
 ## Artisan Market & Art Gallery
 
+**Submission/Application deadline is November 30, 2015**
+
 Deep Freeze 2016 includes a juried art exhibition in the Nina Haggerty Centre for the Arts (Stollery Gallery), as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118 Ave and 93 Street.
 
 For Deep Freeze Art Gallery inquiries contact: deepfreezegallery@gmail.com
@@ -20,7 +22,7 @@ For Deep Freeze Artisan Market inquiries contact: deepfreezemarket@gmail.com
 
 ### Call for Submissions
 
-All artists and artisans are welcome to apply. Please see the calls for individual deadlines. Late submissions may be accepted depending on quantity of submissions.
+All artists and artisans are welcome to apply. Late submissions may be accepted depending on quantity of submissions.
 
 **Download the Call for Submissions for the Art Gallery exhibition here:**
 
@@ -30,21 +32,39 @@ All artists and artisans are welcome to apply. Please see the calls for individu
 
 [Call for Submissions - Arts Market Table](https://www.dropbox.com/s/gtoqjq8iwp0kb9b/DF2016-Artisan-Call.pdf?dl=0)
 
-<!--## Street Hockey Tournament
+<hr>
 
-To register your team, please email <deepfreezehockey@gmail.com>.
+## Lamppost Cozy Challenge
 
-Download the [Tournament application form](https://www.dropbox.com/s/n4vng3vbug43d38/DF2015-StreetHockey-Application.pdf?dl=0).
+**Registration deadline is December 15, 2015**
 
-**Registration deadline is Noon on January 2, 2015** (Late submissions will be accepted if space allows). -->
+Spin us a yarn and cozy up to a lampost! Add to this year's theme: **Fairies and Elves and Ogres... Oh My!** and have fun while gaining exposure, as over 25,000 festival goers appreciate your work.
+
+1. Form a group of 1-3 artists.
+2. Email <deepfreezelamppost@gmail.com> for an application form.
+3. Send us a short proposal outlining your project, and completed application form.
+
+Download the [Lampost Cozy Contest Information Sheet](https://www.dropbox.com/s/mtgussjx2eb32ao/DF2016-LampostCozyContest.pdf?dl=0).
+
+<hr>
+
+## Street Hockey Tournament
+
+**Registration deadline is Noon on January 4, 2016**
+
+Late submissions will be accepted if space allows.
+
+To register your team, please email: <deepfreezehockey@gmail.com>.
+
+Download the [Tournament application form](https://www.dropbox.com/s/i07bo578qs4yjd5/DF2016-StreetHockey-Application.pdf?dl=0).
 
 <hr>
 
 ## Cool Runnin’ Deep Freezer Races
 
-Show your team spirit! Prizes will be awarded to the team with the best “Outfits”.
-
 **Registration deadline is January 4, 2016**
+
+Show your team spirit! Prizes will be awarded to the team with the best “Outfits”.
 
 **Download the Deep Freezer Race Application form here:**
 
@@ -85,16 +105,4 @@ For more information contact: <deepfreezeice@gmail.com>
 
 **Submission Deadline: Friday December 12, 2014** (Late application will be considered if space allows.) -->
  
-<hr>
 
-## Lamppost Cozy Challenge
-
-Spin us a yarn and cozy up to a lampost! Add to this year's theme: **Fairies and Elves and Ogres... Oh My!** and have fun while gaining exposure, as over 25,000 festival goers appreciate your work.
-
-1. Form a group of 1-3 artists.
-2. Email <deepfreezelamppost@gmail.com> for an application form.
-3. Send us a short proposal outlining your project, and completed application form.
-
-Download the [Lampost Cozy Contest Information Sheet](https://www.dropbox.com/s/mtgussjx2eb32ao/DF2016-LampostCozyContest.pdf?dl=0).
-
-**Submission Deadline: December 15, 2015**
