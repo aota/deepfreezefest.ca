@@ -7,6 +7,7 @@ published: true
 
 
 
+
 # Street Hockey Tournament
 
 ## The Street Hockey Tourney is back!
@@ -25,7 +26,4 @@ To register your team, please email deepfreezehockey@gmail.com.
 
 **Registration deadline is Noon on January 4, 2016** (Late submissions will be accepted if space allows).
 
-<!--
-
-Download the [Tournament application form](https://www.dropbox.com/s/n4vng3vbug43d38/DF2015-StreetHockey-Application.pdf?dl=1).
- -->
+Download the [Tournament application form](https://www.dropbox.com/s/i07bo578qs4yjd5/DF2016-StreetHockey-Application.pdf?dl=1).
