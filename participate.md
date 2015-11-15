@@ -46,7 +46,9 @@ Show your team spirit! Prizes will be awarded to the team with the best “Outfi
 
 **Registration deadline is January 4, 2016**
 
-Download the [Freezer Race application form](https://www.dropbox.com/s/z9e0xkgd66k7hf5/DF2016-DeepFreezerRace-Application.pdf?dl=0).
+**Download the Deep Freezer Race Application form here:**
+
+[Deep Freezer Race application form](https://www.dropbox.com/s/z9e0xkgd66k7hf5/DF2016-DeepFreezerRace-Application.pdf?dl=0).
 
 <a class="button small" href="/whats-on/freezer-race/apply/">Apply Online</a>
 
