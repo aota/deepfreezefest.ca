@@ -59,7 +59,7 @@ Add to this year's theme: **Fairies and Elves and Ogres... Oh My!** and have fun
 
 <hr>
  
-## Chisel & Chainsaw Ice and Snow Sculpting Competition
+## Chisel & Chainsaw Ice Carving Competition
  
 **Registration deadline is December 30, 2015**
 
@@ -75,9 +75,9 @@ Deep Freeze presents the Ninth Annual Ice Sculpting Contest
 
 We invite all artists to participate in creating a gallery of ice sculptures for all of Edmonton to enjoy. Artists are provided with ice blocks and an honorarium for their work.
 
-Download the [Waiver and Registration form](https://www.dropbox.com/s/x4n119xd1y0huo3/DF2015-ChiselChainsaw-Application.pdf?dl=0).
+[**Download the Waiver and Registration form**](https://www.dropbox.com/s/jq835fo80q6t8th/DF2016-ChiselChainsaw-Application.pdf?dl=0).
 
-Download the [General Info & Guidelines](https://www.dropbox.com/s/uqkzt92tt8bo5vp/DF2015-ChiselChainsaw-Guidelines.pdf?dl=0).
+[**Download the General Info & Guidelines**](https://www.dropbox.com/s/5bfwjo5qif7rf0t/DF2016-ChiselChainsaw-Info.pdf?dl=0).
 
 For more information contact: <deepfreezeice@gmail.com>
  
