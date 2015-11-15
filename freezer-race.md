@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 # Deep Freezer Race
 
 ## The most fun you can have with a Deep Freezer!
@@ -19,10 +20,8 @@ If you’re looking for a little excitement... register your team of five for a 
 <iframe width="420" height="236" src="//www.youtube.com/embed/MeE6-7bGCt8" frameborder="0" allowfullscreen></iframe>
 
 
-Check back in December to register your team.
-
-<!-- ### Register your team today! Deadline: EXTENDED TO January 8, 2015!
-Races take place between noon and 2pm on Saturday, January 10<sup>th</sup> and Sunday, January 11<sup>th</sup> on 118<sup>th</sup> Ave between 92 and 93 Street.
+### Register your team today! Deadline: January 4, 2016!
+Races take place between noon and 2pm on Saturday, January 9 and Sunday, January 10 on 118<sup>th</sup> Ave between 92 and 93 Street.
 
 Teams must have exactly 5 members: 3 ‘riders’ inside the freezer and 2 ‘pushers’. The three riders **MUST wear their own helmets** during the race. Those who do not have helmets will not race.
 
@@ -30,7 +29,7 @@ Teams are encouraged to dress up and bring their team spirit! **Prizes will be a
 
 Enter at your own risk. All team members must sign a waiver. Waivers will be available to sign at the event. All waivers must be signed and presented before entering the race.
 
-To enter, fill out the online form (see below) or download the [PDF application](https://www.dropbox.com/s/08u5tqgifx6ndti/DF2015-DeepFreezerRace-Application.pdf?dl=1) and send it to **9351 118 Ave, Edmonton, AB T5G 0N3**. **Etxended Deadline:** January 8, 2015.
+To enter, fill out the online form (see below) or download the [PDF application](https://www.dropbox.com/s/z9e0xkgd66k7hf5/DF2016-DeepFreezerRace-Application.pdf?dl=1) and send it to **9351 118 Ave, Edmonton, AB T5G 0N3**. **Deadline:** January 4, 2016.
 
 ### Online Application
 
