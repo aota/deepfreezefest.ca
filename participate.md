@@ -38,6 +38,8 @@ Download the [Tournament application form](https://www.dropbox.com/s/n4vng3vbug4
 
 **Registration deadline is Noon on January 2, 2015** (Late submissions will be accepted if space allows). -->
 
+<hr>
+
 ## Cool Runnin’ Deep Freezer Races
 
 Show your team spirit! Prizes will be awarded to the team with the best “Outfits”.
