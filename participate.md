@@ -23,9 +23,11 @@ For Deep Freeze Artisan Market inquiries contact: deepfreezemarket@gmail.com
 All artists and artisans are welcome to apply. Please see the calls for individual deadlines. Late submissions may be accepted depending on quantity of submissions.
 
 **Download the Call for Submissions for the Art Gallery exhibition here:**
+
 [Call for Submissions - Art Gallery](https://www.dropbox.com/s/zjxowktgq92ibhg/DF2016-ArtGallery-Call.pdf?dl=0)
 
 **Download the Call for Submissions for the Artisan Market here:**
+
 [Call for Submissions - Arts Market Table](https://www.dropbox.com/s/gtoqjq8iwp0kb9b/DF2016-Artisan-Call.pdf?dl=0)
 
 <!--## Street Hockey Tournament
