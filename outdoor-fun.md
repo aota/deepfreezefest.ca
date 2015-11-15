@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 # Outdoor Fun Features
 
 Check back in December for more info!
@@ -16,7 +17,7 @@ Please check back for more information about our Artisan Market, Art Galleries, 
 
 ### Art Gallery Show and Sale
 
-Be inspired by artworks from local visual artists who work in a multitude of mediums and styles. We have three Art Galleries; located inside the Nina Haggerty Centre for the Arts (9225–118 Ave), The Carrot (9351–118 Ave) and the independent gallery, The Studio (11739–94 Street).
+Be inspired by artworks from local visual artists who work in a multitude of mediums and styles. Visit the Nina Haggerty Centre for the Arts (9225–118 Ave), Stollery Gallery. 
 
 ### Artisan Village and Market
 
