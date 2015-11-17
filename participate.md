@@ -8,6 +8,7 @@ published: true
 
 
 
+
 # Participate
 Get outside and have a fantastic time!
 
@@ -15,7 +16,7 @@ Get outside and have a fantastic time!
 
 **Submission/Application deadline is November 30, 2015**
 
-Deep Freeze 2016 includes a juried art exhibition in the Nina Haggerty Centre for the Arts (Stollery Gallery), as well as an Artisan Market featuring local fine craft in St. Faith’s Church just off 118 Ave and 93 Street.
+Deep Freeze 2016 includes a juried art exhibition in the Nina Haggerty Centre for the Arts (Stollery Gallery), as well as an Artisan Market featuring local fine craft <!--in St. Faith’s Church just off 118 Ave and 93 Street.-->
 
 For Art Gallery inquiries please email: deepfreezegallery@gmail.com
 
