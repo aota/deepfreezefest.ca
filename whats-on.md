@@ -9,6 +9,7 @@ published: true
 
 
 
+
 # What's On!
 
 **Here's just a taste of some of the acts Deep Freeze has in store for you. Check back mid-December to download the full program.** 
@@ -31,4 +32,6 @@ The Fairies get the party started on Saturday night with the **Fairies, Elves an
 On Sunday, January 10, revel in French Canadian Heritage with music, cuisine, and dance. Enjoy tourtière (meat pie) and tarte au sucre (sugar pie), tap your spoons and visit the delicious cabane à sucre for la tire (iced maple taffy on a stick). Patrons are invited to watch the ‘Three Block Challenge’ ice sculpture competition taking place throughout the day and enjoy Tom Fool’s Ice and Snow Kingdom.
 
 ## Art Gallery & Artisan Market
-Festival-goers can enjoy the Gallery Sale and Artisan Market where artworks from over 50 visual and fine craft artists will be showcased and sold. Visit the gallery at the Nina Haggerty Centre for the Arts (Stollery Gallery) at 9225–118 Avenue. The Artisan Market is located in St. Faith’s Church at 11725–93 Street.
+Festival-goers can enjoy the Gallery Sale and Artisan Market where artworks from over 50 visual and fine craft artists will be showcased and sold. Visit the gallery at the Nina Haggerty Centre for the Arts (Stollery Gallery) at 9225–118 Avenue. 
+
+<!--The Artisan Market is located in St. Faith’s Church at 11725–93 Street.-->
