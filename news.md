@@ -14,6 +14,7 @@ Deep Freeze Byzantine Winter Festival returns for a 9th year, celebrating in a w
 
 [Read more here.](https://www.dropbox.com/s/yh2i2u71jxbrctt/DF2016-AdvancedMediaRelease-Nov18.pdf?dl=0)
 
+<!--
 
 ## PSA and Photo Op Notice
 
@@ -44,7 +45,4 @@ Get your tickets early for a night of dancing, fun and delicious Cajun food by E
 
 Returning January 10 & 11, 2015, the Deep Freeze Winter Festival is a free family event uniting Ukrainian, Franco-Albertan, Franco-African, First Nations, and Acadian/East Coast communities to revel in the magic and beauty of winter. 
 
-This year’s theme **The Return of the Vikings!**  highlights the urban landscape and exceptional spaces on and around Alberta Avenue with free fun for all, including performances, art installations, ice-sculptures, heritage activities, food, street hockey, the legendary Deep Freezer races, spectacular fireworks and much more.
-
-<!--
-[Dowloand the full Media Launch PDF](https://www.dropbox.com/s/2ghwjlppiggqmi5/DF-MediaLaunch-Dec23.pdf) -->
+This year’s theme **The Return of the Vikings!**  highlights the urban landscape and exceptional spaces on and around Alberta Avenue with free fun for all, including performances, art installations, ice-sculptures, heritage activities, food, street hockey, the legendary Deep Freezer races, spectacular fireworks and much more. -->
