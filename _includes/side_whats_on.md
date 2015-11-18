@@ -1,1 +1,1 @@
-<!--{% include downloads.html %}-->
+{% include downloads.html %}
