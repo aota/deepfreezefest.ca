@@ -5,7 +5,15 @@ title: News
 published: true
 ---
 
+
 # News
+
+## Advanced Media Release - Nov 18, 2015
+
+Deep Freeze Byzantine Winter Festival returns for a 9th year, celebrating in a winter wonder fairyland! Fairies and Elves and Ogres… OH MY! inhabit the urban landscape and spaces around 118 Avenue (Alberta Avenue) between 90 and 94 Street, January 9 & 10, 2016.
+
+[Read more here.](https://www.dropbox.com/s/yh2i2u71jxbrctt/DF2016-AdvancedMediaRelease-Nov18.pdf?dl=0)
+
 
 ## PSA and Photo Op Notice
 
