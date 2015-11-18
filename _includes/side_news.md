@@ -1,7 +1,7 @@
  
- ##Downloads
+ ## Downloads
  
- Please check back mid-December for posters, schedules and an updated festival map!
+Please check back mid December for schedules, posters and map downloads.
 
 
 {% comment %}
