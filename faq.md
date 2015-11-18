@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 # Festival FAQ
 
 ## What are the festival site hours?
@@ -29,7 +30,9 @@ Parking is tight on the snow-covered neighbourhood streets, and parking within t
 Public washrooms are marked on the [Festival Site Map](/location/).
 
 ## Tickets?
-Deep Freeze Winter Festival is **FREE!** Please **donate what you can** at any of the colourful donation tubes on the site.
+Deep Freeze Winter Festival is **FREE!** Please **donate what you can** at any of the colourful donation tubes on the site. You can also donate (one-time or monthly) online at Canada Helps! 
+
+<A HREF="https://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d109438"><IMG SRC="//www.canadahelps.org/image/DonateNowLink/en/Donate2.png" BORDER="0" ALT="Donate Now Through CanadaHelps.org!"/></A>
 
 ## What Are The Donations Used For?
 The money collected at Deep Freeze Festival is used by the organizing not-profit, Arts on the Ave, to continue to bring this free, family focused and community winter festival to Edmonton each year.
