@@ -22,7 +22,7 @@ Full Festival Running Noon - 6:00pm
 
 6:00-8:00 pm Ice skating, Ice bar, Ice Promenade, Ice slide, hotdog and marshmallow roast.
 
-7:00-11:00 pm Fairies, elves and ogres... Oh My! evening dance *Tickets required – available for purchase at the Carrot Coffeehouse or festival info booths.
+7:00-11:00 pm Fairies and elves and ogres... Oh My! evening dance *Tickets required – available for purchase at the Carrot Coffeehouse or festival info booths.
 
 ## Sunday, January 10, 2016
 
