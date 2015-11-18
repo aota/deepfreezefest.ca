@@ -9,14 +9,15 @@ published: true
 
 
 
+
 # Participate
 Get outside and have a fantastic time!
 
-## Artisan Market & Art Gallery
+## Art Galleries & Artisan Market
 
 **Submission/Application deadline is November 30, 2015**
 
-Deep Freeze 2016 includes a juried art exhibition in the Nina Haggerty Centre for the Arts (Stollery Gallery), as well as an Artisan Market featuring local fine craft. <!--in St. Faith’s Church just off 118 Ave and 93 Street.-->
+Festival-goers can enjoy the Gallery Sale and Artisan Market where artworks from over 50 visual and fine craft artists will be showcased and sold. Visit the Deep Freeze Festival Gallery at the Nina Haggerty Centre for the Arts (Stollery Gallery) at 9225–118 Avenue, and view winter-inspired artwork by local Ukrainian and Francophone artists in the Carrot Arts Coffeehouse at 9351-118 Avenue.
 
 For Art Gallery inquiries please email: deepfreezegallery@gmail.com
 
