@@ -97,7 +97,7 @@ To register your team, please email: <deepfreezehockey@gmail.com>.
 
 <hr>
 
-## Street Hockey Tournament
+## Tourtière Baking Contest
 
 **Registration deadline is Noon on January 4, 2016**
 
