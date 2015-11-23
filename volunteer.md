@@ -23,9 +23,9 @@ We are in need of volunteer elves to help round up the crowds – outdoor, indoo
 
 For more information please email <deepfreezevolunteers@gmail.com>
 
-## Volunteer Event - December 1, 2015
+## Next Volunteer Event: December 1, 2015
 
-Join us for our Volunteer concert and pizza party on December 1, featuring Lusitania Lights! 
+Join us for our Volunteer concert and pizza party on December 1, featuring Lusitania Lights! Doors at 6:30 pm at the Alberta Avenue Community Hall. (9210 - 118 Avenue). 
 
 [RSVP Here!](https://www.eventbrite.ca/e/deep-freeze-volunteer-concertpizza-party-tickets-19661693655?utm_term=eventurl_text)
 
