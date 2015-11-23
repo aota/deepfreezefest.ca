@@ -10,7 +10,6 @@ published: true
 
 
 
-
 # Participate
 Get outside and have a fantastic time!
 
@@ -95,6 +94,28 @@ Late submissions will be accepted if space allows.
 To register your team, please email: <deepfreezehockey@gmail.com>.
 
 [**Download the Tournament Application form**](https://www.dropbox.com/s/i07bo578qs4yjd5/DF2016-StreetHockey-Application.pdf?dl=0).
+
+<hr>
+
+## Street Hockey Tournament
+
+**Registration deadline is Noon on January 4, 2016**
+
+_Tourtière_ is a total comfort food, loved by all, and each year on **Francophone Day (Sunday)** at Deep Freeze Byzantine Winter Festival, we serve homemade, delicious Tourtière to hundreds of hungry, appreciative festival-goers. 
+
+This year we invite YOU to come and show-off your secret _Tourtière_ recipe in our first ever Tourtière Baking Contest, taking place on Sunday, January 10, 2016.
+
+Recipes for _Tourtière_ vary from region to region and kitchen to kitchen. It’s been said that the best recipe is the one your _grand-mère_ gave you.  
+
+Take up the Tourtière Challenge and enter the Deep Freeze Tourtière Baking Contest!!
+
+About _Tourtière_
+French Canadian _Tourtière_ (meat pie), is served on _Reveillon_ (Christmas Eve). Each Christmas Eve, Quebecers traditionally headed to a beautiful candlelight church service and then drove home through the snow to enjoy a late supper of _Tourtière_ – Québec pork pie. This tradition is still fondly practiced throughout Québec, whether preceded by a religious service or not.
+
+
+To register you may email: <deepfreezefranco@gmail.com>.
+
+[**Download the Tourtiere Application and Information form**](https://www.dropbox.com/s/el0ir7k2fcdh4wx/DF2016-TourtiereContent.pdf?dl=0).
 
 <hr>
 
