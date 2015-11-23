@@ -8,6 +8,7 @@ published: true
 
 
 
+
 # Be a Deep Freeze Volunteer
 
 ## Heart & Soul
@@ -21,6 +22,13 @@ The theme this year is **Fairyland: Fairies and Elves and Ogres...Oh My!!** Weâ€
 We are in need of volunteer elves to help round up the crowds â€“ outdoor, indoor, before, during, after. Take your pick! Also need ogres (security), sprites (information ambassadors), and fairies (team leaders) ushers and gnomes (fire watchers).
 
 For more information please email <deepfreezevolunteers@gmail.com>
+
+## Volunteer Event - December 1, 2015
+
+Join us for our Volunteer concert and pizza party on December 1, featuring Lusitania Lights! 
+
+[RSVP Here!](https://www.eventbrite.ca/e/deep-freeze-volunteer-concertpizza-party-tickets-19661693655?utm_term=eventurl_text)
+
 
 ## 7 Scientific Tips for Staying Warm in Cold Weather!
 
