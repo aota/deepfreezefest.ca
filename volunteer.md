@@ -12,10 +12,12 @@ published: true
 
 # Be a Deep Freeze Volunteer
 
-## SIGN UP AS A VOLUNTEER FOR A CHANCE TO WIN!!
+## HURRY: SIGN UP AS A VOLUNTEER FOR A CHANCE TO WIN!!
 
-![weekndjpg.jpg]({{site.baseurl}}/uploads/weekndjpg.jpg)  
-Sign up by midnight this Sunday, November 29, 2015 to win 2 tickets to the Weeknd!! Tickets will be drawn 9:00 am Monday, November 30 for the show that night. 
+**Sign up by midnight this Sunday, November 29, 2015** to win 2 tickets to the Weeknd!! Tickets will be drawn 9:00 am Monday, November 30 for the show that night. 
+
+![weekndjpg.jpg]({{site.baseurl}}/uploads/weekndjpg.jpg)
+
 
 ## Heart & Soul
 
