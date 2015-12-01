@@ -7,9 +7,6 @@ published: true
 
 
 
-
-
-
 # Participate
 Get outside and have a fantastic time!
 
@@ -115,7 +112,9 @@ French Canadian _Tourtière_ (meat pie), is served on _Reveillon_ (Christmas Eve
 
 To register you may email: <deepfreezefranco@gmail.com>.
 
-[**Download the Tourtiere Application and Information form**](https://www.dropbox.com/s/el0ir7k2fcdh4wx/DF2016-TourtiereContent.pdf?dl=0).
+[**Download the English Tourtiere Application and Information form**](https://www.dropbox.com/s/rcf1t6wip1c8kpe/DF2016-TourtiereContest-Eng.pdf?dl=0).
+
+[**Download the French Tourtiere Application and Information form**](https://www.dropbox.com/s/417j94k7mghd07t/DF2016-TourtiereContest-Fr.pdf?dl=0).
 
 <hr>
 
