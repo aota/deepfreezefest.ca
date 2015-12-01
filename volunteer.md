@@ -7,18 +7,6 @@ published: true
 ---
 
 
-
-
-
-# Be a Deep Freeze Volunteer
-
-## HURRY: SIGN UP AS A VOLUNTEER FOR A CHANCE TO WIN!!
-
-**Sign up by midnight this Sunday, November 29, 2015** to win 2 tickets to the Weeknd!! Tickets will be drawn 9:00 am Monday, November 30 for the show that night. 
-
-![weekndjpg.jpg]({{site.baseurl}}/uploads/weekndjpg.jpg)
-
-
 ## Heart & Soul
 
 Volunteers are the heart and soul of Arts on the Ave. Hundreds of volunteers celebrate and create new traditions together on Alberta Avenue. Their tireless efforts make our festivals and community an inspiring piece of Edmonton’s cultural fabric. Join the revolution and inspire change through volunteering, read on!
