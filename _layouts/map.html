@@ -9,6 +9,9 @@ layout: base
     <div id="map" class="map"></div>
   </div>
   <div class="columns large-4">
+    {% capture global_side %}{% include side_global.md %}{% endcapture %}
+    {{ global_side | markdownify }}
+
     <h2>Venues</h2>
 
     <ol class="venuelist">
