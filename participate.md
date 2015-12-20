@@ -34,7 +34,7 @@ All artists and artisans are welcome to apply. Late submissions may be accepted 
 
 **Registration deadline is December 15, 2015**
 
-Spin us a yarn and cozy up to a lampost! Add to this year's theme: **Fairies and Elves and Ogres... Oh My!** and have fun while gaining exposure, as over 25,000 festival goers appreciate your work.
+Spin us a yarn and cozy up to a lampost! Add to this year's theme: **Fairies, Elves and Ogres... Oh My!** and have fun while gaining exposure, as over 25,000 festival goers appreciate your work.
 
 1. Form a group of 1-3 artists.
 2. Email <deepfreezelamppost@gmail.com> for an application form.
@@ -48,7 +48,7 @@ Spin us a yarn and cozy up to a lampost! Add to this year's theme: **Fairies and
  
 **Registration deadline is December 15, 2015**
  
-Add to this year's theme: **Fairies and Elves and Ogres... Oh My!** and have fun decorating your door with whatever your fairy will need to have a comfy stay over the weekend! 
+Add to this year's theme: **Fairies, Elves and Ogres... Oh My!** and have fun decorating your door with whatever your fairy will need to have a comfy stay over the weekend! 
  
 1. Form a group of artists or your on your own.
 2. Email <deepfreezelamppost@gmail.com> for an application form.
