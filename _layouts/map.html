@@ -3,36 +3,10 @@ layout: base
 ---
 
 <div class="row">
-  <div class="column large-8">
+  <div class="column large-12">
     {% if page.headline %}<h1>{{ page.headline }}</h1>{% endif %}
     {% if page.lead %}<p>{{ page.lead }}</p>{% endif %}
     <div id="map" class="map"></div>
-  </div>
-  <div class="columns large-4">
-    {% capture global_side %}{% include side_global.md %}{% endcapture %}
-    {{ global_side | markdownify }}
-
-    <h2>Venues</h2>
-
-    <ol class="venuelist">
-      <li><span>Alberta Avenue Community Centre <small>(Eatery &amp; Performance Stage)</small></span></li>
-      <li><span>Igloo Inflatable Stage</span></li>
-      <li><span>The Anglican Parishes of St. Faith’s and St. Stephen the Martyr <small>(Artisan Market &amp; Performances)</small></span></li>
-      <li><span>Ice Promenade</span></li>
-      <li><span>Alberta Avenue Park <small>(Toboggan, Deep Freezer Races &amp; more)</small></span></li>
-      <li><span>Ice &amp; Snow Kingdom <small>(Outdoor Family Fun!)</small></span></li>
-      <li><span>Viking Encampment - Return of the Vikings!</span></li>
-      <li><span>Pipon Village &amp; Odin's Ravens Viking Village</span></li>
-      <li><span>On the Street <small>(Street Hockey &amp; Activities)</small></span></li>
-      <li><span>The Carrot Community Arts Coffeehouse <small>(Coffee &amp; Music)</small></span></li>
-      <li><span>Bedouin Beats</span></li>
-      <li><span>Nina Haggerty Centre for the Arts <small>(Workshops &amp; Gallery)</small></span></li>
-    </ol>
-
-    {% comment %}<p>Galleries &amp; Art Markets</p>{% endcomment %}
-
-    <p>Please check program for schedule times</p>
-
   </div>
 </div>
 
@@ -41,17 +15,46 @@ layout: base
     {{ content }}
   </div>
   <div class="columns large-4">
+    {% capture global_side %}{% include side_global.md %}{% endcapture %}
+    {{ global_side | markdownify }}
+
+    <h2>Venues</h2>
+
+    <ol class="venuelist">
+      <li><span>On the Street <small>(Street Hockey &amp; Activities)</small></span></li>
+      <li><span>The Carrot Community Arts Coffeehouse <small>(Coffee &amp; Music)</small></span></li>
+      <li><span>The Studio / Deep Freeze Artisan Market</span></li>
+      <li><span>Raising the Roof Charity / Toques Sales</span></li>
+      <li><span>Nina Haggerty Centre for the Arts <small>(Workshops &amp; Gallery, Rutherford the Time-Travelling Moose)</small></span></li>
+      <li><span>Viking Village</span></li>
+      <li><span>Pipon Village <small>(Performances, Artisans, music, Bannock-making, snowshoeing)</small></span></li>
+      <li><span>The Big Tent / New Moon Arts Pavilion <small>(Perfomances & Music)</small></span></li>
+      <li><span>DATS Drop Off</span></li>
+      <li><span>Bleeding Heart Art Space</span></li>
+      <li><span>Alberta Avenue Community Centre <small>(Eatery &amp; Performance Stage) </small></span></li>
+      <li><span>Ice Promenade <small>(Snow &amp; Ice Sculpture)</small></span></li>
+      <li><span>Tom Fool's Ice &amp; Snow Kingdom <small>(Outdoor Family Fun)</small></span></li>
+      <li><span>Alberta Avenue Park <small>(Toboggan, Fireworks, bocce ball and more!)</small></span></li>
+      <li><span>Northern Lights Family Beer Garden &amp; Ice Bar</span></li>
+      <li><span>Bedouin Beats <small>(Bellydance Stage) </small></span></li>
+    </ol>
+
+    {% comment %}<p>Galleries &amp; Art Markets</p>{% endcomment %}
+
+    <p>Please check program for schedule times</p>
+
     {% include map.html %}
   </div>
 </div>
+
 
 
 <script>
   // initialize the map on the "map" div
   var opts = {
     scrollWheelZoom: false,
-    center: [-66.51326044311186, -93.69140625],
-    zoom: 2,
+    center: [-71.07405646336096, -82.44140625],
+    zoom: 3,
     zoomControl: !Modernizr.touch,
     fullscreenControl: true,
     attributionControl: false
@@ -66,7 +69,7 @@ layout: base
   // https://www.dropbox.com/sh/05tpqj42s2olgz7/LMgd3Urn9t/5/0/20.png
   L.tileLayer('/maptiles/{z}/{x}/{y}.png', {
       maxZoom: 5,
-      minZoom: 1,
+      minZoom: 2,
       tms: true
   }).addTo(map);
 
