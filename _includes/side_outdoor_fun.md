@@ -1,9 +1,2 @@
-![](/uploads/outdoorfun1.jpg)
+![2016-outdoor1.jpg]({{site.baseurl}}/uploads/2016-outdoor1.jpg)
 
-![](/uploads/outdoorfun2.jpg)
-
-![](/uploads/outdoorfun3.jpg)
-
-![](/uploads/outdoorfun4.jpg)
-
-![](/uploads/outdoorfun5.jpg)
