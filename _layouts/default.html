@@ -12,6 +12,9 @@ layout: base
 
     {% capture key %}{{ page.path | downcase }}{% endcapture %}
     {% case key %}
+      {% when 'schedule.html' %}
+        {% capture sidebar %}{% include side_schedule.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
       {% when 'about.md' %}
         {% capture sidebar %}{% include side_about.md %}{% endcapture %}
       {% when 'donate.md' %}

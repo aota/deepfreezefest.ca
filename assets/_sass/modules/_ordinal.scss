@@ -1,0 +1,25 @@
+.ordinal {
+  background: #c4005b;
+  color: #fff;
+  text-align: center;
+  display: block;
+  float: left;
+  margin-right: 0.5em;
+  line-height: $beta;
+  width: $beta;
+  height: $beta;
+
+  @media #{$small} {
+    width: $alpha;
+    height: $alpha;
+    line-height: $alpha;
+  }
+}
+
+.ordinal-small {
+  width: $em-base;
+  height: $em-base;
+  line-height: $em-base;
+  font-size: $micro;
+  margin-top: $micro/2;
+}
