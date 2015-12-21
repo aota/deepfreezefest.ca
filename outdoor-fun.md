@@ -6,24 +6,29 @@ published: true
 ---
 
 
-
 # Outdoor Fun Features
 
 Check back in December for more info!
 
-<!--## Byzantine Delights & Outdoor Fun!
-
-Please check back for more information about our Artisan Market, Art Galleries,  **RETURN of the Vikings!** Party, Chisel and Chainsaw Ice Carving Competition, Olde Tyme Curling, Horse and Wagon Rides and more!
+## Byzantine Delights & Outdoor Fun!
 
 ### Art Gallery Show and Sale
 
-Be inspired by artworks from local visual artists who work in a multitude of mediums and styles. Visit the Nina Haggerty Centre for the Arts (9225–118 Ave), Stollery Gallery. 
+Saturday 12:00 pm – 6:00 pm  |  Sunday 12:00 pm – 6:00 pm
+Nina Haggerty Centre for the Arts Stollery Gallery (9225–118 Avenue)
+
+Free tea and scones reception Saturday 4:00pm – 6:00pm
+
+Welcome to the Deep Freeze Festival Gallery at the Nina Haggerty Centre for the Arts. All artworks presented are available for purchase with a portion of the proceeds going to support Deep Freeze. We hope you enjoy this year’s special juried exhibition.
 
 ### Artisan Village and Market
 
-Come shop original and local at the Artisan Village and Market, located in the Anglican Parishes of St. Faith’s and St. Stephen the Martyr (11725–93 St). This unique arts market offers a spectacular collection of hand-crafted products from local craft artisans.
+Saturday 12:00 pm – 6:00 pm  |  Sunday 12:00 – 6:00 pm
+Located indoors at 11739 – 94 Street
 
-### Chisel and Chainsaw Ice Carving Competition
+Come shop original and local at the artisan market. This unique arts market offers a spectacular collection of hand-crafted products from local artisans.
+
+<!--### Chisel and Chainsaw Ice Carving Competition
 
 We welcome our ice competitors. Watch the magic of chisels, imagination and artistic panache as these ice sculptors create beauty right before your eyes. **Award ceremony Sunday at 3 pm** on the Community Centre Main Stage.
 
