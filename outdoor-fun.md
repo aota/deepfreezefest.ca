@@ -103,7 +103,8 @@ Mischievous fairies, elves and ogres take over the facade of the Nina Haggerty C
 
 <hr>
 
-<!-- ### Deep Freeze Awards Ceremony
+<!-- 
+### Deep Freeze Awards Ceremony
 
 Please join us at 3 pm at the Alberta Ave Community Centre stage as we reveal the awards for:
 
@@ -128,4 +129,4 @@ _‘When a princess with the power to turn things into ice curses her home in in
 
 **Saturday at 6pm**
 
-Don Snider was a leader in the Edmonton arts community for more than two decades. He was the Production Manager of the Edmonton Folk Music Festival, amongst others, and an integral part of fireworks shows in Edmonton; First Night, Canada Day and Deep Freeze Festival. Don loved the sound, the feeling, the colour and the joy on people’s faces when the boom would begin echoing through the sky. This is the second annual fireworks show dedicated to Don and the legacy of joy he has left us with. “Life is beautiful.”
+Don Snider was a leader in the Edmonton arts community for more than two decades. He was the Production Manager of the Edmonton Folk Music Festival, amongst others, and an integral part of fireworks shows in Edmonton; First Night, Canada Day and Deep Freeze Festival. Don loved the sound, the feeling, the colour and the joy on people’s faces when the boom would begin echoing through the sky. This is the second annual fireworks show dedicated to Don and the legacy of joy he has left us with. “Life is beautiful.” -->
