@@ -8,7 +8,7 @@ published: true
 
 # Outdoor Fun Features
 
-## Byzantine Delights & Outdoor Fun!
+## Byzantine Delights
 
 ### Art Gallery Show and Sale
 
@@ -75,9 +75,27 @@ Greek Kitchen  |  À la carte menu and cash bar at the dance.
 
 Tickets are $10 for anyone aged 11 and up, and $5 for children aged 10 and under. Purchase tickets at the Carrot Community Arts Coffeehouse (9351–118 Ave), at the Festival Info Booths and the Northern Lights Beer Garden (Giant Igloo).
 
-<!--### Chisel and Chainsaw Ice Carving Competition
+## Outdoor Fun Features
 
-We welcome our ice competitors. Watch the magic of chisels, imagination and artistic panache as these ice sculptors create beauty right before your eyes. **Award ceremony Sunday at 3 pm** on the Community Centre Main Stage.
+### Chisel and Chainsaw Ice Carving Competition
+
+**Saturday & Sunday**
+
+We welcome our ice competitors. Watch the magic of chisels, imagination and artistic panache as these artists create amazing ice sculptures to this year’s theme of Fairies, Elves, and Ogres... Oh My! right before your very eyes. Vote for your favourite ice sculpture.
+
+### Frame Beauty
+
+**Saturday & Sunday**
+
+Find beauty in unexpected places. Head over to the northwest corner of the intersection of 92 Street and 118 Avenue and pick up one of our frames. Go wander anywhere around the Deep Freeze site and look for where you can ‘frame’ a beautiful part of the site. Place the frame and leave it there for others to enjoy! We can’t wait to see you what find! *Inspired by SoulPancake
+
+Use #DeepFreezeFest when posting your photos!
+
+### NEW! Mischievous Fairies Projection Mapping
+
+**Saturday 6:30 pm – 10:00 pm <br /> On the exterior of the Nina Haggerty Centre for the Arts Building (9225 – 118 Avenue)**
+
+Mischievous fairies, elves and ogres take over the facade of the Nina Haggerty Centre for the Arts through brilliant projector mapping by Owen Brierley and David Banks. Catch these fantastical creatures popping out of windows, jumping out of doors and sliding down balconies on Saturday from 6:30 pm – 9:30 pm. 
 
 
 
