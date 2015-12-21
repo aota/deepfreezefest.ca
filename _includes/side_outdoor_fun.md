@@ -1,4 +1,5 @@
 ![2016-outdoor1.jpg]({{site.baseurl}}/uploads/2016-outdoor1.jpg)
+caption?
 
 ![2016-outdoor2.jpg]({{site.baseurl}}/uploads/2016-outdoor2.jpg)
 
