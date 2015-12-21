@@ -6,7 +6,7 @@ published: true
 ---
 
 
-# Outdoor Fun Features
+# Byzantine Delights & Outdoor Fun Features
 
 ## Byzantine Delights
 
