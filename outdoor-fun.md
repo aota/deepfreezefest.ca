@@ -28,9 +28,22 @@ Located indoors at 11739 – 94 Street
 
 Come shop original and local at the artisan market. This unique arts market offers a spectacular collection of hand-crafted products from local artisans.
 
+OUR ARTISANS ARE: Kayi Chung, Julie Drew, Daniel Evans, Moon Kim (Moonk Studio), Jennifer Mikula (jj wool company), Kentia Naud (Terre Ferme Pottery), Chris Pearce (Ragnar the Trader), Thaddeus Rozak & Miao Hsuech (Fanciful Art), and Amanda Yakem.
+
+### L'hiver Visual Arts Gallery
+
+Saturday & Sunday
+The Carrot Community Arts Coffeehouse (9351 – 118 Avenue)
+
+Visit The Carrot Community Arts Coffeehouse to see this special January exhibition featuring artwork by several local Francophone and Ukrainian artists.
+
+PARTICIPATING ARTISTS: Luba Bilash, Karen Blanchet, Bernice Caligiuri, Doris Charest, Curtis Johnson, Mireille Peloquin, Val Semenko, and Oksana Zhelisko.
+
 <!--### Chisel and Chainsaw Ice Carving Competition
 
 We welcome our ice competitors. Watch the magic of chisels, imagination and artistic panache as these ice sculptors create beauty right before your eyes. **Award ceremony Sunday at 3 pm** on the Community Centre Main Stage.
+
+
 
 ### Deep Freeze Awards Ceremony
 
