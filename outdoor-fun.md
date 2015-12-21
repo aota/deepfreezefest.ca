@@ -83,6 +83,8 @@ Tickets are $10 for anyone aged 11 and up, and $5 for children aged 10 and under
 
 We welcome our ice competitors. Watch the magic of chisels, imagination and artistic panache as these artists create amazing ice sculptures to this year’s theme of Fairies, Elves, and Ogres... Oh My! right before your very eyes. Vote for your favourite ice sculpture.
 
+<hr>
+
 ### Frame Beauty
 
 **Saturday & Sunday**
@@ -91,15 +93,17 @@ Find beauty in unexpected places. Head over to the northwest corner of the inter
 
 Use #DeepFreezeFest when posting your photos!
 
+<hr>
+
 ### NEW! Mischievous Fairies Projection Mapping
 
 **Saturday 6:30 pm – 10:00 pm <br /> On the exterior of the Nina Haggerty Centre for the Arts Building (9225 – 118 Avenue)**
 
 Mischievous fairies, elves and ogres take over the facade of the Nina Haggerty Centre for the Arts through brilliant projector mapping by Owen Brierley and David Banks. Catch these fantastical creatures popping out of windows, jumping out of doors and sliding down balconies on Saturday from 6:30 pm – 9:30 pm. 
 
+<hr>
 
-
-### Deep Freeze Awards Ceremony
+<!-- ### Deep Freeze Awards Ceremony
 
 Please join us at 3 pm at the Alberta Ave Community Centre stage as we reveal the awards for:
 
@@ -119,34 +123,9 @@ Sleigh bells are ringing down the Avenue! Take a ride down memory lane with fami
 
 _‘When a princess with the power to turn things into ice curses her home in infinite winter, her sister, Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.’ (Run time: 102 minutes)_ 
 
-### The Return of the Vikings! Party
-
-**Saturday 7:00 – 11:00 pm  
-Alberta Ave Community Centre | 9210 – 118 Ave  
-$10 General Admission**
-
-While the Vikings again take over the Deep Freeze festivities on Saturday and Sunday, Reggae music fills the community centre on Saturday Night. Get your tickets early for a night of dancing to Tasman Jude and enjoy a delicious, authentic Italian meal. 
-
-Pre-festival ticket sales: Tix on the Square. (www.tixonthesquare.ca)
-La Famiglia Cucina  |  À la carte menu and cash bar at 
-the dance. Please note we cannot accommodate specialty dietary requests.
-
-Tickets are $10 for anyone aged 11 and up, and $5 for children aged 10 and under. Purchase tickets at the Carrot Coffeehouse (9351–118 Ave) or at the Festival Info Booths.
-
-### Pipon Village
-
-Our Aboriginal neighbours welcome you! Enjoy fancy dance, storytelling and warmth around the fire. Saturday & Sunday (92 St and 118 Ave).
 
 ### Fireworks Tribute to Don Snider
 
 **Saturday at 6pm**
 
 Don Snider was a leader in the Edmonton arts community for more than two decades. He was the Production Manager of the Edmonton Folk Music Festival, amongst others, and an integral part of fireworks shows in Edmonton; First Night, Canada Day and Deep Freeze Festival. Don loved the sound, the feeling, the colour and the joy on people’s faces when the boom would begin echoing through the sky. This is the second annual fireworks show dedicated to Don and the legacy of joy he has left us with. “Life is beautiful.”
-
-### Olde Tyme Curling
-
-The tradition continues as ice skating and curling are back on the Avenue. Don your wool sweater, do up your skates and brush off your broom. You can borrow skates (no cost) at the City of Edmonton Skate van. 
-
-### Dutch Snow Sculptors
-
-Deep Freeze welcomes Wilfred Stijger and Edith van de Wetering, from Katwijk, Netherlands. These two international snow sculptors travel the world transforming winter landscapes everwhere they go. We are excited to have them as our guests this year. In partnership with [Ice on Whyte](http://www.iceonwhyte.ca/). -->
