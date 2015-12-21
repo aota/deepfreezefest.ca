@@ -8,8 +8,6 @@ published: true
 
 # Outdoor Fun Features
 
-Check back in December for more info!
-
 ## Byzantine Delights & Outdoor Fun!
 
 ### Art Gallery Show and Sale
@@ -38,6 +36,35 @@ The Carrot Community Arts Coffeehouse (9351 – 118 Avenue)
 Visit The Carrot Community Arts Coffeehouse to see this special January exhibition featuring artwork by several local Francophone and Ukrainian artists.
 
 PARTICIPATING ARTISTS: Luba Bilash, Karen Blanchet, Bernice Caligiuri, Doris Charest, Curtis Johnson, Mireille Peloquin, Val Semenko, and Oksana Zhelisko.
+
+### Cool Runnin's Deep Freezer Races
+
+Saturday & Sunday 12:30 pm – 2:30 pm
+Head to Alberta Avenue Park (9210 – 118 Avenue) to catch the action!
+
+Come and join in the fun! Bring your friends and family for the ride of a lifetime. Teams of five (ages 12+) race toward the finish line to challenge for the fastest time. Bring helmets – deep freezers are provided. For more details and to apply, visit deepfreezefest.ca 
+
+### Winterus Maximus Chariot Races
+
+Saturday 7:00 pm – 9:00 pm
+Alberta Avenue Park (9210 –118 Avenue)
+
+Think Roman Gladiator chariots, meets chuckwagon racing meets dog sled racing. This event will include teams comprised of 2 fat bikes pulling a kicksled and kicksled pilot. In preparation for the official Winterus Maximus Chariot Races at the Flying Canoe Festival, teams are testing out their sleds for the first time at the Deep Freeze Byzantine Winter Festival in Alberta Avenue Park. kicksled team entries are either a team of 3 together; one sled pilot and two people each on a fat bike – or, a kicksled team will be paired with a 2-person fat bike team to race for glory and prizes. Come out and cheer on your favourite chariot team.
+
+### Melt the Deep Freeze Dance Party
+
+Saturday 7:00 pm – 11:00 pm
+FEATURING: Punch Drunk Cabaret
+Alberta Avenue Community Centre (9210–118 Avenue)
+
+While the fairies and elves take our the Deep Freeze Festivities on Saturday and Sunday, great rockabilly music by Punch Drunk Cabaret fills the community centre on Saturday Night. Get your tickets early for a great night of dancing to Punch Drunk Cabaret and enjoy a delicious, authentic Greek meal.  
+
+Sharply dressed festival favourites, Punch Drunk Cabaret mixes up a potent cocktail of rockabilly, outlaw country and steampunk swing, and delivers it with arena rock energy.
+
+Greek Kitchen  |  À la carte menu and cash bar at the dance.
+*Please note we cannot accommodate specialty dietary requests.
+
+Tickets are $10 for anyone aged 11 and up, and $5 for children aged 10 and under. Purchase tickets at the Carrot Community Arts Coffeehouse (9351–118 Ave), at the Festival Info Booths and the Northern Lights Beer Garden (Giant Igloo).
 
 <!--### Chisel and Chainsaw Ice Carving Competition
 
