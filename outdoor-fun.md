@@ -102,19 +102,23 @@ Use #DeepFreezeFest when posting your photos!
 Mischievous fairies, elves and ogres take over the facade of the Nina Haggerty Centre for the Arts through brilliant projector mapping by Owen Brierley and David Banks. Catch these fantastical creatures popping out of windows, jumping out of doors and sliding down balconies on Saturday from 6:30 pm – 9:30 pm. 
 
 <hr>
-
-<!-- 
+ 
 ### Deep Freeze Awards Ceremony
 
-Please join us at 3 pm at the Alberta Ave Community Centre stage as we reveal the awards for:
+**Sunday at 4:45 pm | Alberta Avenue Community Centre**
 
-1. Chisel & Chainsaw Competition
-1. Light Up the Ave
-1. The Thaw Hut Competition
+Please join us Sunday at 4:45 pm at the Alberta Avenue Community Centre as we present awards for:
 
-These artists and participants will have put in long hours as well as passion and dedication to their projects; help us congratulate them all for helping make Deep Freeze and Alberta Ave such a great place to be!
+- Fairies, Elves and Ogres... Oh My! Chisel and Chainsaw Ice Carving Challenge
+- Lampost Cozy Design Slam
+- Fairy Door Challenge
+- Deep Freeze Best Tourtière
 
-### Horse and Wagon Rides
+These artists and participants put in long creative hours, as well as passion and dedication to their projects. Come help us congratulate them for helping to make Deep Freeze Byzantine Winter Festival a great place to be!
+
+<hr>
+
+<!--### Horse and Wagon Rides
 
 Sleigh bells are ringing down the Avenue! Take a ride down memory lane with family and friends. Located on 92 Street (between 118 Ave & 119 Ave, east of the ice garden. Ride the wagon to dance and musical performances at Avenue Theatre. **Two drop off stops: Avenue Theatre and the Alberta Avenue Community Centre.** 
 
