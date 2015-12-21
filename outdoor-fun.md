@@ -12,50 +12,60 @@ published: true
 
 ### Art Gallery Show and Sale
 
-Saturday 12:00 pm – 6:00 pm  |  Sunday 12:00 pm – 6:00 pm
-Nina Haggerty Centre for the Arts Stollery Gallery (9225–118 Avenue)
+**Saturday 12:00 pm – 6:00 pm  |  Sunday 12:00 pm – 6:00 pm
+Nina Haggerty Centre for the Arts Stollery Gallery (9225–118 Avenue)**
 
 Free tea and scones reception Saturday 4:00pm – 6:00pm
 
 Welcome to the Deep Freeze Festival Gallery at the Nina Haggerty Centre for the Arts. All artworks presented are available for purchase with a portion of the proceeds going to support Deep Freeze. We hope you enjoy this year’s special juried exhibition.
 
+<hr>
+
 ### Artisan Village and Market
 
-Saturday 12:00 pm – 6:00 pm  |  Sunday 12:00 – 6:00 pm
-Located indoors at 11739 – 94 Street
+**Saturday 12:00 pm – 6:00 pm  |  Sunday 12:00 – 6:00 pm
+Located indoors at 11739 – 94 Street**
 
 Come shop original and local at the artisan market. This unique arts market offers a spectacular collection of hand-crafted products from local artisans.
 
 OUR ARTISANS ARE: Kayi Chung, Julie Drew, Daniel Evans, Moon Kim (Moonk Studio), Jennifer Mikula (jj wool company), Kentia Naud (Terre Ferme Pottery), Chris Pearce (Ragnar the Trader), Thaddeus Rozak & Miao Hsuech (Fanciful Art), and Amanda Yakem.
 
+<hr>
+
 ### L'hiver Visual Arts Gallery
 
-Saturday & Sunday
-The Carrot Community Arts Coffeehouse (9351 – 118 Avenue)
+**Saturday & Sunday
+The Carrot Community Arts Coffeehouse (9351 – 118 Avenue)**
 
 Visit The Carrot Community Arts Coffeehouse to see this special January exhibition featuring artwork by several local Francophone and Ukrainian artists.
 
 PARTICIPATING ARTISTS: Luba Bilash, Karen Blanchet, Bernice Caligiuri, Doris Charest, Curtis Johnson, Mireille Peloquin, Val Semenko, and Oksana Zhelisko.
 
+<hr>
+
 ### Cool Runnin's Deep Freezer Races
 
-Saturday & Sunday 12:30 pm – 2:30 pm
-Head to Alberta Avenue Park (9210 – 118 Avenue) to catch the action!
+**Saturday & Sunday 12:30 pm – 2:30 pm
+Head to Alberta Avenue Park (9210 – 118 Avenue) to catch the action!**
 
 Come and join in the fun! Bring your friends and family for the ride of a lifetime. Teams of five (ages 12+) race toward the finish line to challenge for the fastest time. Bring helmets – deep freezers are provided. For more details and to apply, visit deepfreezefest.ca 
 
+<hr>
+
 ### Winterus Maximus Chariot Races
 
-Saturday 7:00 pm – 9:00 pm
-Alberta Avenue Park (9210 –118 Avenue)
+**Saturday 7:00 pm – 9:00 pm
+Alberta Avenue Park (9210 –118 Avenue)**
 
 Think Roman Gladiator chariots, meets chuckwagon racing meets dog sled racing. This event will include teams comprised of 2 fat bikes pulling a kicksled and kicksled pilot. In preparation for the official Winterus Maximus Chariot Races at the Flying Canoe Festival, teams are testing out their sleds for the first time at the Deep Freeze Byzantine Winter Festival in Alberta Avenue Park. kicksled team entries are either a team of 3 together; one sled pilot and two people each on a fat bike – or, a kicksled team will be paired with a 2-person fat bike team to race for glory and prizes. Come out and cheer on your favourite chariot team.
 
+<hr>
+
 ### Melt the Deep Freeze Dance Party
 
-Saturday 7:00 pm – 11:00 pm
+**Saturday 7:00 pm – 11:00 pm
 FEATURING: Punch Drunk Cabaret
-Alberta Avenue Community Centre (9210–118 Avenue)
+Alberta Avenue Community Centre (9210–118 Avenue)**
 
 While the fairies and elves take our the Deep Freeze Festivities on Saturday and Sunday, great rockabilly music by Punch Drunk Cabaret fills the community centre on Saturday Night. Get your tickets early for a great night of dancing to Punch Drunk Cabaret and enjoy a delicious, authentic Greek meal.  
 
