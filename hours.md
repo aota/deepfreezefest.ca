@@ -7,11 +7,12 @@ published: true
 
 
 
+
 # Festival Hours
 
 ## Saturday, January 9, 2016
 
-Full Festival Running Noon - 10:00pm
+Full Festival Running 12:00 pm - 10:00 pm
 
 6:00 pm Fireworks (Alberta Avenue Park)
 
@@ -32,4 +33,3 @@ Full Festival Running 12:00-6:00 pm
 Pay what you can donation tubes are located around the festival site and accept cash donations. You can also donate one-time or monthly online at Canada Helps! Every dollar counts, so please donate what you can.
 
 <A HREF="https://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d109438"><IMG SRC="//www.canadahelps.org/image/DonateNowLink/en/Donate2.png" BORDER="0" ALT="Donate Now Through CanadaHelps.org!"/></A>
-
