@@ -1,6 +1,8 @@
 ---
 layout: map
-permalink: /location/
+permalink: /map/
+redirect_from:
+  - /location/
 title: Location
 headline: Festival Map
 lead: Discover all the great Deep Freeze venues on the map below.
