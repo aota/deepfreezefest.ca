@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 # Byzantine Delights & Outdoor Fun Features
 
 ## Byzantine Delights
@@ -74,6 +75,8 @@ Greek Kitchen  |  À la carte menu and cash bar at the dance.
 *Please note we cannot accommodate specialty dietary requests.
 
 Tickets are $10 for anyone aged 11 and up, and $5 for children aged 10 and under. Purchase tickets at the Carrot Community Arts Coffeehouse (9351–118 Ave), at the Festival Info Booths and the Northern Lights Beer Garden (Giant Igloo).
+
+<hr>
 
 ## Outdoor Fun Features
 
