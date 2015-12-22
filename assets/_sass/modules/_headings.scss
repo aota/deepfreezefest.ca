@@ -3,6 +3,7 @@ h1, .alpha {
 	font-size: $beta;
 	// font-family: $alt-font-family;
 	font-weight: 700;
+  letter-spacing: -1px;
   @media #{$small} {
     font-size: $alpha;
   }
@@ -12,6 +13,7 @@ h2, .beta {
 	color: $secondary-color;
 	font-size: $gamma;
   font-weight: normal;
+  letter-spacing: -1px;
   @media #{$small} {
     font-size: $beta;
   }
