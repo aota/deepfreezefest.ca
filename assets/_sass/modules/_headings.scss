@@ -1,5 +1,5 @@
 h1, .alpha {
-	color: #c4005b;
+	color: $magenta;
 	font-size: $beta;
 	// font-family: $alt-font-family;
 	font-weight: 700;
@@ -18,7 +18,7 @@ h2, .beta {
 }
 
 h3, .gamma {
-	color: $secondary-color;
+	color: $magenta;
 	font-size: $delta;
   font-weight: normal;
   @media #{$small} {
