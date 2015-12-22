@@ -1,5 +1,3 @@
-{% include downloads.html %}
-
 <h2>Venues</h2>
 <ol class="listless">
   <li><span class="ordinal ordinal-small">1</span> <a href="#stage-1">On The Street</a></li>
@@ -17,3 +15,5 @@
   <li><span class="ordinal ordinal-small">15</span> <a href="#stage-15">Northern Lights Family Beer Garden & Ice Bar</a></li>
   <li><span class="ordinal ordinal-small">16</span> <a href="#stage-16">Bedouin Beats Diamond Dream Stage</a></li>
 </ol>
+
+{% include downloads.html %}
