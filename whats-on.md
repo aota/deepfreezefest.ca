@@ -11,6 +11,7 @@ published: true
 
 
 
+
 # What's On!
 
 **Here's just a taste of some of the acts Deep Freeze has in store for you. Check back mid-December to download the full program.** 
@@ -25,7 +26,7 @@ Saturday, January 9, the Festival will bring back the Julian calendar and celebr
 
 On the street, families can enjoy Heritage Activities including wagon rides, outdoor ice-skating, Olde Thyme curling, winter mini golf, giant ice slide, and competition de boucheron (log cutting competition), along with street hockey tournaments and the popular Cool Runnins’ Deep Freezer Race. Further activities include demonstrations from the Society for Creative Anachronism (medieval role play), as well as storytelling, aboriginal dance and displays of aboriginal crafts and customs in outdoor Tipis.
 
-The Fairies get the party started on Saturday night with the **Fairies, Elves and Ogres... Oh My! Party!** Come down with your family and friends to enjoy a night of great food, awesome music and a lot of fun! Get your tickets in advance as this evening party has been known to sell out in the past with only limited tickets available at the door.
+The Fairies get the party started on Saturday night with the **Melt the Deep Freeze Dance Party!** Come down with your family and friends to enjoy a night of great food, awesome music and a lot of fun! Get your tickets in advance as this evening party has been known to sell out in the past with only limited tickets available at the door.
 
 ## January 10, 2016
 **118 Ave, 90 - 94 Street**
