@@ -6,23 +6,26 @@ published: true
 ---
 
 
+
 # Festival Hours
 
 ## Admission
 
-**The festival is free! There is no admission fee!**
+**The festival is supported by donation Come and pay what you can!**
 
-Pay what you can donation tubes are located around the festival site and accept cash donations.
+Pay what you can donation tubes are located around the festival site and accept cash donations. You can also donate one-time or monthly online at Canada Helps! Every dollar counts, so please donate what you can.
+
+<A HREF="https://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d109438"><IMG SRC="//www.canadahelps.org/image/DonateNowLink/en/Donate2.png" BORDER="0" ALT="Donate Now Through CanadaHelps.org!"/></A>
 
 ## Saturday, January 9, 2016
 
-Full Festival Running Noon - 6:00pm
+Full Festival Running Noon - 10:00pm
 
 6:00 pm Fireworks
 
 6:00-8:00 pm Ice skating, Ice bar, Ice Promenade, Ice slide, hotdog and marshmallow roast.
 
-7:00-11:00 pm Fairies, Elves and Ogres... Oh My! evening dance *Tickets required – available for purchase at the Carrot Coffeehouse or festival info booths.
+7:00-11:00 pm Melt the Deep Freeze Dance Party *Tickets required – available for purchase at the Carrot Coffeehouse or festival info booths.
 
 ## Sunday, January 10, 2016
 
