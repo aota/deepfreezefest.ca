@@ -6,11 +6,14 @@ published: true
 ---
 
 
+
 # News
 
 ## Next Volunteer Event: December 28, 2015
 
 Join us for our Volunteer games night on December 28 at 7:30 pm at The Carrot Community Arts Coffeehouse (9315 - 118 Avenue). **Bring your favorite boardgames and be prepared to have a great time!**
+
+<hr>
 
 ## Next Volunteer Event: December 1, 2015
 
@@ -18,11 +21,15 @@ Join us for our Volunteer concert and pizza party on December 1, featuring Lusit
 
 [RSVP Here!](https://www.eventbrite.ca/e/deep-freeze-volunteer-concertpizza-party-tickets-19661693655?utm_term=eventurl_text)
 
+<hr>
+
 ## VOLUNTEERS: SIGN UP AS A VOLUNTEER FOR A CHANCE TO WIN!!
 
 **Sign up by midnight this Sunday, November 29, 2015** to win 2 tickets to the Weeknd!! Tickets will be drawn 9:00 am Monday, November 30 for the show that night. 
 
 ![weekndjpg.jpg]({{site.baseurl}}/uploads/weekndjpg.jpg)
+
+<hr>
 
 ## Advanced Media Release - Nov 18, 2015
 
