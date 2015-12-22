@@ -17,7 +17,7 @@ Full Festival Running Noon - 10:00pm
 
 6:00-8:00 pm Ice skating, Ice bar, Ice Promenade, Ice slide, hotdog and marshmallow roast.
 
-7:00-11:00 pm Melt the Deep Freeze Dance Party *Tickets required – available for purchase at the Carrot Coffeehouse or festival info booths.
+7:00-11:00 pm Melt the Deep Freeze Dance Party _*Tickets required – available for purchase at the Carrot Coffeehouse or festival info booths._
 
 ## Sunday, January 10, 2016
 
