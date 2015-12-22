@@ -17,15 +17,15 @@
   font-family: $header-font-family;
 }
 .top-bar-section ul li > a {
-  font-size: emCalc(18px);
+  font-size: emCalc(16px);
   padding-top: 8px;
   padding-bottom: 8px;
   @media #{$topbar-media-query} {
-    font-size: emCalc(22px);
+    font-size: emCalc(20px);
   }
 }
 .top-bar-section .dropdown li a {
   @media #{$topbar-media-query} {
-    font-size: emCalc(20px);
+    font-size: emCalc(18px);
   }
 }
