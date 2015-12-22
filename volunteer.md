@@ -7,6 +7,7 @@ published: true
 ---
 
 
+
 ## Heart & Soul
 
 Volunteers are the heart and soul of Arts on the Ave. Hundreds of volunteers celebrate and create new traditions together on Alberta Avenue. Their tireless efforts make our festivals and community an inspiring piece of Edmonton’s cultural fabric. Join the revolution and inspire change through volunteering, read on!
@@ -19,11 +20,9 @@ We are in need of volunteer elves to help round up the crowds – outdoor, indoo
 
 For more information please email <deepfreezevolunteers@gmail.com>
 
-## Next Volunteer Event: December 1, 2015
+## Next Volunteer Event: December 28, 2015
 
-Join us for our Volunteer concert and pizza party on December 1, featuring Lusitania Lights! Doors at 6:30 pm at the Alberta Avenue Community Hall. (9210 - 118 Avenue). 
-
-[RSVP Here!](https://www.eventbrite.ca/e/deep-freeze-volunteer-concertpizza-party-tickets-19661693655?utm_term=eventurl_text)
+Join us for our Volunteer games night on December 28 at 7:30 pm at The Carrot Community Arts Coffeehouse (9315 - 118 Avenue). **Bring your favorite boardgames and be prepared to have a great time!**
 
 
 ## 7 Scientific Tips for Staying Warm in Cold Weather!
