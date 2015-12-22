@@ -17,6 +17,10 @@ layout: base
         {{ sidebar | markdownify }}
       {% when 'about.md' %}
         {% capture sidebar %}{% include side_about.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'hours.md' %}
+        {% capture sidebar %}{% include side_about.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
       {% when 'donate.md' %}
         {% capture sidebar %}{% include side_donate.md %}{% endcapture %}
         {{ sidebar | markdownify }}
