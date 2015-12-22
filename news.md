@@ -6,10 +6,11 @@ published: true
 ---
 
 
-
-
-
 # News
+
+## Next Volunteer Event: December 28, 2015
+
+Join us for our Volunteer games night on December 28 at 7:30 pm at The Carrot Community Arts Coffeehouse (9315 - 118 Avenue). **Bring your favorite boardgames and be prepared to have a great time!**
 
 ## Next Volunteer Event: December 1, 2015
 
