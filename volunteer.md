@@ -8,9 +8,12 @@ published: true
 
 
 
+
 ## Heart & Soul
 
 Volunteers are the heart and soul of Arts on the Ave. Hundreds of volunteers celebrate and create new traditions together on Alberta Avenue. Their tireless efforts make our festivals and community an inspiring piece of Edmonton’s cultural fabric. Join the revolution and inspire change through volunteering, read on!
+
+<hr>
 
 ## This year's theme
 
