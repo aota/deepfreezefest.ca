@@ -13,7 +13,7 @@ published: true
 **Saturday**: 12:00 pm – 10:00 pm
 
 - Ice & Snow Kingdom 12:00 pm – 8:00 pm  
-- Mishcevious Fairies Projector Mapping 6:30 pm - 10:00 pm
+- Mischevious Fairies Projector Mapping 6:30 pm - 10:00 pm
 - Melt the Deep Freeze Dance Party: 7:00 pm – 11:00 pm
 
 **Sunday**: 12:00 pm – 6:00 pm
