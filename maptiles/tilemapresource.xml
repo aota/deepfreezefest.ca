@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>DF-map-2016-ELI.png.tif</Title>
+      <Title>DF-map-2016.png.tif</Title>
       <Abstract></Abstract>
       <SRS>PROJCS["unnamed",GEOGCS["unnamed ellipse",DATUM["unknown",SPHEROID["unnamed",6378137,0]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]]]</SRS>
-      <BoundingBox minx="-20037508.33999999985099" miny="-49995004.57898574322462" maxx="20037508.33999999985099" maxy="-16665001.52630000002682"/>
-      <Origin x="-20037508.33999999985099" y="-49995004.57898574322462"/>
+      <BoundingBox minx="-20037508.33999999985099" miny="-50004814.09824206680059" maxx="20037508.33999999985099" maxy="-16668271.36610000021756"/>
+      <Origin x="-20037508.33999999985099" y="-50004814.09824206680059"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="raster">
-        <TileSet href="0" units-per-pixel="308343.48010579467518" order="0"/>
-        <TileSet href="1" units-per-pixel="154171.74005289733759" order="1"/>
-        <TileSet href="2" units-per-pixel="77085.87002644866880" order="2"/>
-        <TileSet href="3" units-per-pixel="38542.93501322433440" order="3"/>
-        <TileSet href="4" units-per-pixel="19271.46750661216720" order="4"/>
-        <TileSet href="5" units-per-pixel="9635.73375330608360" order="5"/>
+        <TileSet href="0" units-per-pixel="237218.00476507583517" order="0"/>
+        <TileSet href="1" units-per-pixel="118609.00238253791758" order="1"/>
+        <TileSet href="2" units-per-pixel="59304.50119126895879" order="2"/>
+        <TileSet href="3" units-per-pixel="29652.25059563447940" order="3"/>
+        <TileSet href="4" units-per-pixel="14826.12529781723970" order="4"/>
+        <TileSet href="5" units-per-pixel="7413.06264890861985" order="5"/>
       </TileSets>
     </TileMap>
     
