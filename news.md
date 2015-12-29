@@ -17,8 +17,10 @@ Please join us **Wednesday, January 6 at 1 pm as we kick-off the 9th Annual Deep
 
 Fairies, Elves and Ogres… OH MY! inhabit 118 Ave January 9 & 10. We have some fabulous events planned for a weekend of family fun on the Ave. Each year your support has allowed Deep Freeze Byzantine Winter Festival to succeed and grow. For that, we thank you. We look forward to seeing you on January 6th! 
 
+[PDF for download](https://www.dropbox.com/s/d7l5hbpaeqo8cq4/DF2016-News-Dec28.pdf?dl=0)
+
 _**Please RSVP to Kate Hamblin, Bottom Line Productions by January 4, 2016. 
-E: kate[at]bottomlinepro.com**_
+<br / > E: kate[at]bottomlinepro.com**_
 
 
 
