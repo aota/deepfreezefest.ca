@@ -9,6 +9,7 @@ published: true
 
 
 
+
 # About
 
 ## Deep Freeze: A Byzantine Winter Festival
@@ -30,10 +31,12 @@ Take a peek at what our winter festival has to offer and then come enjoy it in p
 
 <hr>
 
-Arts on the Ave is revitalizing and bringing life to 118 Avenue. View the story by ShawTV here. 
+Global News spot for Deep Freeze Byzantine Winter Festival. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9dveEj2NnoI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AapRQ7g7dI4" frameborder="0" allowfullscreen></iframe>
 
 <hr>
 
-<iframe width="420" height="236" src="//www.youtube.com/embed/MeE6-7bGCt8" frameborder="0" allowfullscreen></iframe>
+Arts on the Ave is revitalizing and bringing life to 118 Avenue. View the story by ShawTV here. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9dveEj2NnoI" frameborder="0" allowfullscreen></iframe>
