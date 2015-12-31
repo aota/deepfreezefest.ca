@@ -30,6 +30,8 @@ Take a peek at what our winter festival has to offer and then come enjoy it in p
 
 <hr>
 
+Arts on the Ave is revitalizing and bringing life to 118 Avenue. View the story by ShawTV here. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9dveEj2NnoI" frameborder="0" allowfullscreen></iframe>
 
 <hr>
