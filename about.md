@@ -22,7 +22,7 @@ Deep Freeze Winter Festival is **FREE!** Please **donate what you can** one-time
 
 <A HREF="https://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d109438"><IMG SRC="//www.canadahelps.org/image/DonateNowLink/en/Donate2.png" BORDER="0" ALT="Donate Now Through CanadaHelps.org!"/></A>
 
-## Deep Freeze Promo Video
+## Recent Media about Deep Freeze and Arts on the Ave
 
 Take a peek at what our winter festival has to offer and then come enjoy it in person with your family and friends!
 
