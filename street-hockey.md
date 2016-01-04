@@ -25,7 +25,7 @@ The tournament consists of round-robin play as well as playoffs. The round-robin
 
 To register your team, please email deepfreezehockey@gmail.com.
 
-**Registration deadline is Noon on January 7, 2016** 
+**EXTENDED! Registration deadline is Noon on January 7, 2016** 
 
 ### Application Form
 
