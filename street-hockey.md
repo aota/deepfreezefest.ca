@@ -8,6 +8,7 @@ published: true
 
 
 
+
 # Street Hockey Tournament
 
 ## The Street Hockey Tourney is back!
@@ -24,7 +25,7 @@ The tournament consists of round-robin play as well as playoffs. The round-robin
 
 To register your team, please email deepfreezehockey@gmail.com.
 
-**Registration deadline is Noon on January 4, 2016** (Late submissions will be accepted if space allows).
+**Registration deadline is Noon on January 7, 2016** 
 
 ### Application Form
 
