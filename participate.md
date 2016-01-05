@@ -7,6 +7,7 @@ published: true
 
 
 
+
 # Participate
 Get outside and have a fantastic time!
 
@@ -84,9 +85,7 @@ For more information contact: <deepfreezeice@gmail.com>
 
 ## Street Hockey Tournament
 
-**Registration deadline is Noon on January 4, 2016**
-
-Late submissions will be accepted if space allows.
+**Registration deadline is Noon on January 7, 2016**
 
 To register your team, please email: <deepfreezehockey@gmail.com>.
 
