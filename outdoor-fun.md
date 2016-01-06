@@ -115,6 +115,8 @@ Saturday, January 9 | 6:00 pm | Behind the Alberta Avenue Community Centre**
 Fire Dancers and Chinese Lions lead us to the Fireworks, which will be followed by the amazing fairy-inspired massive projection on the Nina Haggerty Centre for the Arts!! So much wonder in a single evening. 
 
 Don Snider was a leader in the Edmonton arts community and an integral part of fireworks shows in Edmonton. Don loved people, the arts… Don loved life. This is the fourth annual fireworks show dedicated to Don and the legacy of joy he has left us with. “Life is beautiful.”
+
+<hr>
  
 ### Deep Freeze Awards Ceremony
 
