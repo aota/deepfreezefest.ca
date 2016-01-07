@@ -1,29 +1,13 @@
 ---
 layout: base
 title: "Deep Freeze: A Byzantine Winter Festival"
-banner: 
+banner:
   - /assets/img/banner.jpg
 published: true
 ---
 
-
-
-
-
-
-{% comment %}
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
-{% endcomment %}
-
 <div class="row">
-  <div class="column l-mb">
+  <div class="large-8 columns l-mb">
     <h1>Fairyland!</h1>
     <h2>Fairies, Elves and Ogres...Oh My!! </h2>
     <p>The ninth-annual Deep Freeze Byzantine Winter Festival features Fairies and Elves and Ogres...Oh My!!  Join us Saturday &amp; Sunday January 9 &amp; 10, 2016 and embrace the cold northern climate by enjoying artistic panache and authentic cultural and heritage winter games and fun. Don't miss out on this amazing weekend and as the saying goes...Deep within the winter forest among the snowdrift wide, you can find a magic place where all the fairies hide....</p>
@@ -33,6 +17,10 @@ published: true
 
     <p><A HREF="https://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d109438"><IMG SRC="//www.canadahelps.org/image/DonateNowLink/en/Donate2.png" BORDER="0" ALT="Donate Now Through CanadaHelps.org!"/></A></p>
 
+  </div>
+  <div class="large-4 columns l-mb">
+    {% capture global_side %}{% include side_global.md %}{% endcapture %}
+    {{ global_side | markdownify }}
   </div>
 </div>
 
