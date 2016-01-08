@@ -17,3 +17,6 @@
 </ol>
 
 {% include downloads.html %}
+
+<h2>Sports Central donation box</h2>
+<p>Do you have old sports equipment that's taking up space in your basement or garage?  Donate it to Sport Central at the Deep Freeze Festival!! The Sports Central donation box will be placed at the front doors of the Alberta Avenue Community Hall on <strong>Saturday and Sunday from Noon until 6:00pm</strong>.</p>
