@@ -12,13 +12,60 @@ published: true
 
 h1. Sponsors
 
-h2. Glacier Peak Sponsors
-
 Special thanks to all those who support our festival.
 
 <img src="{{ site.uploads }}sponsors.jpg" alt="Deep Freeze sponsors logos">
 
-{% comment %}  
+<div class="row">
+  <div class="columns large-6">
+
+    <ul>
+      <li>Actual Security Inc.</li>
+      <li>Arts of Life Studio </li>
+      <li>Bottom Line Productions</li>
+      <li>Councillor Scott McKeen</li>
+      <li>Downtown Auto</li>
+      <li>Dr. Dave Milner</li>
+      <li>Epic Photography</li>
+      <li>FloCiety</li>
+      <li>i.d. apparel</li>
+      <li>Ice Works</li>
+      <li>Ice on Whyte Festival</li>
+      <li>Italian Bakery</li>
+      <li>Jasper National Park</li>
+      <li>MADE</li>
+      <li>MB Consulting Services</li>
+      <li>McCallum Printing</li>
+      <li>Mr. & Mrs. Bots</li>
+    </ul>
+
+  </div>
+  <div class="columns large-6">
+
+    <ul>
+      <li>Nightlife</li>
+      <li>North East Rotary Club</li>
+      <li>Northern Lights Medical Venturers</li>
+      <li>Odin’s Ravens</li>
+      <li>Pho King </li>
+      <li>Popular Bakery</li>
+      <li>Edmonton ReUse Centre</li>
+      <li>Safeway</li>
+      <li>SERVUS Credit Union</li>
+      <li>SERVUS Heritage Festival</li>
+      <li>Sign-X Ltd.</li>
+      <li>Society for Creative Anachronism</li>
+      <li>WePhysio</li>
+      <li>Widynowski’s Sausage Factory</li>
+      <li>Williams Engineering</li>
+      <li>XL Furniture</li>
+    </ul>
+
+  </div>
+</div>
+
+
+{% comment %}
 <div class="row">
 <div class="columns large-6">
 
@@ -70,44 +117,6 @@ Special thanks to all those who support our festival.
   </div>
 </div>
 
-
-
 h2. Summit Ridge Sponsors
 
-<div class="row">
-  <div class="columns large-6">
-
-    <ul>
-      <li><a title="Bottom Line Productions" href="http://www.bottomlinepro.com" target="_blank">Bottom Line Productions</a></li>
-      <li>Canadian Brewhouse</li>
-      <li>D.A Morin</li>
-      <li>Listen Louder Productions</li>
-      <li>Restore Habitat for Humanity</li>
-      <li>Iceworks</li>
-      <li>Ice on Whyte Festival</li>
-      <li>Italian Bakery</li>
-      <li>Moosehead Brewery </li>
-      <li><a title="Nightlife" href="http://www.nightlifeposter.com" target="_blank">Nightlife</a></li>
-      <li>Odin's Ravens</li>
-    </ul>
-
-  </div>
-  <div class="columns large-6">
-
-    <ul>
-      <li>Popular Bakery </li>
-      <li>Rebel Heart</li>
-      <li>Save-On Foods, Stadium</li>
-      <li>Sign-X Ltd. </li>
-      <li>Solar Energy</li>
-      <li>Society of Alberta Stross Management Ltd </li>
-      <li>The Edmonton Oilers</li>
-      <li>The Edmonton Oilers Alumni</li>
-      <li>Widynowski’s Sausage Factory</li>
-      <li><a title="Williams Engineering" href="http://www.williamsengineering.com" target="_blank">Williams Engineering</a></li>
-      <li><a title="Zando & Jot" href="http://zandoandjot.com" target="_blank">zando & jot</a></li>
-    </ul>
-
-  </div>
-</div>
 {% endcomment %}
