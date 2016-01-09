@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>DF-map-2016.png.tif</Title>
+      <Title>DF-map-2016-new.png.tif</Title>
       <Abstract></Abstract>
       <SRS>PROJCS["unnamed",GEOGCS["unnamed ellipse",DATUM["unknown",SPHEROID["unnamed",6378137,0]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]]]</SRS>
-      <BoundingBox minx="-20037508.33999999985099" miny="-50004814.09824206680059" maxx="20037508.33999999985099" maxy="-16668271.36610000021756"/>
-      <Origin x="-20037508.33999999985099" y="-50004814.09824206680059"/>
+      <BoundingBox minx="-20037508.33999999985099" miny="-47391709.51444853842258" maxx="20037508.33999999985099" maxy="-15797236.50479999929667"/>
+      <Origin x="-20037508.33999999985099" y="-47391709.51444853842258"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="raster">
         <TileSet href="0" units-per-pixel="237218.00476507583517" order="0"/>
