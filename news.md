@@ -14,7 +14,7 @@ published: true
 
 ## Thank You Volunteers - February 1, 2016
  
-THank you volunteers for another wonderful year! YOU helped 32,000 visitors have an AMAZING Deep Freeze experience. See you at [Kaleido!](http://kaleidofest.ca)
+Thank you volunteers for another wonderful year! YOU helped 32,000 visitors have an AMAZING Deep Freeze experience. See you at [Kaleido!](http://kaleidofest.ca)
 
 ![volunteer-thanks2.jpg]({{site.baseurl}}/uploads/volunteer-thanks2.jpg)
 
