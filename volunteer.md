@@ -16,13 +16,15 @@ Volunteers are the heart and soul of Arts on the Ave. Hundreds of volunteers cel
 
 <hr>
 
-## This year's theme
+## Thank you 2016 volunteers
 
-The theme this year is **Fairyland: Fairies and Elves and Ogres...Oh My!!** We’ll be bringing dance, theatre, music, film, galleries, deepfreezer races, ethnic food, ice and snow sculptures, fireworks and winter sport to Alberta Ave!
+Thank you to all of our 2016 volunteers, you helped 32,000 visitors have an AMAZING Deep Freeze experience. See you all in 2017!
+
+<!--The theme this year is **Fairyland: Fairies and Elves and Ogres...Oh My!!** We’ll be bringing dance, theatre, music, film, galleries, deepfreezer races, ethnic food, ice and snow sculptures, fireworks and winter sport to Alberta Ave!
 
 We are in need of volunteer elves to help round up the crowds – outdoor, indoor, before, during, after. Take your pick! Also need ogres (security), sprites (information ambassadors), and fairies (team leaders) ushers and gnomes (fire watchers).
 
-For more information please email <deepfreezevolunteers@gmail.com>
+For more information please email <deepfreezevolunteers@gmail.com> -->
 
 <hr>
 
