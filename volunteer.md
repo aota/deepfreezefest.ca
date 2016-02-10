@@ -10,6 +10,7 @@ published: true
 
 
 
+
 ## Heart & Soul
 
 Volunteers are the heart and soul of Arts on the Ave. Hundreds of volunteers celebrate and create new traditions together on Alberta Avenue. Their tireless efforts make our festivals and community an inspiring piece of Edmonton’s cultural fabric. Join the revolution and inspire change through volunteering, read on!
@@ -19,6 +20,8 @@ Volunteers are the heart and soul of Arts on the Ave. Hundreds of volunteers cel
 ## Thank you 2016 volunteers
 
 Thank you to all of our 2016 volunteers, you helped 32,000 visitors have an AMAZING Deep Freeze experience. See you all in 2017!
+
+![volunteer-thanks2.jpg]({{site.baseurl}}/uploads/volunteer-thanks2.jpg)
 
 <!--The theme this year is **Fairyland: Fairies and Elves and Ogres...Oh My!!** We’ll be bringing dance, theatre, music, film, galleries, deepfreezer races, ethnic food, ice and snow sculptures, fireworks and winter sport to Alberta Ave!
 
