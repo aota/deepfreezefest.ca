@@ -1,6 +1,6 @@
 permalink: /log/:title/
 relative_permalinks: false
-markdown: rdiscount
+markdown: kramdown
 timezone: America/Edmonton
 exclude: [.gitignore, .editorconfig, Gemfile, Gemfile.lock, README.md, 'sass', togeo.py]
 

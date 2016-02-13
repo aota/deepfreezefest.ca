@@ -10,7 +10,7 @@ published: true
   If there are any issues with this it probably just needs to be a straight HTML page.
 {% endcomment %}
 
-h1. Sponsors
+# Sponsors
 
 Special thanks to all those who support our festival.
 
@@ -117,6 +117,6 @@ Special thanks to all those who support our festival.
   </div>
 </div>
 
-h2. Summit Ridge Sponsors
+## Summit Ridge Sponsors
 
 {% endcomment %}
